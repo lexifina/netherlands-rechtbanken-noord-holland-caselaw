@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBALK:2004:AO5509"
-published_in: ["Rechtspraak.nl", "JOW 2005, 1", "FutD 2004-0358 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "JOW 2005, 1"]
 ---
 
 # ECLI:NL:RBALK:2004:AO5509 Rechtbank Alkmaar , 19-02-2004 / 14.060137-02
