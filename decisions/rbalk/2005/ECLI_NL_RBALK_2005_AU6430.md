@@ -1,0 +1,107 @@
+---
+ecli: "ECLI:NL:RBALK:2005:AU6430"
+court: "Rechtbank Alkmaar"
+court_code: "RBALK"
+docket: "14.038043-04"
+decided: "2005-11-18"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBALK:2005:AU6430"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBALK:2005:AU6430 Rechtbank Alkmaar , 18-11-2005 / 14.038043-04
+
+## Inhoudsindicatie
+
+Onderzoek heropend en geschorst; hervatting op 16 december 2005 om 10.00 uur
+
+## Uitspraak
+
+RECHTBANK  ALKMAAR
+
+Parketnummers	:	14.038043-04
+
+Datum uitspraak:	18 november 2005
+
+OP TEGENSPRAAK
+
+INTERLOCUTOIR VONNIS  van de rechtbank te Alkmaar, Meervoudige Economische Kamer voor Strafzaken, in de zaak tegen:
+
+[verdachte],
+
+Gevestigd te [woonplaats en adres].
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de terechtzittingen van 17 januari 2005, 26 april 2005, 6 juli 2005, 19 oktober 2005, 3 en 4 november 2005.
+
+De rechtbank heeft acht geslagen op hetgeen door de officier van justitie, de gemachtigde van verdachte en mr. D.W.H.M. Wolters, de raadsman van de verdachte, naar voren is gebracht.
+
+1.	TENLASTELEGGING
+
+Aan de verdachte is, nadat ter terechtzitting van 26 april jl. een vordering van de officier van justitie strekkende tot wijziging van de tenlastelegging is toegelaten, tenlastegelegd dat
+
+1.
+
+zij in de periode van 24 tot en met 29 augustus 1999 te Sint Pancras, en/ of te Schiphol, gemeente Haarlemmermeer, in elk geval in Nederland, tezamen en in vereniging met een ander(e) perso(o)n(en) en / of rechtsperso(o)n(en), althans alleen, al dan niet opzettelijk 6, althans een of meer, MKS Baratron Absolute Capacitance Manometer(s) (van het type 622A(X)13TDE), zijnde (een) drukomzetter(s), althans (een) goed(eren), (dat is) (die zijn) aangewezen in bijlage I bij besluit nr. 94/942/GBVB van de Raad van de Europese Unie, zonder vergunning van Onze Minister van Economische Zaken, dan wel zonder geldige in een andere lid-staat van de Europese Unie afgegeven vergunning, heeft uitgevoerd dan wel doen uitvoeren;
+
+2.
+
+2. 	primair
+
+zij in de periode van 21 augustus 2001 tot 1 augustus 2002 11.000, althans 9.000, althans een hoeveelheid O-ringen Viton 70° shore, (deze goederen) te Sint Pancras en/ of te Schiphol, gemeente Haarlemmermeer, in elk geval in Nederland tezamen en in vereniging met een ander(e) perso(o)n(en) en / of rechtsperso(o)n(en), althans alleen, al dan niet opzettelijk, heeft uitgevoerd en/of doen uitvoeren (telkens) zonder vergunning,
+
+ten aanzien van welke (9.000) O-ringen van Viton (met hardheid) 70° shore Onze Minister van Economische zaken bij beschikking van 10 augustus 2001 en/of 14 augustus 2001 ("catch all") op grond van artikel 2a lid 6 In- en Uitvoerwet heeft bepaald dat bij de uitvoer van deze goederen (met eindbestemming Pakistan) een vergunning verplicht is,
+
+zijnde, die O-ringen, goederen waarvoor aanwijzingen bestaan dat die zowel een civiele als een militaire bestemming kunnen hebben en waarvoor geen verbod op de uitvoer zonder vergunning van Onze Minister van Economische Zaken geldt, en die na te zijn uitgevoerd in het land van bestemming zullen of kunnen worden gebruikt om bij te dragen tot de ontwikkeling, de produktie, de behandeling en bediening, het onderhoud, de opslag, de opsporing, de identificatie of de verspreiding van chemische, biologische of nucleaire wapens of tot de ontwikkeling, de produktie, het onderhoud of de opslag van raketten die dergelijke wapens naar een doel kunnen voeren;
+
+2. subsidiair
+
+zij in de periode van 1 augustus 2002 tot en met 2 december 2002 11.000, althans 9.000, althans een hoeveelheid O-ringen Viton 70° shore, (deze goederen) te Sint Pancras en/of te Schiphol, gemeente Haarlemmermeer, in elk geval in Nederland tezamen en in vereniging met een ander(e) perso(o)n(en) en/of rechtsperso(o)n(en), althans alleen, al dan niet opzettelijk, heeft uitgevoerd en/of doen uitvoeren en/of doen uitgaan (telkens) zonder vergunning,
+
+ten aanzien van welke (9.000) O-ringen (van) Viton (met hardheid) 70° shore Onze Minister van Economische Zaken bij beschikking van 10 augustus 2001 en / of 14 augustus 2001 ("catch all") op grond van artikel 2a lid 6 In- en Uitvoerwet heeft bepaald dat bij de uitvoer van deze goederen een vergunning verplicht is, en heeft bepaald dat de uitvoer van deze goederen uit Nederland (met eindbestemming Pakistan) zonder vergunning verboden is,
+
+zijnde, die O-ringen, goederen waarvoor geen verbod op de uitvoer zonder vergunning van Onze Minister van Economische Zaken geldt op grond van een uitvoerbesluit of een regeling als bedoeld in artikel 2, vierde lid, of 7, eerste lid, voor welke goederen de Minister van Economische Zaken ter uitvoering van verdragen of van bindende besluiten van volkenrechtelijke organisaties regels heeft gesteld ten aanzien van de uitvoer en de wederuitvoer;
+
+3.
+
+zij
+
+- in de periode van 14 februari 2002 tot en met 15 februari 2002 twee 234420TN 	(9)/SP SKF kogeltaatslagers en / of een E15 SKF magneetkogellager en/of
+
+- in de periode van 18 maart 2002 tot 31 juli 2002 vierentwintig, in elk geval een of meer, kogellager(s) (12  kogellagers FAFNIR 2 mm 205WI SUL en 12 kogellagers FAFNIR 2 mm 206 WI SUL), (deze goederen) te Sint Pancras en/of te Schiphol, gemeente Haarlemmermeer, in elk geval in Nederland, tezamen en in vereniging met een ander(e) perso(o)n(en) en/of rechtsperso(o)n(en), althans alleen, al dan niet opzettelijk, heeft uitgevoerd en/of doen uitvoeren zonder vergunning,
+
+ten aanzien van welke lagers, waaronder kogellagers, naaldlagers en rollagers, Onze Minister van Economische zaken bij beschikking van 12 december 2001 en/of bij beschikking van 8 januari 2002 ("catch all") op grond van artikel 2a lid 6 In- en Uitvoerwet heeft bepaald dat bij de uitvoer van deze goederen (met eindbestemming Pakistan) een vergunning verplicht is,
+
+zijnde, die lagers, goederen, waarvoor aanwijzingen bestaan dat die zowel een civiele als een militaire bestemming kunnen hebben en waarvoor geen verbod op de uitvoer zonder vergunning van Onze Minister van Economische Zaken geldt, en die na te zijn uitgevoerd in het land van bestemming zullen of kunnen worden gebruikt om bij te dragen tot de ontwikkeling, de produktie, de behandeling en bediening, het onderhoud, de opslag, de opsporing, de identificatie of de verspreiding van chemische, biologische of nucleaire wapens of tot de ontwikkeling, de produktie, het onderhoud of de opslag van raketten die dergelijke wapens naar een doel kunnen voeren;
+
+4.
+
+zij in de periode van 24 juli 2002 tot en met 15 oktober 2002 te Sint Pancras, en / of te Schiphol, gemeente Haarlemmermeer, in elk geval in Nederland, tezamen en in vereniging met een ander(e) perso(o)n(en) en/of rechtsperso(o)n(en), althans alleen, al dan niet opzettelijk, (4 hoeveelheden van 2 x 2,5 kilogram, zijnde) ongeveer 20 kilogram Triethanolamine, (97 % (Assay)) althans (een) goed(eren), (dat is) (die zijn) aangewezen in bijlage I bij verordening (EG) nr. 1334/2000 (post 1C 350. 46), zonder communautaire algemene uitvoervergunning bedoeld in artikel 6, eerste lid, van verordening (EG) nr. 1334/2000, dan wel zonder vergunning van Onze Minister, of zonder geldige, in een andere lidstaat van de Europese Unie afgegeven vergunning, heeft uitgevoerd dan wel doen uitvoeren;
+
+5.
+
+zij in de periode van 01 januari 1999 tot en met 03 juli 1999, althans op of omstreeks 3 juli 1999 te Sint Pancras, en/of te Schiphol, gemeente Haarlemmermeer, in elk geval in Nederland,  tezamen en in vereniging met een ander(e) perso(o)n(en) en/of rechtsperso(o)n(en), althans alleen, al dan niet opzettelijk 2, althans een of meer dozen met daarin ongeveer 104, althans een of meer stuks grafiet, althans (een) goed(eren), (dat is) (die zijn) aangewezen in bijlage I bij besluit nr. 94/942/GBVB van de Raad van de Europese Unie, zonder vergunning van Onze Minister van Economische Zaken, dan wel zonder geldige in een andere lid-staat van de Europese Unie afgegeven vergunning, heeft uitgevoerd dan wel doen uitvoeren.
+
+2.	OVERWEGINGEN
+
+De rechtbank constateert dat zij sedert de sluiting van het onderzoek ter terechtzitting op 4 november 2005 in de onderhavige zaak, die meer dan normale aandacht vergt, onvoldoende tijd heeft kunnen besteden aan de beraadslaging en het formuleren van het vonnis. Uit een oogpunt van een behoorlijke rechtspleging is het naar het oordeel van de rechtbank van belang dat het onderzoek ter terechtzitting wordt heropend opdat zij in de gelegenheid zal zijn de aangevangen beraadslaging te voltooien en haar beslissingen op de bij de wet voorgeschreven wijze in een schriftelijk vonnis neer te leggen.
+
+Het onderzoek ter terechtzitting zal derhalve worden heropend en vervolgens worden geschorst tot de terechtzitting van vrijdag 16 december a.s. te 10.00 uur. Op die datum en dat tijdstip zal verdachte in de gelegenheid worden gesteld, desgewenst, andermaal het laatste woord te voeren, waarna het onderzoek ter terechtzitting zal worden gesloten en op diezelfde dag vervolgens om 13.30 uur het vonnis ter openbare terechtzitting zal worden uitgesproken. Met dien verstande dat die uitspraak op een ander tijdstip zal kunnen worden bepaald indien hetgeen door verdachte op 16 december 2005 in het laatste woord naar voren wordt gebracht daartoe naar het oordeel van de rechtbank aanleiding geeft.
+
+3.	BESLISSING
+
+Heropent het onderzoek.
+
+Schorst  het onderzoek  en bepaalt dat de behandeling zal worden hervat ter terechtzitting van  16 december 2005 te 10.00 uur.
+
+Beveelt de oproeping van verdachte tegen bovengenoemde terechtzitting met afschrift van die oproeping aan de raadsman van verdachte.
+
+Houdt iedere verdere beslissing aan.
+
+Dit vonnis is gewezen door
+
+mr. R.F.B. van Zutphen, voorzitter,
+
+mr. A.J. Dondorp en mr. Ph. Burgers, rechters, in tegenwoordigheid van mr. A. de Graag, griffier, en uitgesproken op de openbare terechtzitting van deze rechtbank van 18 november 2005.
