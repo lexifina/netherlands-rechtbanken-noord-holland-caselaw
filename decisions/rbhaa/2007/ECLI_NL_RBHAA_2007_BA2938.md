@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Raadkamer"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBHAA:2007:BA2938"
-published_in: ["Rechtspraak.nl", "NJFS 2007, 174", "NBSTRAF 2007/205"]
+published_in: ["Rechtspraak.nl", "NJFS 2007, 174", "NbSr 2007/205", "AA20070798 met annotatie van Borgers M.J."]
 cites_law: ["netherlands/national/acts/wetboek-van-strafvordering/art-065.md", "netherlands/national/acts/wetboek-van-strafvordering/art-067.md", "netherlands/national/acts/wetboek-van-strafvordering/art-067a.md"]
 ---
 
