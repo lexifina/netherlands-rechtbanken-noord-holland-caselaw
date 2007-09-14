@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBHAA:2007:BB3783"
-published_in: ["Rechtspraak.nl", "RN 2007, 110", "V-N 2008/6.2.4", "Vp-bulletin 2007, 58 met annotatie van Redactie", "FutD 2007-1815 met annotatie van Fiscaal up to Date"]
+published_in: ["Rechtspraak.nl", "RN 2007, 110", "V-N 2008/6.2.4", "Vp-bulletin 2007, 58", "NTFR 2007/1752", "FutD 2007-1815", "Viditax (FutD) 2007092506"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2008:BG8927, Bekrachtiging/bevestiging"]]
 ---
 
