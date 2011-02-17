@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBHAA:2011:BP5392"
-published_in: ["Rechtspraak.nl", "RAR 2011/67", "AR-Updates.nl 2011-0151"]
+published_in: ["Rechtspraak.nl", "RAR 2011/67", "AR-Updates.nl 2011-0151", "VAAN-AR-Updates.nl 2011-0151"]
 ---
 
 # ECLI:NL:RBHAA:2011:BP5392 Rechtbank Haarlem , 17-02-2011 / 489877 AO VERZ 10-742
