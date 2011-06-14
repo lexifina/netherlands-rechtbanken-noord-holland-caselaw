@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBHAA:2011:BQ8229"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1658", "FutD 2011-1456", "NTFR 2011/1870 met annotatie van Mr. A.J.M. Arends"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1658", "NTFR 2011/1870 met annotatie van Mr. A.J.M. Arends", "FutD 2011-1456", "Viditax (FutD) 2011061706"]
 ---
 
 # ECLI:NL:RBHAA:2011:BQ8229 Rechtbank Haarlem , 14-06-2011 / 10/993
