@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBHAA:2011:BU9861"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/25", "V-N 2012/14.23.8", "FutD 2012-0059"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/25", "V-N 2012/14.23.8", "FutD 2012-0059", "Viditax (FutD) 2012010205"]
 ---
 
 # ECLI:NL:RBHAA:2011:BU9861 Rechtbank Haarlem , 15-12-2011 / 11/2033
