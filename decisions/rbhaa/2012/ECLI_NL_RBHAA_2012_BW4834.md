@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBHAA:2012:BW4834"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1192", "V-N 2012/31.3.1", "FutD 2012-0458"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1192", "V-N 2012/31.3.1", "FutD 2012-0458", "Viditax (FutD) 2012021703"]
 ---
 
 # ECLI:NL:RBHAA:2012:BW4834 Rechtbank Haarlem , 13-02-2012 / AWB 10/1376, 10/1377, 10/1378, 10/1380, 10/1381 & 10/1382
