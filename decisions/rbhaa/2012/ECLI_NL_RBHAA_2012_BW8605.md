@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBHAA:2012:BW8605"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1529", "V-N 2012/46.27.12", "FutD 2012-1672", "NTFR 2012/1755 met annotatie van mr. J.M. van der Vegt"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1529", "V-N 2012/46.27.12", "NTFR 2012/1755 met annotatie van mr. J.M. van der Vegt", "FutD 2012-1672", "Viditax (FutD) 2012061901"]
 ---
 
 # ECLI:NL:RBHAA:2012:BW8605 Rechtbank Haarlem , 13-06-2012 / AWB 10 / 6803, 12 / 2033, 12/2034, 12/2035 ,12/2036 & 12/2037
