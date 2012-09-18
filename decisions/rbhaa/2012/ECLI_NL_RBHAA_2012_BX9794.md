@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBHAA:2012:BX9794"
-published_in: ["Rechtspraak.nl", "FutD 2012-2601"]
+published_in: ["Rechtspraak.nl", "FutD 2012-2601", "Viditax (FutD) 2012101103", "RV20120086 met annotatie van Minderhoud P.E. Paul"]
 ---
 
 # ECLI:NL:RBHAA:2012:BX9794 Rechtbank Haarlem , 18-09-2012 / 11/4779, 11/4780
