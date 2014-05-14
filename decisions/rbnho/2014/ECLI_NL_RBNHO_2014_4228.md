@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2014:4228"
-published_in: ["Rechtspraak.nl", "AR 2016/934", "AR-Updates.nl 2016-0331", "PR-Updates.nl AR-2016-0331"]
+published_in: ["Rechtspraak.nl", "AR 2016/934", "AR-Updates.nl 2016-0331", "PR-Updates.nl AR-2016-0331", "PR-Updates.nl 2016-0331"]
 ---
 
 # ECLI:NL:RBNHO:2014:4228 Rechtbank Noord-Holland , 14-05-2014 / 2367747 CV EXPL 13-3837
