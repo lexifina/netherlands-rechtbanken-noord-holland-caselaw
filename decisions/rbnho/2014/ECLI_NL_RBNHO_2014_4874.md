@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2014:4874"
 published_in: ["Rechtspraak.nl", "NJFS 2014/172"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2022:3955, Overig"]]
 ---
 
 # ECLI:NL:RBNHO:2014:4874 Rechtbank Noord-Holland , 26-05-2014 / 15/996524-08 (ontneming)
