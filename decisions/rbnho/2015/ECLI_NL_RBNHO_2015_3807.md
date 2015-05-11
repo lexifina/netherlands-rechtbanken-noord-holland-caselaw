@@ -1,0 +1,375 @@
+---
+ecli: "ECLI:NL:RBNHO:2015:3807"
+court: "Rechtbank Noord-Holland"
+court_code: "RBNHO"
+docket: "AWB - 14 _ 2375"
+decided: "2015-05-11"
+published: "2015-05-07"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2015:3807"
+published_in: ["Rechtspraak.nl", "FutD 2015-1260", "ERF-Updates.nl 2015-0219", "NTFR 2015/1666"]
+---
+
+# ECLI:NL:RBNHO:2015:3807 Rechtbank Noord-Holland , 11-05-2015 / AWB - 14 _ 2375
+
+## Inhoudsindicatie
+
+Gebonden grond is grond die nodig is om de onroerende zaak aan zijn functie te kunnen laten voldoen. Het bedrijfspand bestaat onder meer uit een bedrijfshal die is uitgerust met drie loading docks. Parkeer- en manoeuvreerterrein is nodig om de onroerende zaak aan zijn functie te kunnen laten voldoen en is daarmee gebonden grond.  dient te worden aangemerkt. Dit is een specifiek kenmerk van de onroerende zaak waarvan bij de waardering niet kan worden geabstraheerd. Beide partijen maken waardering van een bedrijfshal niet aannemelijk; rechtbank bepaalt waarde in goede justitie.
+
+## Uitspraak
+
+Rechtbank noord-holland
+
+Zittingsplaats Haarlem
+
+zaaknummers: HAA 14/2375 t/m 14/2379
+
+uitspraak van de meervoudige kamer van 11 mei 2015 in de zaken tussen
+
+[X1], wonende te [woonplaats 1], eiseres 1,
+
+[X2]
+, wonende te [woonplaats 2], eiser 1,
+
+[X3]
+, wonende te [woonplaats 1], eiser 2,
+
+[X4]
+, wonende te [woonplaats 3], eiseres 2,
+
+[X5]
+, wonende te [woonplaats 4], eiseres 3,
+
+gezamenlijk aan te duiden als eisers
+
+(gemachtigde: mr. P. Bakker),
+
+en
+
+de inspecteur van de Belastingdienst/Rotterdam, verweerder.
+
+Procesverloop
+
+Verweerder heeft met dagtekening 20 november 2012 aan eiseres 1 een aanslag erfbelasting opgelegd van € 22.008. Voorts is bij afzonderlijke beschikking € 210 heffingsrente in rekening gebracht.
+
+Verweerder heeft met dagtekening 20 november 2012 eiser 1, eiser 2, eiseres 2 en eiseres 3 ieder een aanslag erfbelasting opgelegd van € 6.219. Voorts is bij afzonderlijke beschikking aan ieder van hen € 59 heffingsrente in rekening gebracht.
+
+Verweerder heeft bij afzonderlijke uitspraken op bezwaar de aanslagen en de beschikkingen heffingsrente gehandhaafd.
+
+Eisers hebben daartegen beroep ingesteld. De beroepen zijn geregistreerd onder de zaaknummers HAA 14/2375 (eiseres 1), 14/2376 (eiser 1), 14/2377 (eiser 2), 14/2378 (eiseres 2) en 14/2379 (eiseres 3).
+
+Verweerder heeft verweerschriften ingediend.
+
+Partijen hebben vóór de zitting nadere stukken ingediend. Deze stukken zijn telkens in afschrift verstrekt aan de wederpartij.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 2 april 2015 te Haarlem. Gelijktijdig met de onderhavige beroepen is het beroep van de erven [A] inzake de aanslag inkomstenbelasting/premie volksverzekeringen 2010 behandeld (zaaknummer HAA 14/3108).
+
+Namens eisers is verschenen de gemachtigde, bijgestaan door [B] en [C]. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde M. Breemans, bijgestaan door A.R. Stolker, mr. R.C.G. Aarts, mr. J.N.A.H. Renckens en P.A. Bosman.
+
+Overwegingen
+
+Feiten
+
+1. Op 27 februari 2010 is [A] (hierna: erflater) overleden. Tot zijn overlijden was hij in gemeenschap van goederen gehuwd met eiseres 1. Eisers 1 en 2 en eiseressen 2 en 3 zijn de uit dat huwelijk geboren kinderen.
+
+2. Op 13 december 2010 is de aangifte erfbelasting ingediend. Het aangegeven saldo van de nalatenschap is € 745.640. Tot de nalatenschap behoort onder meer het ondernemingsvermogen van [A BEDRIJF] B.V.  Erflater was 100% aandeelhouder in [A BEDRIJF] B.V. Deze B.V. is 100% aandeelhouder in [B BEDRIJF] B.V. Laatstgenoemde B.V. is eigenaresse van het bedrijfspand aan de [adres]. De aangegeven waarde van het ondernemingsvermogen van [A BEDRIJF] B.V. is € 274.288. Voor het bedrijfspand is een waarde van
+
+€ 932.000 in aanmerking genomen.
+
+3. Het bedrijfspand bestaat uit een kantoorgebouw over twee bouwlagen en een bedrijfshal. De hal is aan de voorzijde voorzien van drie loading docks. Het onbebouwde deel van het erf behorende bij het bedrijfspand is deels (ongeveer 3.600 m²)  voorzien van een betonverharding en wordt gebruikt als parkeer- en manoeuvreerruimte voor vrachtwagens.
+
+4. Ten tijde van het overlijden van erflater werd dit bedrijfspand voor € 13.000 per maand (€ 156.000 per jaar) verhuurd aan [C BEDRIJF] B.V. De aandelen van deze B.V. worden gehouden door de Beheer B.V.’s van de zonen van erflater (eiser 1 en eiser 2). Er was geen huurcontract gesloten en de opzegtermijn was een maand.
+
+5. Het bedrijfspand ligt binnen het windrechtgebied van 200 m rond de molen “[NAAM 1]”. Het bestemmingsplan Bedrijventerrein-Noord van 17 oktober 1995 van de gemeente Uitgeest houdt onder meer in:
+
+“3.4.	De Molens.
+
+Direct ten westen van het plangebied bevinden zich twee windmolens te weten: molen “[NAAM 2]” en molen “[NAAM 1]”. Beide molens functioneren nog (weer). Dit betekent dat in de aangrenzende bestemmingsplannen met de windvang van de molens rekening wordt gehouden. (…)
+
+Het bestemmingsplangebied Uitgeest Bedrijventerrein-Noord ligt gedeeltelijk binnen deze zone van 200 m, waarbinnen met de windvang rekening gehouden moet worden. Binnen de cirkel rond “[NAAM 1]” met name is bedrijfsbebouwing aanwezig en een tweetal stolpwoningen, (…).
+
+Het plangebied heeft duidelijk een bedrijfsmatig karakter en is aan de westzijde door wegen, groen en waterlopen duidelijk afgescheiden van het aangrenzende agrarisch gebied. In aansluiting op bovengenoemd Koninklijk Besluit is aan de gronden gelegen binnen een zone van 200 m ten opzichte van de molens een bedrijfsbestemming toegekend, omdat dit in overeenstemming is met het karakter van de aangrenzende gronden, maar is daarbinnen bebouwing slechts toegestaan na overleg met de beheerders van de molens, waarbij rekening gehouden moet worden met de waarden van de molens en de windvang. Slechts opslag tot een beperkte hoogte is toegestaan. (…)”
+
+6. Twee waardeverklaringen van [D] van [D BEDRIJF] Makelaardij houden in dat het bedrijfspand per 2 mei 2008 wordt gewaardeerd op een onderhandse verkoopwaarde van € 1.875.000, zowel in verhuurde als in onverhuurde staat.
+
+7. De WOZ-waarde van het bedrijfspand is voor het belastingjaar 2010 (waardepeildatum 1 januari 2009) vastgesteld op € 932.000. Voor het belastingjaar 2012 (waardepeildatum 1 januari 2011) is de WOZ-waarde in bezwaar verlaagd tot € 1.138.000.
+
+8. A.R. Stolker, als taxateur onroerende zaken werkzaam bij de Belastingdienst/Amsterdam, heeft het bedrijfspand per datum overlijden getaxeerd op een waarde in het economische verkeer van € 1.650.000 in verhuurde staat. De getaxeerde waarde is als volgt vastgesteld:
+
+Huurwaarde
+
+Omschrijving			verhuurbare m²	   markthuur €/m²	marktwaardehuur
+
+begane grond (bedrijfshal)	1.850 m²	                    € 62	€ 114.700
+
+begane grond (kantoor)		     75 m²	                    € 90	€     6.750
+
+1e verdieping (kantoor)		     80 m²		       € 75	€     6.000
+
+ongebonden verhard terrein	1.800 m²		       € 18	€   32.400										€ 159.800
+
+Berekening waarde met behulp van BAR (9%):
+
+Marktwaardehuur/BAR: € 159.800 / 0,09 = 		€ 1.776.111
+
+Af: kapitaalcorrectie					€        1.076 (negatief)
+
+--------------
+
+Waarde economische verkeer ‘vrij op naam’	    	€ 1.777.187
+
+Af: kosten van overdracht (7% kosten koper) 		€    116.265
+
+--------------
+
+Waarde economische verkeer				€ 1.660.922
+
+Als referentieobject wordt genoemd [ADRES 1], verkocht op 15 juni 2012 voor € 1.912.500.
+
+9. Bij de stukken bevindt zich een overzicht van BAR percentages voor West-Nederland van [E BEDRJF] voor de jaren 1999 tot en met 2010. Dit overzicht houdt voor het jaar 2010 onder meer in:
+
+Bedrijven
+
+2010
+
+Beste locaties
+
+7,5 – 9,25
+
+Overige locaties
+
+8,75 – 10,25
+
+10. Een ongedateerde brief van Stolker aan N.E. Manschot, werkzaam bij de Belastingdienst/Rotterdam, houdt onder meer in:
+
+“(…)
+
+Bij mijn taxatie heb ik o.m. gebruik gemaakt van een verkooptransactie van een grootschalig bedrijfsobject aan de [LOKATIE] (zelfde bedrijfsterrein) omvattende ca. 1.675 m² bedrijfshal met loading docs en ca. 450 m² kantoorruimte gelegen op een perceel van totaal 5.535 m². Koopsom 14-6-2009 € 1.912.500 met een markthuurwaard van ca. € 180.000 ofwel kap. Factor 10.6.
+
+Vervolgens zijn ook nog de objecten [ADRES 2], [ADRES 3] en [ADRES 4] in een verkoop transactie betrokken (2009 en 2010) geweest voor koopsommen van resp.
+
+€ 1.270.000, € 230.000 en € 1.100.000. Het betreft hier doorgaans veel kleinere objecten op kleinere percelen.
+
+(…)”
+
+11. [C] van [F BEDRIJF] Makelaardij O.G. heeft op verzoek van [B BEDRIJF] B.V. de onderhandse verkoopwaarde van het bedrijfspand in verhuurde staat en maandelijks opzegbare huur per datum overlijden getaxeerd op € 1.108.000. De getaxeerde waarde is als volgt vastgesteld:
+
+Opbouw mogelijke commerciële bruto jaarhuur
+
+Omschrijving	Bruto 		Huurwaarde 	Maximale redelijke
+
+vloeroppervlak			jaarhuur
+
+Begane grond bedrijfshal	1.850 m²	€   55/m²	€ 101.750
+
+Begane grond kantoor-/
+
+dienstruimtes			     75 m²	€ 100/m²	€     7.500
+
+1e verdieping kantoor-/
+
+dienstruimtes			     80 m²	€   80/m²	€     6.400
+
+Parkeren 		        14 plaatsen		€ 500 		€     7.000
+
+Totaal								€ 122.650
+
+Yieldopbouw:
+
+Rente				3,34 	rente op 10-jarige Nederlandse
+
+staatsobligaties
+
+Risico opslag rente				3,50	ondernemerswinst
+
+Inschatting leegstandsrisico
+
+27 februari 2010				3,50	36 maanden per 10 jaar
+
+Onderhoud/verzekeringen/belastingen	    -	niet van toepassing bij de BAR methode
+
+Totaal vereiste rendement		           10,34	De reciproque van het vereiste rendement
+
+(10,34) is 1 gedeeld door 10,34 = de kapitalisatiefactor = 9,67
+
+Vrije onderhandse verkoopwaarde op 27 februari 2010 aan de hand van getaxeerde
+
+huurwaarde:
+
+Kapitalisatiefactor		           9,67
+
+Getaxeerde jaarhuur	€    122.650
+
+Koopsom vrij op naam	€ 1.186.025
+
+Koopsom kosten koper	€ 1.108.000
+
+Als referentieobject voor de huurprijs is gebruikt [ADRES 5], bestaande uit
+
+820 m² bedrijfshal (verhuurd voor € 32.800 per jaar) en 245 m² kantoorruimte (verhuurd voor € 22.200 per jaar). De totale jaarhuur van € 55.000 is op 20 juli 2011 overeengekomen.
+
+Voorts staat in het taxatierapport:
+
+“Ongebonden grond
+
+Ongebonden grond is grond deeluitmakend van het object welk voor alternatief gebruik, bijvoorbeeld voor verhuur of verkoop aan derden, kan worden aangewend zonder dat dit schadelijk is voor het huidige of toekomstige meest geëigende gebruik. Het getaxeerde object is uitgerust met laaddocks. Het goed kunnen rangeren met grote vrachtauto’s en parkeren  is derhalve een essentieel onderdeel van een goede bedrijfsvoering en normaal gebruik van het object. Er is in het onderhavige geval derhalve geen sprake van zgn. ongebonden grond. Ook is volgens het bestemmingsplan (zie bijlage) voor elke 100 m2 bruto werkvloeroppervlak 1,65 m2 pakkeerplaats vereist hetgeen impliceert dat er minimaal 30 autoparkeerplaatsen aanwezig moeten zijn.
+
+Tevens  laat het bestemmingsplan geen verdere bebouwing of hoge beplanting toe  in verband met het aanwezige windrechtgebied (zie bijlage). Binnen een afstand van 200m (eerste ring van het windrechtgebied) van de molen “[NAAM 1]” mag niet worden gebouwd. Het getaxeerde opstal ligt pal tegenover molen “[NAAM 1]” op ca. 150,00m afstand. De niet gebouwde grond ligt meest frontaal in het windrecht gebied op ca. 60,00m tot 150,00m afstand van de molen.”
+
+12. Op 26 maart 2014 heeft Stolker in een e-mail aan M. Toet, werkzaam bij Belastingdienst/Rotterdam als volgt gereageerd op het taxatierapport van [F BEDRIJF]:
+
+“(…)
+
+Inderdaad vallen de gronden deels onder het windrecht van een aan de overzijde van de [ADRES 6]gelegen molen ([NAAM 1]) maar is er volgens de gemeente Uitgeest geen belemmering om het terrein voor opslagdoeleinden en of parkeren van bedrijfswagens te gebruiken. De gemeente zou zelfs vrijstelling (middels een vrijstellingsbevoegdheid) kunnen verlenen voor uitbreiding van de bebouwing. Ook is de aan de weg gelegen bedrijfswoning voor het geheel gelegen binnen de molencirkel. Deze op privé grond staande woning is gebouwd in de jaren ’70. De molen dateert van 1896. Hier is dus kennelijk in het verleden ook middels de genoemde vrijstellingsbevoegdheid gebouwd.
+
+(…)
+
+Voor de duidelijkheid: van de totaal onbebouwde betonverharde oppervlakte van 3.600 m² is door mij dus (maar) 1.800 m² een waarde/huurwaarde toegekend. De overige ca. 1.800 m² is als gebonden grond meegewaardeerd in waarde/huurwaarde van het bebouwde deel.
+
+(…)”
+
+13. [E] van [G BEDRIJF] B.V. heeft op verzoek van [B BEDRIJF] B.V. de onderhandse verkoopwaarde van het bedrijfspand per opnamedatum
+
+24 mei 2011 getaxeerd op € 1.200.000 vrij van huur en gebruik. Bij het rapport is een berekening gevoegd van de onderhandse verkoopwaarde vrij van huur en gebruik per datum overlijden met als uitkomst € 1.161.072.
+
+14. [F] van [H BEDRIJF] O.G. heeft op verzoek van [B BEDRIJF] B.V. het bedrijfspand op 7 juni 2012 opgenomen. Het bedrijfspand is per opnamedatum getaxeerd op een onderhandse verkoopwaarde in verhuurde staat per datum overlijden van € 1.240.000.
+
+15. Verweerder is bij het opleggen van de aanslagen afgeweken van de aangifte en heeft de waarde van het bedrijfspand verhoogd met € 718.000 (€ 1.650.000 - € 932.000). De waarde van het ondernemingsvermogen is - rekening houdend met 25% belasting op het belastbare inkomen uit aanmerkelijk belang - met € 538.500 verhoogd. Het saldo van de nalatenschap is door verweerder vastgesteld op € 1.014.890.
+
+Geschil 16. In geschil is of de aanslagen tot het juiste bedrag zijn vastgesteld. Meer in het bijzonder is in geschil de waarde van het bedrijfspand op het tijdstip van de verkrijging.
+
+17. Eisers stellen zich op het standpunt dat de waarde van het bedrijfspand op
+
+€ 1.108.000 moet worden gesteld.
+
+18. Verweerder stelt zich op het standpunt dat het bedrijfspand voor een waarde van
+
+€ 1.1650.000 in aanmerking moet worden genomen.
+
+Beoordeling van het geschil
+
+19. Tussen partijen is niet meer in geschil dat bij het vaststellen van de waarde van het ondernemingsvermogen ten onrechte geen vpb-latentie van 20% in aanmerking is genomen en dat het pand [ADRES 7] in aanmerking moet worden genomen voor een waarde van € 355.000 in plaats van de aangegeven waarde van € 571.000. De beroepen zijn  daarom in zoverre reeds gegrond. De rechtbank zal thans beoordelen of op basis van de door eisers aangevoerde gronden de aanslagen verdere matiging behoeven. Nu tussen partijen voorts niet meer in geschil is dat de woning [ADRES 8] overeenkomstig de aangifte voor € 780.000 in aanmerking moet worden genomen, zal het oordeel van de rechtbank zich beperken tot de waarde van het bedrijfspand.
+
+20. Ingevolge artikel 21, eerste lid, van de Successiewet 1956 (tekst 2010) wordt het verkregene in aanmerking genomen naar de waarde welke daar op het tijdstip van de verkrijging in het economische verkeer aan kan worden toegekend. Volgens vaste jurisprudentie komt de waarde in het economische verkeer overeen met de prijs die bij aanbieding ten verkoop op de voor de onroerende zaak meest geschikte wijze na de beste voorbereiding door de meestbiedende gegadigde zou zijn betaald.
+
+21. Tussen partijen is niet in geschil dat de voor het bedrijfspand aangegeven waarde van € 932.000 te laag is. De rechtbank zal eerst het door verweerder ingenomen standpunt dat het bedrijfspand voor een waarde van € 1.650.000 in aanmerking moet worden genomen beoordelen. Verweerder beroept zich op het hiervoor onder 8 genoemde taxatierapport van Stolker en wijst erop dat de in dat rapport getaxeerde waarde in lijn is met de onder 6 genoemde waardeverklaringen van [D BEDRIJF].
+
+22. Verweerder heeft het betonverharde terrein direct voor, naast en achter de opstal als gebonden grond aangemerkt en de waarde daarvan heeft hij verdisconteerd in de huurwaarde van de opstal. Het overige deel van het betonverharde voorterrein, bestaande uit ongeveer 1.800 m² parkeer- en de manoeuvreerruimte, is door verweerder als ongebonden grond in de waardering betrokken.
+
+23. Gebonden grond is grond die nodig is om de onroerende zaak aan zijn functie te kunnen laten voldoen. Het bedrijfspand bestaat onder meer uit een bedrijfshal die is uitgerust met drie loading docks. Dit is een specifiek kenmerk van de onroerende zaak waarvan bij de waardering niet kan worden geabstraheerd. De aard van de onroerende zaak brengt mee dat het parkeer- en manoeuvreerterrein niet op andere wijze kan worden aangewend, omdat anders geen gebruik kan worden gemaakt van de loading docks. De rechtbank is daarom van oordeel dat het parkeer- en manoeuvreerterrein nodig is om de onroerende zaak aan zijn functie te kunnen laten voldoen en derhalve als gebonden grond dient te worden aangemerkt.
+
+24. Wat betreft de waardering van het parkeer- en manoeuvreerterrein merkt de rechtbank op dat daarbij niet van belang is dat dit terrein is gelegen binnen het windrechtgebied van een molen. Het windrecht belemmert immers het gebruik van het terrein als parkeer- en manoeuvreerruimte niet. Enkel indien sprake zou zijn van ongebonden grond, zou de ligging binnen het windrechtgebied een factor van belang (kunnen) zijn bij de waardering.
+
+25. Verweerder heeft ter zitting desgevraagd verklaard dat de parkeer- en manoeuvreerruimte een waarde van € 18 per m² heeft, ongeacht of het als gebonden of ongebonden grond wordt aangemerkt. De uitgifteprijs van grond met een bedrijfsbestemming waarop zonder beperking mag worden gebouwd bedraagt in de gemeente Uitgeest € 170 tot € 200 per m². Uitgaande van een BAR van 10% is € 18 per m² niet te hoog, temeer niet omdat de betonverharding ook waarde heeft, aldus verweerder.
+
+26. De rechtbank is van oordeel dat verweerder niet aannemelijk heeft gemaakt dat een waarde van € 18 per m² voor de parkeer- en manoeuvreerruimte niet te hoog is. Die waarde is door verweerder immers gebaseerd op de uitgifteprijs van ongebonden bedrijfsgrond zonder enige bouwbeperking, terwijl in casu sprake is van gebonden grond. Dat alleen de betonverharding al een waarde van tenminste € 18 per m² heeft, is door verweerder evenmin aannemelijk gemaakt.
+
+27. Aangezien verweerder de referentiehuren waarop hij de door hem gehanteerde huurwaardes voor de bedrijfshal en de kantoorruimtes heeft gebaseerd niet heeft bijgevoegd, heeft hij niet aannemelijk gemaakt dat de huurwaarde van de opstal niet te hoog is vastgesteld.
+
+28. Ter onderbouwing van het door hem gehanteerde brutoaanvangsrendement (BAR) heeft verweerder enerzijds verwezen naar het onder 9 genoemde overzicht van [E BEDRJF] en anderzijds naar het referentieobject [ADRES 1].
+
+29. Nu verweerder niet heeft weersproken de stelling van eisers dat het onder 9 genoemde overzicht niet is gebaseerd op verkopen in of nabij Uitgeest, maar op verkopen in de grote steden binnen de Randstad, zal de rechtbank dit overzicht buiten beschouwing laten. Met het referentieobject [ADRES 1] heeft verweerder naar het oordeel van de rechtbank niet aannemelijk gemaakt dat een BAR van 9% niet te laag is. Ter zitting hebben eisers verklaard dat de ligging van [ADRES 1] niet goed vergelijkbaar is met die van het bedrijfspand, aangezien [ADRES 1] op een zichtlocatie aan de A9 ligt zonder naastgelegen woningen, terwijl het bedrijfspand aan een tertiaire weg ligt naast een woning. Nu verweerder dit onvoldoende heeft weersproken, is de rechtbank van oordeel dat [ADRES 1] vanwege het verschil in ligging geen geschikt vergelijkingsobject is. Zelfs indien ervan zou moeten worden uitgegaan dat, gelijk verweerder ter zitting heeft verklaard, [ADRES 1] en het bedrijfspand in feite hetzelfde zijn dan valt niet in te zien waarom verweerder voor het bedrijfspand een BAR van 9% heeft gehanteerd, terwijl [ADRES 1] een BAR van 9,4% ((180.000: 1.912.000) x 100%) heeft.
+
+30. Verweerder heeft ter onderbouwing van de door hem voorgestane waarde voorts gewezen op de hiervoor onder 6 genoemde waardeverklaringen van [D]. Nu deze niet van enige onderbouwing voorziene waardeverklaringen zien op de waarde van het bedrijfspand per 2 mei 2008, dus bijna 22 maanden voor het tijdstip van de verkrijging, kunnen deze niet dienen ter onderbouwing van de thans gezochte waarde.
+
+31. Op grond van al het voorgaande heeft verweerder niet aannemelijk gemaakt dat een waarde van het bedrijfspand van € 1.650.000 op het tijdstip van de verkrijging niet te hoog is.
+
+32. De rechtbank zal thans de stelling van eisers beoordelen dat het bedrijfspand voor een waarde van € 1.108.000 in aanmerking moet worden genomen. Eisers hebben in dat verband gewezen op de WOZ-waardes voor 2010 en 2012 en de hiervoor genoemde taxatierapporten van [F BEDRIJF], [G] en [H].
+
+33. De WOZ-waardes van het bedrijfspand voor 2010 en 2012 zijn vastgesteld naar de waardepeildatum 1 januari 2009 respectievelijk 1 januari 2011. Gelet op die peildata, acht de rechtbank deze waardes niet geschikt voor het bepalen van de waarde van het bedrijfspand op het tijdstip van de verkrijging. Ook indien het taxatierapport van [G] aldus moet worden verstaan dat de waardebepaling heeft plaatsgevonden naar het tijdstip van de verkrijging, dan is het rapport naar het oordeel van de rechtbank niet bruikbaar, aangezien niet is onderbouwd waar de huurwaardes en overige uitgangspunten die ten grondslag liggen aan de berekening van de waarde van het bedrijfspand op zijn gebaseerd. Dat laatste geldt ook voor het taxatierapport van [H].
+
+34. [F BEDRIJF] heeft ter onderbouwing van de door hem gehanteerde huurwaardes het referentieobject [ADRES 5] gebruikt. Tussen partijen is niet in geschil dat dit object aanzienlijk kleiner is dan het bedrijfspand en dat [ADRES 5] in tegenstelling tot het bedrijfspand niet over een vrije hoogte van 7 meter beschikt, maar van 3 meter. De rechtbank is op grond van deze verschillen van oordeel dat [ADRES 5] geen geschikt vergelijkingsobject is om de huurwaardes van het bedrijfspand op te baseren. Eisers hebben derhalve niet aannemelijk gemaakt dat een waarde van het bedrijfspand van
+
+€ 1.108.000 op het tijdstip van de verkrijging niet te laag is.
+
+35. Nu geen van beide partijen de door hen voorgestane waarde van het bedrijfspand op het tijdstip van de verkrijging aannemelijk heeft gemaakt, stelt de rechtbank deze waarde in goede justitie vast op € 1.250.000.
+
+36. Gelet op hetgeen hiervoor onder 19 en 35 is overwogen bedraagt de waarde van de aandelen in [A] B.V. op 27 februari 2010 € 359.922.
+
+Waarde bedrijfspand	€ 1.250.000
+
+Boekwaarde 		€    932.000 -
+
+Verschil			€    318.000
+
+Aangeven waarde	€    274.288 +
+
+Totaal			€    592.288
+
+Vpb-latentie (20%)	€    118.458 -
+
+€    473.830
+
+IB-latentie (25%)	€    113.908 -  (25% x (€ 473.830 - € 18.200))
+
+€    359.922
+
+37. Het saldo van de nalatenschap bedraagt derhalve € 680.457.
+
+Aangegeven saldo	€    745.640
+
+Correctie aandelen	€      42.817 + (50% x (€ 359.922 - € 274.288))
+
+€    788.457
+
+[ADRES 7]	€    108.000 - (50% x (€ 571.000 - € 355.000))
+
+Saldo nalatenschap	€    680.457
+
+38. Gelet op het vorenoverwogene dienen de beroepen gegrond te worden verklaard.
+
+Proceskosten
+
+39. Eisers verzoeken om een integrale proceskostenvergoeding op grond van artikel 2, derde lid, van het Besluit proceskosten bestuursrecht (hierna: het Besluit). Deze bepaling ziet blijkens de parlementaire geschiedenis (TK 1999-2000, 27 024, nr. 3, p. 6.) op uitzonderlijke, schrijnende gevallen, waarbij strikte toepassing van het Besluit evident onrechtvaardig zou zijn. Voor toekenning van een proceskostenvergoeding in afwijking van de forfaitaire bedragen van het Besluit is grond indien het bestuursorgaan het verwijt treft dat het een beschikking of uitspraak geeft respectievelijk doet of in rechte handhaaft, terwijl op dat moment duidelijk is dat die beschikking of uitspraak in een (de) daartegen ingestelde procedure geen stand zal houden (vgl. HR 13 april 2007, nr. 41 235, ECLI:NL:HR:2007: BA2802 en HR 6 februari 2009, nr. 08/01915, ECLI:NL:HR:2009:BH1928).
+
+40. Ter onderbouwing van hun verzoek hebben eisers op een vijftal omstandigheden gewezen. Voor zover die omstandigheden zijn gebaseerd op de handelwijze van de inspecteur inzake de inkomstenbelasting laat de rechtbank die buiten beschouwing, aangezien de onderhavige zaken de aanslagen erfbelasting betreffen. De enkele omstandigheid dat de taxatie van verweerder aanzienlijk afwijkt van de door eisers ingebrachte taxaties rechtvaardigt naar het oordeel van de rechtbank niet de conclusie dat sprake is van een situatie als hiervoor onder 39 bedoeld. De rechtbank ziet dan ook geen aanleiding verweerder te veroordelen tot vergoeding van de integrale proceskosten.
+
+41. De rechtbank vindt wel aanleiding verweerder te veroordelen in de kosten die eisers in verband met de behandeling van de beroepen redelijkerwijs hebben moeten maken. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.836 (1 punt voor het indienen van het bezwaarschrift met een waarde per punt van € 244, 1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting met een waarde per punt van € 490 en een wegingsfactor 1,5 in verband met vijf samenhangende zaken).
+
+42. In overeenstemming met hetgeen partijen dienaangaande ter zitting zijn overeengekomen, wordt voor het door [F BEDRIJF] in opdracht van [B BEDRIJF] B.V. opgemaakte taxatierapport een vergoeding van € 400 exclusief btw toegekend. Nu dit taxatierapport mede is opgemaakt ten behoeve van de inkomstenbelastingzaak (zaaknummer HAA 14/3108) zal in beide zaken de helft van dit bedrag worden vergoed.
+
+43. De overige kosten komen op grond van het Besluit niet voor vergoeding in aanmerking.
+
+Beslissing
+
+De rechtbank:
+
+- verklaart de beroepen gegrond;
+
+- vernietigt de uitspraken op bezwaar;
+
+- vermindert de aanslagen tot aanslagen berekend naar een saldo van de nalatenschap van € 680.457 en bepaalt dat deze uitspraak in de plaats treedt van de vernietigde bestreden besluiten;
+
+- vermindert de beschikkingen heffingsrente dienovereenkomstig;
+
+- veroordeelt verweerder in de proceskosten van eisers tot een bedrag van € 2.036;
+
+- draagt verweerder op het betaalde griffierecht van € 45 aan eiseres 1 te vergoeden.
+
+Deze uitspraak is gedaan door mr. M.H.L.C. Bijvoet, voorzitter, mr. M.C.A. Onderwater en mr. M.C. van As, leden, in aanwezigheid van mr. J. de Jong, griffier. De beslissing is in het openbaar uitgesproken op 11 mei 2015.
+
+griffier							voorzitter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kunnen partijen binnen zes weken na verzending hoger beroep instellen bij het gerechtshof Amsterdam (belastingkamer), Postbus 1312,
+
+1000 BH Amsterdam.
+
+Bij het instellen van hoger beroep dient het volgende in acht te worden genomen:
+
+1. bij het beroepschrift wordt een afschrift van deze uitspraak overgelegd.
+
+2. het beroepschrift moet ondertekend zijn en ten minste het volgende vermelden:
+
+a. 	de naam en het adres van de indiener;
+
+b. 	een dagtekening;
+
+c. 	een omschrijving van de uitspraak waartegen het hoger beroep is ingesteld;
+
+d. 	de gronden van het hoger beroep.
