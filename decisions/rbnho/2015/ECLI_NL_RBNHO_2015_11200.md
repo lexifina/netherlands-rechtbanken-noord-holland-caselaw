@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2015:11200"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2734", "Vp-bulletin 2016/11", "FutD 2016-0009", "NTFR 2016/594 met annotatie van Dr. W. Bruins Slot"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2734", "Vp-bulletin 2016/11", "NTFR 2016/594 met annotatie van Dr. W. Bruins Slot", "FutD 2016-0009", "Viditax (FutD) 2015122308"]
 ---
 
 # ECLI:NL:RBNHO:2015:11200 Rechtbank Noord-Holland , 18-12-2015 / AWB - 14 _ 842
