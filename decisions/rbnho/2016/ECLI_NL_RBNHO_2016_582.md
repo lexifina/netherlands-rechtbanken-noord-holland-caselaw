@@ -154,7 +154,7 @@ De vordering
 4
 Het verweer
 
-Gedaagden betwisten de vordering van [de huurders] . Zij voeren hiertoe – samengevat – het volgende aan. dient niet-ontvankelijk te worden verklaard in de vordering, omdat de verkeerde partij is gedagvaard. Delta Lloyd Vastgoed Ontwikkeling B.V. is geen verhuurder en ook nooit geweest. Omdat HVMS slechts beheerder is, kan [de huurders] er niet mee volstaan alleen de beheerder als verhuurder te dagvaarden.
+Gedaagden betwisten de vordering van [de huurders] . Zij voeren hiertoe – samengevat – het volgende aan.[de huurders] dient niet-ontvankelijk te worden verklaard in de vordering, omdat de verkeerde partij is gedagvaard. Delta Lloyd Vastgoed Ontwikkeling B.V. is geen verhuurder en ook nooit geweest. Omdat HVMS slechts beheerder is, kan [de huurders] er niet mee volstaan alleen de beheerder als verhuurder te dagvaarden.
 
 De verhuurder heeft het recht om voorwaarden te stellen aan de plaatsing van een tuinhuis, waaronder voorwaarden wat betreft uniformiteit en/of die tegemoet komen aan de belangen van omwonenden. Deze voorwaarden hebben bijvoorbeeld betrekking op de grootte van het te bouwen tuinhuis in verband met de aanmelding bij Bouw- en Woningtoezicht in het kader van het Bouwbesluit en de overlast voor de buren. Ook heeft de verhuurder er bezwaar tegen dat het niet om een tuinhuis gaat, maar om een praktijkruimte met een bedrijfsvoering. Overigens is [de huurders] akkoord gegaan met de gestelde voorwaarden, alleen niet met de maximale afmetingen waaraan voldaan moet worden. De verhuurder betwist, dat de buren akkoord zouden zijn met het beoogde tuinhuis; er zijn geen verklaringen van de buren overgelegd. Ook is geen vergunning van de gemeente overgelegd.
 
