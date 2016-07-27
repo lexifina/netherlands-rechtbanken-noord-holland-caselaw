@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2016:7491"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/1940", "FutD 2016-2190", "FutD 2016-2191", "NTFR 2016/2288", "NLF 2016/0069 met annotatie van", "NLF 2016/0069 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/1940", "NLF 2016/0069", "NLF 2016/0069", "FutD 2016-2190", "FutD 2016-2191", "Viditax (FutD) 2016090802", "Viditax (FutD) 2016090801"]
 ---
 
 # ECLI:NL:RBNHO:2016:7491 Rechtbank Noord-Holland , 27-07-2016 / AWB 13/4807
