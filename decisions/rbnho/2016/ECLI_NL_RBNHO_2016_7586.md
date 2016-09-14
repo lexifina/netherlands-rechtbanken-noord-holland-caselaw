@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2016:7586"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2037", "FutD 2016-2353 met annotatie van Fiscaal up to Date", "NTFR 2016/2873", "NLF 2016/0266 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2037", "NLF 2016/0266", "FutD 2016-2353", "Viditax (FutD) 2016092303"]
 cites_law: ["netherlands/national/acts/wet-loonbelasting-1964/art-031.md"]
 ---
 
