@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2016:8439"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2234", "V-N 2017/7.24.14", "NTFR 2016/2639", "NTFR 2016/2586", "NLF 2016/0500 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2234", "V-N 2017/7.24.14", "NLF 2016/0500"]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-02-017.md"]
 ---
 
