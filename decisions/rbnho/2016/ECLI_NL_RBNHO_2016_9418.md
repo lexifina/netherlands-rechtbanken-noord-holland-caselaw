@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2016:9418"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2762", "V-N 2017/8.22.8", "PJ 2017/33", "FutD 2016-3068 met annotatie van Fiscaal up to Date", "NTFR 2017/186 met annotatie van mr. D. Westerman", "NLF 2016/0862 met annotatie van", "NLF 2016/0862 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2762", "V-N 2017/8.22.8", "PJ 2017/33", "NLF 2016/0862", "NLF 2016/0862", "NTFR 2017/186 met annotatie van mr. D. Westerman", "FutD 2016-3068", "Viditax (FutD) 2016121202"]
 cites_law: ["netherlands/national/acts/wet-loonbelasting-1964/art-032a.md"]
 ---
 
