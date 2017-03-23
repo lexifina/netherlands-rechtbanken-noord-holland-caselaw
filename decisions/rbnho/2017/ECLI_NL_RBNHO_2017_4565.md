@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2017:4565"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1302", "FutD 2017-1416", "NTFR 2017/1900 met annotatie van mr. J. Nieuwenhuizen", "NLF 2017/1439 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1302", "NLF 2017/1439", "NTFR 2017/1900 met annotatie van mr. J. Nieuwenhuizen", "FutD 2017-1416", "Viditax (FutD) 2017060614"]
 cites_law: ["netherlands/national/acts/awr/art-016.md"]
 ---
 
