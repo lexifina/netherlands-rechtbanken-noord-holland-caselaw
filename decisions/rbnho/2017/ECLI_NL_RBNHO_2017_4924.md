@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2017:4924"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1416", "V-N 2017/44.22.18", "FutD 2017-1489", "NTFR 2017/1598", "NLF 2017/1504 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1416", "V-N 2017/44.22.18", "NLF 2017/1504", "FutD 2017-1489", "Viditax (FutD) 2017061613"]
 ---
 
 # ECLI:NL:RBNHO:2017:4924 Rechtbank Noord-Holland , 21-04-2017 / AWB - 16 _ 4711
