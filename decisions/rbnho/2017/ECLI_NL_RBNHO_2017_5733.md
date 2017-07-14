@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2017:5733"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1761", "Viditax (FutD), 20-07-2017", "FutD 2017-1842", "NTFR 2017/1986", "NLF 2017/1785 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1761", "NLF 2017/1785", "FutD 2017-1842", "Viditax (FutD) 2017072001"]
 ---
 
 # ECLI:NL:RBNHO:2017:5733 Rechtbank Noord-Holland , 14-07-2017 / AWB - 15 _ 4298
