@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2018:1426"
-published_in: ["Rechtspraak.nl", "PJ 2018/50", "PR-Updates.nl PR-2018-0020"]
+published_in: ["Rechtspraak.nl", "PJ 2018/50", "PR-Updates.nl PR-2018-0020", "PR-Updates.nl 2018-0020"]
 ---
 
 # ECLI:NL:RBNHO:2018:1426 Rechtbank Noord-Holland , 14-02-2018 / 5219905 CV EXPL 16-6235
