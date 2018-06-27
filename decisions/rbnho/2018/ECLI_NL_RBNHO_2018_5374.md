@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2018:5374"
-published_in: ["Rechtspraak.nl", "PJ 2018/140", "PR-Updates.nl PR-2018-0094"]
+published_in: ["Rechtspraak.nl", "PJ 2018/140", "PR-Updates.nl PR-2018-0094", "PR-Updates.nl 2018-0094"]
 ---
 
 # ECLI:NL:RBNHO:2018:5374 Rechtbank Noord-Holland , 27-06-2018 / 5644330 / CV EXPL 17-376
