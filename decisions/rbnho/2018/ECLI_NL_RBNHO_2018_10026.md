@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2018:10026"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1052", "JAAN 2019/38 met annotatie van"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1052", "JAAN 2019/38 met annotatie van mr. drs. V.C.H.M. Broeders"]
 ---
 
 # ECLI:NL:RBNHO:2018:10026 Rechtbank Noord-Holland , 02-10-2018 / C/15/276918 / KG ZA 18-583
