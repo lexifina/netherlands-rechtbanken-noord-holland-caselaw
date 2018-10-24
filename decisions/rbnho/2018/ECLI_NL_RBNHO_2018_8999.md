@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2018:8999"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0135"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0135", "PR-Updates.nl 2018-0135"]
 ---
 
 # ECLI:NL:RBNHO:2018:8999 Rechtbank Noord-Holland , 24-10-2018 / C/15/268496 / HA ZA 18-3
