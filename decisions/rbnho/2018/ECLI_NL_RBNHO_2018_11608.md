@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2018:11608"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0149", "PR-Updates.nl PR-2019-0029"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0149", "PR-Updates.nl PR-2019-0029", "VAAN-AR-Updates.nl 2019-0149", "PR-Updates.nl 2019-0029"]
 ---
 
 # ECLI:NL:RBNHO:2018:11608 Rechtbank Noord-Holland , 05-12-2018 / 6701992 CV EXPL  18-1645
