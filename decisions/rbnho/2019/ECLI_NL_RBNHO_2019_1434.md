@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:1434"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 04-03-2019", "V-N Vandaag 2019/523", "FutD 2019-0661", "Vp-bulletin 2019/24 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "V-N 2019/23.28.2", "NTFR 2019/633", "NLF 2019/0606 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/523", "Vp-bulletin 2019/24 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "V-N 2019/23.28.2", "NLF 2019/0606", "FutD 2019-0661", "Viditax (FutD) 2019030403"]
 ---
 
 # ECLI:NL:RBNHO:2019:1434 Rechtbank Noord-Holland , 22-02-2019 / AWB - 17 _ 4658
