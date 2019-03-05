@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:1473"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 12-03-2019", "V-N Vandaag 2019/584", "NLF 2019/0671 met annotatie van Peter van der Muur", "FutD 2019-0863", "V-N 2019/26.27.17", "Belastingblad 2019/276 met annotatie van M. Noordegraaf", "NTFR 2019/715"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/584", "NLF 2019/0671 met annotatie van Peter van der Muur", "V-N 2019/26.27.17", "Belastingblad 2019/276 met annotatie van M. Noordegraaf", "FutD 2019-0863", "Viditax (FutD) 2019031207"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2020:2748, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 cites_law: ["netherlands/national/acts/gemeentewet/art-229.md"]
 ---
