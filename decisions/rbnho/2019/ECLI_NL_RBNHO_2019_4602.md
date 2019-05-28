@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:4602"
-published_in: ["Rechtspraak.nl", "PJ 2019/97 met annotatie van W.P.M. Thijssen", "PR-Updates.nl PR-2019-0086"]
+published_in: ["Rechtspraak.nl", "PJ 2019/97 met annotatie van W.P.M. Thijssen", "PR-Updates.nl PR-2019-0086", "PR-Updates.nl 2019-0086"]
 ---
 
 # ECLI:NL:RBNHO:2019:4602 Rechtbank Noord-Holland , 28-05-2019 / C/15/286311 / FT RK 19/336
