@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:4809"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 01-07-2019", "FutD 2019-1775", "V-N Vandaag 2019/1592", "NTFR 2019/1880 met annotatie van mr. F. van Horzen", "NLF 2019/1737 met annotatie van Arco Bobeldijk", "V-N 2019/38.2.1", "Belastingadvies 2019/20.2"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1592", "NLF 2019/1737 met annotatie van prof. mr. dr. A.C.P. Bobeldijk", "V-N 2019/38.2.1", "Belastingadvies 2019/20.2", "NTFR 2019/1880 met annotatie van mr. F. van Horzen", "FutD 2019-1775", "Viditax (FutD) 2019070102"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2021:2832, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2019:4809 Rechtbank Noord-Holland , 05-06-2019 / AWB - 16 _ 1410
