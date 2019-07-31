@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:6929"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0849", "PJ 2019/118 met annotatie van E. Lutjens", "PR-Updates.nl PR-2019-0117"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0849", "PJ 2019/118 met annotatie van E. Lutjens", "PR-Updates.nl PR-2019-0117", "VAAN-AR-Updates.nl 2019-0849", "PR-Updates.nl 2019-0117"]
 ---
 
 # ECLI:NL:RBNHO:2019:6929 Rechtbank Noord-Holland , 31-07-2019 / 7450080 CV EXPL 19-220
