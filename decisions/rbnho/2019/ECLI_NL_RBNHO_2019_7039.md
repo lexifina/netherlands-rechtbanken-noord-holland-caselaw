@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:7039"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 28-08-2019", "V-N Vandaag 2019/1958", "FutD 2019-2260", "NTFR 2019/2200", "NLF 2019/1997 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1958", "NLF 2019/1997", "FutD 2019-2260", "Viditax (FutD) 2019082809"]
 ---
 
 # ECLI:NL:RBNHO:2019:7039 Rechtbank Noord-Holland , 19-08-2019 / AWB - 18 _ 2179
