@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:8738"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1118", "JAR 2019/283", "PR-Updates.nl PR-2019-0158", "PJ 2020/100"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1118", "JAR 2019/283", "PR-Updates.nl PR-2019-0158", "PJ 2020/100", "VAAN-AR-Updates.nl 2019-1118", "PR-Updates.nl 2019-0158"]
 ---
 
 # ECLI:NL:RBNHO:2019:8738 Rechtbank Noord-Holland , 26-09-2019 / 7805143 \ AO VERZ  19-73
