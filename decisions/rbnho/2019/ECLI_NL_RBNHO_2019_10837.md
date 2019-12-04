@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2019:10837"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0169", "PR-Updates.nl PR-2020-0050"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0169", "PR-Updates.nl PR-2020-0050", "VAAN-AR-Updates.nl 2020-0169", "PR-Updates.nl 2020-0050"]
 ---
 
 # ECLI:NL:RBNHO:2019:10837 Rechtbank Noord-Holland , 04-12-2019 / 7567905 CV EXPL 19-2469
