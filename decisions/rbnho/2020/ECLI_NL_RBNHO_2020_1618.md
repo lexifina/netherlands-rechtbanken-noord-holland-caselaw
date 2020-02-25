@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:1618"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0061", "PJ 2020/74"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0061", "PJ 2020/74", "PR-Updates.nl 2020-0061"]
 ---
 
 # ECLI:NL:RBNHO:2020:1618 Rechtbank Noord-Holland , 25-02-2020 / HAA 18/4583
