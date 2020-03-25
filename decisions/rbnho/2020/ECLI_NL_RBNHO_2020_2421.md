@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:2421"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0385", "PR-Updates.nl PR-2020-0083"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0385", "PR-Updates.nl PR-2020-0083", "VAAN-AR-Updates.nl 2020-0385", "PR-Updates.nl 2020-0083"]
 ---
 
 # ECLI:NL:RBNHO:2020:2421 Rechtbank Noord-Holland , 25-03-2020 / 8244718 \ AO VERZ 19-73
