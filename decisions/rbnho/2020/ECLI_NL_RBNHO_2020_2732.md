@@ -1,0 +1,109 @@
+---
+ecli: "ECLI:NL:RBNHO:2020:2732"
+court: "Rechtbank Noord-Holland"
+court_code: "RBNHO"
+docket: "AWB - 19 _ 2056"
+decided: "2020-04-03"
+published: "2020-04-09"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:2732"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBNHO:2020:2732 Rechtbank Noord-Holland , 03-04-2020 / AWB - 19 _ 2056
+
+## Inhoudsindicatie
+
+CAO primair onderwijs. Besluit tot onvrijwillige overplaatsing leerkracht houdt geen stand. In strijd gehandeld met de CAO PO. Geen sprake van zwaarwichtige omstandigheden.
+
+## Uitspraak
+
+RECHTBANK NOORD-HOLLAND
+
+Zittingsplaats Haarlem
+
+Bestuursrecht
+
+zaaknummer: HAA 19/2056
+
+uitspraak van de enkelvoudige kamer van 3 april 2020 in de zaak tussen
+
+[eiseres] , te [woonplaats] , eiseres
+(gemachtigde: mr. H. Bakker),
+
+en
+
+het college van bestuur van de stichting Zaan Primair, verweerder
+(gemachtigde: mr. V.G.A. Kellenaar).
+
+Procesverloop
+
+Bij besluit van 14 november 2018 (het primaire besluit) heeft verweerder eiseres met ingang van 1 augustus 2019 als [functie] overgeplaatst van [locatie] naar een andere school van Zaan Primair. De ingangsdatum is op een later moment uitgesteld tot 1 augustus 2020.
+
+Bij besluit van 28 maart 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard.
+
+Eiseres heeft tegen het bestreden besluit beroep ingesteld.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 3 februari 2020. Eiseres is verschenen, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en mr. [naam] .
+
+Overwegingen
+
+1.1
+
+Eiseres werkt sinds 16 jaar als [functie] op de [locatie] (onderdeel van Zaan Primair) in [plaats] . Eiseres is woonachtig in [woonplaats] . Eiseres heeft twee kinderen die onderwijs volgen op [locatie] . Op 1 april 2016 heeft verweerder een gedrags- en omgangscode (hierna: code) vastgesteld, waarin onder meer het volgende is opgenomen: “Een belangrijk uitgangspunt voor Zaan Primair is dat je als medewerker geen (klein)kinderen op de eigen school hebt. Daarmee willen we voorkomen dat het team in lastige functioneringssituaties terecht komt of dat de schijn van bevooroordeling kan ontstaan”.
+
+1.2
+
+Verweerder heeft eiseres bij brief van 20 februari 2018 het voornemen tot overplaatsing naar een andere school binnen Zaan Primair aangezegd omdat de kinderen van eiseres leerling zijn van de school waar zij les geeft en dat niet meer is toegestaan. Nadat eiseres haar zienswijze heeft gegeven is het primaire besluit genomen.
+
+2. Met het bestreden besluit heeft verweerder de overplaatsing onverkort gehandhaafd. Verweerder heeft aan het bestreden besluit ten grondslag gelegd dat het werknemers volgens de vastgestelde code niet langer is toegestaan om bij een school werkzaam te zijn waar eigen kinderen als leerling staan ingeschreven. Verweerder stelt dat de code breed gedragen is en ook van eiseres wordt verwacht dat zij zich daar aan houdt. Verweerder meent rekening te hebben gehouden met de gevolgen onder meer door het opschuiven van de overplaatsingsdatum.
+
+3. Eiseres heeft aangevoerd dat de onvrijwillige overplaatsing getuigt van een onevenwichtige en onzorgvuldige belangenafweging. Eiseres stelt dat er onvoldoende oog is geweest voor de verstrekkende gevolgen voor haar persoonlijke belangen. Zo heeft zij er  uitdrukkelijk voor gekozen op deze school les te geven vanwege het [concept] ( [concept] ) concept. De schoolkeuze van kinderen is ook gebaseerd op dit [concept] -concept en op praktische redenen. Door de geruime tijd dat eiseres les geeft op de school voelt zij zich verbonden met de school en haar collega’s. Ook voor haar carrièreplanning heeft verweerder geen oog gehad. Eiseres vindt onvoldoende gemotiveerd waarom sprake is van ‘zwaarwichtige omstandigheden’. Eiseres meent dat de norm (het uitgangspunt) ook kan worden geïnterpreteerd als te zijn gericht op het aangaan van toekomstige relaties. Gelet op de tijdelijke aard van de gegeven situatie en het feit dat er geen problemen zijn geweest, begrijpt eiseres niet waarom verweerder het veronderstelde probleem niet door tijdsverloop laat oplossen. Haar kinderen verlaten binnen enkele jaren de school terwijl zij nog lang aan de school verbonden wil blijven. Bovendien geeft zij les aan de groepen [# 1] terwijl haar kinderen op dit moment in de groepen [# 2] zitten. De onderbouw (1-4) en bovenbouw (5-8) zijn gevestigd op verschillende locaties. Vanaf volgend schooljaar zullen beide kinderen dus op een andere locatie zitten.
+
+4. Verweerder heeft in reactie op de beroepsgronden gesteld dat de code onderdeel is van de rechtspositieregeling, aanvullend op de Collectieve Arbeidsovereenkomst voor het Primair Onderwijs 2018-2019 (hierna: CAO PO). De code wordt breed gedragen en dient strikt te worden nageleefd, ook om ongelijke behandeling te voorkomen. Omdat eiseres niet vrijwillig meewerkt, stelt verweerder gehouden te zijn de code toe te passen. Verweerder ziet dit als een zwaarwichtige omstandigheid die onvrijwillige overplaatsing rechtvaardigt. Verweerder meent oog te hebben gehad voor de verstrekkende gevolgen en de belangen te hebben afgewogen.
+
+5. De rechtbank stelt voorop dat eiseres valt onder de rechtspositieregeling zoals vervat in de CAO PO. Hierin is voorzien in de mogelijkheid om een [functie] over te plaatsen. Daarbij geldt wel als hoofdregel dat een overplaatsing vrijwillig is. Die hoofdregel is neergelegd in artikel 10.6, eerste lid van de CAO PO. In het tweede lid, onder a tot en met d, staat een aantal bijzondere omstandigheden opgesomd waarin de werkgever de werknemer zonder zijn instemming kan overplaatsen. Volgens het voorschrift in het tweede lid, onder e, kan de werkgever de werknemer zonder zijn instemming overplaatsen in andere door de werkgever met name genoemde zwaarwichtige omstandigheden. Het besluit inzake de over-plaatsing van eiseres berust op artikel 10.6, tweede lid, aanhef en onder e, van de CAO PO.
+
+6. Als verweerder besluit tot een onvrijwillige overplaatsing, dan dient hij daarbij wel de regels zoals neergelegd in de CAO PO te volgen. Ten aanzien van de hier gevolgde procedure overweegt de rechtbank allereerst dat verweerder artikel 10.6, vierde lid, niet heeft nageleefd. Uit dit artikellid volgt dat de werkgever die het voornemen heeft om een werknemer over te plaatsen, in overleg treedt met de werknemer en dat eventuele afspraken schriftelijk worden vastgelegd. De rechtbank stelt vast dat in het geval van eiseres een dergelijk overleg niet heeft plaatsgevonden. Op 18 december 2018 heeft wel een gesprek plaatsgevonden, maar de rechtbank maakt uit de stukken en het verhandelde op zitting op dat dit gesprek een eenzijdig karakter had, nog daargelaten dat het gesprek plaatsvond na de totstandkoming van het primaire besluit. Dat de code duidelijk bekend is gemaakt laat onverlet dat de procedureregels dienen te worden gevolgd.
+
+7. Voorts dient verweerder op grond van artikel 10.6, vijfde lid, van de CAO PO, indien geen overeenstemming wordt bereikt over overplaatsing en hij desalniettemin tot een
+
+onvrijwillige overplaatsing besluit, bij zijn besluit aan te geven op welke wijze hij de belangen van eiseres en de belangen van de organisatie tegen elkaar heeft afgewogen.
+
+De rechtbank stelt vast dat verweerder niet duidelijk heeft gemaakt op welke wijze de belangen van eiseres bij de besluitvorming zijn betrokken. De door verweerder aangevoerde redenen om eiseres over te plaatsen zijn gelegen in het belang van Zaan Primair om de gedragscode door te voeren. In het bestreden besluit stelt verweerder ook met zoveel woorden dat het stichtingsbelang eruit bestaat dat er direct wordt ingegrepen. Verweerder heeft daarmee alleen oog gehad voor het belang van de organisatie. Verweerder stelt de belangen van eiseres wel te hebben gewogen, maar dat is niet kenbaar en inzichtelijk. Dat de gedragscode volgens verweerder breed gedragen is, laat onverlet dat de individuele belangen dienen te worden betrokken bij een individueel besluit tot overplaatsing. Met het geven van een verruimde overgangstermijn is niet voldaan aan in deze te stellen eisen aan de belangenafweging. Tegenover het belang van verweerder om de gedragscode strikt door te voeren staat het belang van eiseres bij het behoud van haar werkplek. In het kader van de belangenafweging had verweerder onder meer ook aandacht moeten besteden aan de verbondenheid van eiseres aan de school, het aantal dienstjaren, de bewuste keuze van eiseres om te gaan werken op een school die onderwijs geeft volgens het [concept] -concept alsook de keuze om haar kinderen daarop te plaatsen en de praktische keuze in verband met de locatie van de school. Andere scholen van verweerder hanteren dit [concept] -concept niet of in mindere mate. Niet onbelangrijk is daarbij ook dat op het moment van inschrijving van de kinderen van eiseres op de school de gedragscode nog niet gold, dat beide kinderen vanaf volgend schooljaar op een andere locatie zitten en het moment waarop de kinderen de school verlaten. Daar komt bij dat, zoals eiseres op de zitting heeft gezegd en verweerder niet heeft weersproken, zich nog nooit problemen hebben voorgedaan. Ook dat had verweerder bij de belangenafweging dienen te betrekken.
+
+8. De rechtbank merkt hier nog bij op dat volgens vaste rechtspraak een besluit tot overplaatsing bestaat uit twee componenten, namelijk het ontheffen uit de eigen functie en het opdragen van een andere (passende) functie. In het bestreden besluit heeft verweerder nagelaten in concreto aan te wijzen naar welke school of andere scholen de betrokkene wordt overgeplaatst. Ook gelet hierop heeft een volledige en deugdelijke belangenafweging niet kunnen plaatsvinden.
+
+9. Naar het oordeel van de rechtbank kunnen voorts de door verweerder aan het besluit ten grondslag gelegde argumenten de gestelde zwaarwichtige omstandigheden niet dragen. De rechtbank neemt hierbij het volgende in aanmerking. Anders dan verweerder meent is de gedragscode te kwalificeren als een beleidsinstrument, een richtlijn waaraan  iedereen binnen de organisatie zich dient te conformeren. Door het in casu onverkort toepassen van deze richtlijn heeft verweerder onvoldoende oog gehad voor de individuele omstandigheden van dit geval. De rechtbank kan zich niet aan de indruk onttrekken dat verweerder te snel en te rigide heeft gehandeld. Dat volgt ook uit hetgeen op zitting is gezegd. Zo is op de zitting van de kant van verweerder naar voren gebracht dat detachering of tijdelijke overplaatsing bespreekbaar is, terwijl volgens eiseres daarover met haar nooit is gecommuniceerd. Zoals uit het vorenstaande volgt dient verweerder eerst in overleg te treden met eiseres en daarbij ook samen met haar de (andere) mogelijkheden voor een oplossing te onderzoeken.
+
+10. Met het overplaatsingsbesluit heeft verweerder dus in strijd gehandeld met de toepasselijke CAO PO. Het bestreden besluit kan daarom geen stand houden en het beroep van eiseres is gegrond. Omdat het aan het bestreden besluit klevende gebrek naar het oordeel van de rechtbank thans niet kan worden hersteld bij een nieuwe beslissing op bezwaar, is de rechtbank van oordeel dat ook het primaire overplaatsingsbesluit niet in stand kan blijven. De rechtbank zal dit besluit herroepen.
+
+11. De rechtbank veroordeelt verweerder in de door eiseres in beroep gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor de indiening van het beroepschrift en 1 punt voor het verschijnen ter zitting van de rechtbank, met een waarde per punt van € 525,- en een wegingsfactor 1).
+
+Omdat de rechtbank het beroepen gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiseres het door haar betaalde griffierecht vergoedt.
+
+Beslissing
+
+De rechtbank:-	verklaart het beroep gegrond;-	vernietigt het bestreden besluit van 28 maart 2019;
+
+- herroept het primaire besluit van 14 november 2018;
+
+- bepaalt dat deze uitspraak in de plaats treedt van het vernietigde bestreden besluit;
+
+- draagt verweerder op het betaalde griffierecht van € 174,- aan eiseres te vergoeden;
+
+- veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.050,-.
+
+Deze uitspraak is gedaan door mr. S.A. Steinhauser, rechter, in aanwezigheid van mr. H.R.A. Horring, griffier.  Deze uitspraak is gedaan op 3 april 2020. Als gevolg van de maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.
+
+griffier						rechter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.
