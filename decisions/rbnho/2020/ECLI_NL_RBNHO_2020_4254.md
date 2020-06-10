@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:4254"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2020-0166", "Module Burgerlijke stand en landeninformatie 2020/5521", "PR-Updates.nl PR-2020-0116", "PJ 2020/112", "EB 2020/78", "Prg. 2020/225", "JIN 2020/153 met annotatie van Winthagen, M.B."]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2020-0166", "Module Burgerlijke stand en landeninformatie 2020/5521", "PR-Updates.nl PR-2020-0116", "PJ 2020/112", "EB 2020/78", "Prg. 2020/225", "JIN 2020/153 met annotatie van Winthagen, M.B.", "PR-Updates.nl 2020-0116"]
 ---
 
 # ECLI:NL:RBNHO:2020:4254 Rechtbank Noord-Holland , 10-06-2020 / C/15/296581 / FA RK 19-6836
