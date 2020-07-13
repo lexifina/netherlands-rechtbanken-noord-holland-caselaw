@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:5452"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 23-07-2020", "V-N Vandaag 2020/1899", "FutD 2020-2185", "VFP 2020/73", "V-N 2020/47.32.2", "NTFR 2020/2290", "NLF 2020/1714 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1899", "VFP 2020/73", "V-N 2020/47.32.2", "NLF 2020/1714", "FutD 2020-2185", "Viditax (FutD) 2020072302"]
 ---
 
 # ECLI:NL:RBNHO:2020:5452 Rechtbank Noord-Holland , 13-07-2020 / AWB - 18 _ 2582
