@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:6855"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0152"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0152", "PR-Updates.nl 2020-0152"]
 ---
 
 # ECLI:NL:RBNHO:2020:6855 Rechtbank Noord-Holland , 30-07-2020 / AWB - 19 _ 2130
