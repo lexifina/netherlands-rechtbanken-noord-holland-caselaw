@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:6076"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 18-08-2020", "V-N Vandaag 2020/1997", "FutD 2020-2372", "V-N 2020/55.2.2", "NTFR 2020/2461", "NLF 2020/1870 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1997", "V-N 2020/55.2.2", "NLF 2020/1870", "FutD 2020-2372", "Viditax (FutD) 2020081819"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2021:3227, Bekrachtiging/bevestiging"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2025:2321, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNHO:2020:6076 Rechtbank Noord-Holland , 11-08-2020 / AWB - 19 _ 4703
