@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:6139"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0142", "PJ 2020/133"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0142", "PJ 2020/133", "PR-Updates.nl 2020-0142"]
 ---
 
 # ECLI:NL:RBNHO:2020:6139 Rechtbank Noord-Holland , 12-08-2020 / 7507407
