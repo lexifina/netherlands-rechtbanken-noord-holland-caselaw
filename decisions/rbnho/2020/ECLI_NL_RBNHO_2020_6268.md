@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:6268"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 23-10-2020", "FutD 2020-3130", "V-N Vandaag 2020/2541", "V-N 2020/57.2.2", "NTFR 2020/3183", "NLF 2020/2337 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2541", "V-N 2020/57.2.2", "NLF 2020/2337", "VFP 2022/64", "FutD 2020-3130", "Viditax (FutD) 2020102318"]
 ---
 
 # ECLI:NL:RBNHO:2020:6268 Rechtbank Noord-Holland , 18-08-2020 / AWB - 20 _ 370
