@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:8420"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0164", "PJ 2020/145"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0164", "PJ 2020/145", "PR-Updates.nl 2020-0164"]
 ---
 
 # ECLI:NL:RBNHO:2020:8420 Rechtbank Noord-Holland , 02-09-2020 / C/15/283313 / HA ZA 19-16
