@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Op tegenspraak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:6892"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1085", "PR-Updates.nl PR-2020-0158"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1085", "PR-Updates.nl PR-2020-0158", "VAAN-AR-Updates.nl 2020-1085", "PR-Updates.nl 2020-0158"]
 ---
 
 # ECLI:NL:RBNHO:2020:6892 Rechtbank Noord-Holland , 03-09-2020 / 8006966 CV EXPL 19-4470
