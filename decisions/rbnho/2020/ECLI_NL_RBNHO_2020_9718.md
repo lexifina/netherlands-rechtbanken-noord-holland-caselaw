@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:9718"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0020", "PR-Updates.nl PR-2021-0008", "PJ 2021/11", "XpertHR.nl 2021-20005600"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0020", "PR-Updates.nl PR-2021-0008", "PJ 2021/11", "VAAN-AR-Updates.nl 2021-0020", "Brightmine 2021-20005600", "PR-Updates.nl 2021-0008"]
 ---
 
 # ECLI:NL:RBNHO:2020:9718 Rechtbank Noord-Holland , 19-10-2020 / 8375569 \ AO VERZ  20-39
