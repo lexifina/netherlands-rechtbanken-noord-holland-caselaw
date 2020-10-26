@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:9188"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 10-11-2020", "V-N Vandaag 2020/2780", "NTFR 2020/3459", "V-N 2021/3.2.3", "Belastingadvies 2021/4.9", "NLF 2020/2533 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2780", "V-N 2021/3.2.3", "Belastingadvies 2021/4.9", "NLF 2020/2533", "Viditax (FutD) 2020111020"]
 ---
 
 # ECLI:NL:RBNHO:2020:9188 Rechtbank Noord-Holland , 26-10-2020 / AWB - 18 _ 602
