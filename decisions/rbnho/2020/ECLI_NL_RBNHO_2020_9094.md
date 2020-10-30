@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:9094"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 11-11-2020", "FutD 2020-3369", "V-N Vandaag 2020/2801", "NTFR 2020/3451", "V-N 2021/2.2.1", "NLF 2020/2520 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2801", "V-N 2021/2.2.1", "NLF 2020/2520", "FutD 2020-3369", "Viditax (FutD) 2020111114"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2022:803, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2020:9094 Rechtbank Noord-Holland , 30-10-2020 / HAA  20 _ 249 tot en met 20_258
