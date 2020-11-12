@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:10031"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 04-12-2020", "FutD 2020-3619", "V-N Vandaag 2020/3041", "NTFR 2021/215 met annotatie van MR. E. ALINK", "VFP 2021/8", "V-N 2021/4.24.7", "Belastingadvies 2021/5.3", "Vp-bulletin 2021/16 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "NLF 2020/2678 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/3041", "VFP 2021/8", "V-N 2021/4.24.7", "Belastingadvies 2021/5.3", "Vp-bulletin 2021/16 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "NLF 2020/2678", "NTFR 2021/215 met annotatie van MR. E. ALINK", "FutD 2020-3619", "Viditax (FutD) 2020120411"]
 ---
 
 # ECLI:NL:RBNHO:2020:10031 Rechtbank Noord-Holland , 12-11-2020 / AWB - 20 _ 432
