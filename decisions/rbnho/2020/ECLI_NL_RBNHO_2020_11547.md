@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:11547"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0207", "PR-Updates.nl PR-2021-0045"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0207", "PR-Updates.nl PR-2021-0045", "VAAN-AR-Updates.nl 2021-0207", "PR-Updates.nl 2021-0045"]
 ---
 
 # ECLI:NL:RBNHO:2020:11547 Rechtbank Noord-Holland , 18-11-2020 / 300348
