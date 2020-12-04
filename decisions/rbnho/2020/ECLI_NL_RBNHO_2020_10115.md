@@ -1,0 +1,153 @@
+---
+ecli: "ECLI:NL:RBNHO:2020:10115"
+court: "Rechtbank Noord-Holland"
+court_code: "RBNHO"
+docket: "AWB - 20 _ 5646"
+decided: "2020-12-04"
+published: "2020-12-03"
+type: "uitspraak"
+procedure: "Voorlopige voorziening"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:10115"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBNHO:2020:10115 Rechtbank Noord-Holland , 04-12-2020 / AWB - 20 _ 5646
+
+## Inhoudsindicatie
+
+Genoegzaam staat vast dat het bg-appartement […] op enig moment in 2018 aan de bestemming tot bewoning is onttrokken […]. De voorzieningenrechter stelt vast dat de Huisvestingsverordening op 1 april 2019 in werking is getreden waarbij de voorheen geldende Huisvestingsverordening Zuid-Kennemerland/IJmond: Zandvoort 2017 is ingetrokken […]. De voorheen geldende Huisvestingsverordening van 2017 behelsde geen verbod om woonruimten zonder vergunning geheel of gedeeltelijk aan de bestemming tot bewoning te onttrekken. Onder de vigeur van de oude Huisvestingsverordening uit 2017 bestond derhalve ook niet de mogelijkheid om een bestuurlijke boete op te leggen voor het onttrekken van woonruimte zonder vergunning. Gelet op het vorenstaande gaat de voorzieningenrechter er van uit dat de onttrekking ergens in 2018 heeft plaatsgevonden en derhalve vóór de inwerkingtreding van het verbod op 1 april 2019 om woonruimten zonder vergunning aan de bestemming tot bewoning te onttrekken. Ten tijde van de onttrekking van de woonruimte aan het woningenbestand door het bg-appartement in zijn geheel in gebruik te nemen ten behoeve van de toeristische verhuur […] kon op grond van de toen geldende Huisvestingsverordening geen boete worden opgelegd. Op dat moment was […] geen sprake van een strafbaar feit. De voorzieningenrechter is zich er van bewust dat het verbod van artikel 21, aanhef en onder a, van de Huisvestingswet - anders dan artikel 16, eerste en derde lid van de Huisvestingsverordening - niet alleen ziet op het zonder vergunning aan de bestemming tot bewoning onttrekken, maar ook op het onttrokken houden. Het is echter de vraag of het enkele onttrokken houden vanaf een moment vóór het van toepassing worden van de strafbepaling in Zandvoort (zonder dat sprake is van een strafbare onttrekking omdat het verbod ten tijde daarvan nog niet gold), het opleggen van een bestuurlijke boete kan rechtvaardigen. Gelet hierop bestaan er bij de voorzieningenrechter twijfels over de rechtmatigheid van de boetebesluiten en ziet hij in het vorenstaande voldoende aanleiding om het verzoek toe te wijzen en de boetebesluiten te schorsen […]
+
+## Uitspraak
+
+RECHTBANK NOORD-HOLLAND
+
+Zittingsplaats Haarlem
+
+Bestuursrecht
+
+zaaknummers: HAA 20/5646 en HAA 20/5925
+
+uitspraak van de voorzieningenrechter van 4 december 2020 op het verzoek om voorlopige voorziening in de zaken tussen
+
+[verzoeker 1] en
+
+[verzoeker 2] ,
+
+beiden te [woonplaats] , verzoekers,
+
+en
+
+het college van burgemeester en wethouders van Zandvoort,  verweerder,
+
+gemachtigden: mr. A.J.P. Beemster en W.L.C. Boelema, beiden ambtenaar bij de Omgevingsdienst IJmond.
+
+Procesverloop
+
+Bij besluiten van 29 september 2020 (de besluiten) heeft verweerder - voor zover van belang - aan verzoekers ieder afzonderlijk een bestuurlijke boete opgelegd van € 6.250,-- voor het zonder huisvestingsvergunning aan de bestemming onttrekken van woonruimte. Daarbij heeft verweerder er op gewezen dat verzoekers op grond van artikel 4:87 van de Algemene wet bestuursrecht (Awb) verplicht zijn om de geldsom binnen zes weken te betalen. Voorts heeft verweerder het voornemen kenbaar gemaakt om tot invordering van de boetes over te gaan en verzoekers in de gelegenheid gesteld om binnen zes weken daartegen een zienswijze in te dienen.
+
+Verzoekers hebben tegen de besluiten bezwaar gemaakt bij bezwaarschrift van 5 oktober 2020. Voorts hebben zij op 29 oktober 2020 de voorzieningenrechter verzocht een voorlopige voorziening te treffen.
+
+Bij ongedateerde brieven, door de rechtbank ontvangen op 2 en 19 november 2020, hebben verzoekers de gronden van hun verzoek aangevuld.
+
+Bij brief van 3 november 2020 heeft verweerder aangegeven dat hij geen aanleiding ziet om over te gaan tot inwilliging van het verzoek om de betalingstermijn voor de boetes op te schorten tot aan de beslissing op bezwaar. Daarentegen is verweerder wel bereid om te wachten met invordering van de boetes, totdat de voorzieningenrechter uitspraak heeft gedaan op het verzoek.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 20 november 2020. [verzoeker 1] is, mede namens [verzoeker 2] , ter zitting verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden.
+
+Overwegingen
+
+1. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt in een (eventueel) bodemgeding niet.
+
+2. Voor het relevante wettelijk kader verwijst de voorzieningenrechter naar de bijlage welke integraal onderdeel uitmaakt van deze uitspraak.
+
+Feiten
+
+3. Voor de beoordeling gaat de voorzieningenrechter uit van de volgende feiten. Verzoekers zijn ieder voor een ½ aandeel eigenaar van de vier appartementsrechten in het pand aan de [adres 1] en de [adres 2] met aanhorigheden te Zandvoort (hierna: het pand). Gezamenlijk vormen verzoekers het bestuur van de Vereniging van Eigenaars [adres 1] . Het pand is als volgt kadastraal gesplitst:
+
+[# 1] : Wonen Appartement; souterrain [adres 2] ; laatste eigendomsoverdracht in 2000;
+
+[# 2] : berging/stalling; [adres 1] ; laatste eigendomsoverdracht in 2000;
+
+[# 3] : Wonen Appartement; begane grond [adres 1] ; laatste eigendomsoverdracht in 1999;
+
+[# 4] : Wonen Appartement; eerste verdieping [adres 1] ; laatste eigendomsoverdracht in 2000.
+
+De ruimte gesitueerd op de eerste (bovenste) verdieping en het appartement in het souterrain van het pand worden permanent voor bewoning verhuurd. Het appartement op de begane grond is met het appartement op de eerste verdieping via gang en trap verbonden. Het appartement op de begane grond is met twee kamers - met sanitaire voorzieningen en zonder kookgelegenheid - met elk twee bedden ingericht voor gebruik als bed-and-breakfastkamers (verder b&b). Verzoekers verhuren de twee kamers op de begane grond afzonderlijk voor (tijdelijk) toeristisch verblijf.
+
+Standpunt verweerder
+
+4. Verweerder heeft aan de oplegging aan verzoekers ieder afzonderlijk van een boete ten grondslag gelegd dat zij het appartement op de begane grond (hierna: het bg-appartement) in zijn geheel zonder vergunning hebben onttrokken aan het woningenbestand van de gemeente door dit appartement van woonruimte te veranderen in b&b. Verzoekers voldoen volgens verweerder niet aan de voorwaarden voor de uitzondering op de vergunningplicht in artikel 16, derde lid, van de Huisvestingsverordening Zuid-Kennemerland/IJmond: Zandvoort 2019 (hierna: de Huisvestingsverordening). In het appartement op de begane grond kan geen hoofdbewoner meer wonen; de gehele ruimte is bestemd voor b&b. Er is derhalve ook geen sprake van een overheersende woonbestemming meer in dat appartement. Bovendien hebben verzoekers het gebruik als b&b niet vooraf aan verweerder gemeld. Verweerder heeft voor zijn motivering verwezen naar hetgeen over het pand geregistreerd staat in (onder meer) het kadaster. Verweerder heeft aanleiding gezien om de boetes van € 12.500,-- met 50% te matigen omdat in 2018 reeds discussie was over de rechtmatigheid van het gebruik van het appartement op de begane grond onder het vigerende bestemmingsplan en een medewerker van de Omgevingsdienst IJmond toen heeft aangegeven dat is voldaan aan de regelgeving en dat verzoekers daarom in de veronderstelling verkeerden en er vanuit mochten gaan dat aan de regelgeving was voldaan.
+
+Gronden van het verzoek
+
+5. Verzoekers hebben - kort zakelijk weergegeven - gevraagd om uitstel van betaling hangende de behandeling van hun bezwaar. Zij zijn van mening dat de boetes onterecht zijn opgelegd en ook nog veel te hoog zijn. Verzoekers voeren aan dat zij het pand in overleg met de gemeente in 2018 hebben verbouwd. Na de verbouwing mochten verzoekers er van uitgaan dat de verdieping en de begane grond samen als één woonhuis worden beschouwd. De huurder op de eerste verdieping treedt namens verzoekers op als beheerder jegens de gebruikers van de b&b. Op 15 november 2018 heeft verweerder een inspectiebezoek gehouden en daarbij is alles akkoord bevonden. Dat is ook schriftelijk aan verzoekers bevestigd bij brief van 10 januari 2019. Voorts betwisten zij dat zij geen melding hebben gemaakt van de verhuur van de b&b-kamers aan toeristen. Verzoekers betalen ieder jaar toeristenbelasting waartoe zij ook een formulier invullen waarin zij vermelden dat zij maximaal vier bedden aan toeristen verhuren, aldus nog steeds verzoekers.
+
+Beoordeling
+
+6.1
+
+De voorzieningenrechter heeft verweerders betoog in het verweerschrift aldus begrepen dat hij de voorzieningenrechter niet bevoegd acht om de boetebesluiten en daarmee de betalingsverplichting van verzoekers hangende bezwaar te schorsen omdat de boetebesluiten direct na de bekendmaking zouden zijn uitgewerkt. De betalingsverplichting vindt, aldus verweerder, zijn grondslag in artikel 4:87 van de Awb en niet in de boetebesluiten zelf. Het verzoek moet daarom niet ontvankelijk worden verklaard, aldus verweerder.
+
+6.2
+
+Vorenstaand betoog wordt verworpen. Met de besluiten van 29 september 2020 is immers aan verzoekers een bestuurlijke boete opgelegd inhoudende een onvoorwaardelijke verplichting tot betaling van een geldsom op grond van artikel 5:40, eerste lid, van de Awb en artikel 24 van de Huisvestingsverordening. De betalingsverplichting vloeit rechtstreeks voort uit de boetebesluiten. Anders dan verweerder lijkt aan te nemen, is bij een boetebesluit, anders dan een verbeurde dwangsom op grond van een last onder dwangsom, geen afzonderlijke invorderingsbeschikking aan de orde. Verweerder heeft in zijn brief van 3 november 2020 aangegeven dat hij geen aanleiding ziet over te gaan tot inwilliging van het verzoek om de betalingstermijn voor de boetes op te schorten tot aan de beslissing op bezwaar. Dat betekent dat de voorzieningenrechter bevoegd is om ex artikel 8:81, eerste lid, van de Awb hangende bezwaar een voorlopige voorziening te treffen die bestaat uit schorsing van het boetebesluit waardoor de betalingsverplichting wordt opgeschort, indien daarvoor aanleiding bestaat. Dat verweerder naar aanleiding van het daartoe door verzoekers gedane verzoek of naar aanleiding van het verzoek om voorlopige voorziening ook zelf de besluiten of de betalingsverplichting hangende het bezwaar had kunnen opschorten, maakt dat niet anders.
+
+6.3
+
+Het verzoek om een voorlopige voorziening kan onder meer worden toegewezen indien de voorzieningenrechter twijfels heeft over de rechtmatigheid van de boetebesluiten. Ter beantwoording van die vraag zal de voorzieningenrechter allereerst ingaan op de vraag of er sprake is van onttrekking van woonruimte.
+
+7.1
+
+Van onttrekking van woonruimte aan de bestemming in de zin van de Huisvestingswet kan slechts sprake zijn, indien het desbetreffende deel van een gebouw op enig moment is bestemd voor permanente (zelfstandige) bewoning. Of dat het geval is, moet worden beoordeeld aan de hand van objectieve maatstaven waarbij noch het feitelijk gebruik noch de registratie van bewoning in de basisregistratie of het kadaster doorslaggevend is. Verhuur van een woonruimte en het gebruik van woonruimte door toeristen, ook indien dit eenmalig is, brengt echter mee dat dergelijke woonruimte niet langer beschikbaar is voor duurzame bewoning zodat een dergelijke woning aan de woonruimtevoorraad is onttrokken. De gemeente Zandvoort heeft voor de vergunningsplicht in verband met woningonttrekking wel een uitzondering gemaakt voor bed-and-breakfastverhuur op voorwaarde dat de woonbestemming overheersend blijft (zie artikel 16, derde lid, van de Huisvestingsverordening voor overige voorwaarden).
+
+7.2
+
+Gelet op het verhandelde ter zitting stelt de voorzieningenrechter vast dat verzoekers voorheen zelf in het pand hebben gewoond en toen de begane grond en de eerste verdieping tezamen als woonruimte in gebruik hadden. In of rond 2005 hebben zij het pand echter verlaten en zijn zij het pand in delen gaan verhuren. Het souterrain, het bg-appartement en de eerste verdieping hebben zij nadien elk afzonderlijk voor permanente bewoning verhuurd, zodat het bg-appartement vanaf dat moment een afzonderlijke woonruimte in de zin van de Huisvestingswet vormde. Voorts heeft de voorzieningenrechter verzoekers aldus begrepen dat zij er in 2018 voor hebben gekozen om het bg-appartement in zijn geheel te gaan verhuren voor short-stay/vakantieverhuur. Daartoe hebben zij het bg-appartement verbouwd tot twee kamers. Verweerder heeft naar aanleiding daarvan aan verzoekers bij besluiten van 19 en 21 juni 2018 een last onder dwangsom opgelegd omdat de woning op de parterre in zijn geheel ter beschikking werd gesteld voor toeristische verhuur, hetgeen naar de mening van verweerder toen in strijd was met het bestemmingsplan. Op dat standpunt is verweerder later, eveneens bij het thans bestreden besluit, teruggekomen.
+
+7.3
+
+Op grond van het vorenstaande is de voorzieningenrechter van oordeel dat genoegzaam vaststaat dat het bg-appartement tot aan 2018 (afzonderlijk) in gebruik was als (zelfstandige) woonruimte en op enig moment in 2018 aan de bestemming tot bewoning is onttrokken en in gebruik is genomen ten behoeve van uitsluitend toeristische verhuur. Dat verzoekers zich op het standpunt stellen dat zij sindsdien het bg-appartement bij de eerste verdieping hebben getrokken en dat thans sprake is van een situatie als bedoeld in artikel 16, derde lid, van de Huisvestingsverordening, waarbij de bewoner van de eerste verdieping optreedt als hoofdbewoner, kan hen niet baten, omdat die omstandigheid niet kan afdoen aan de conclusie dat het bg-appartement als afzonderlijke woonruimte aan het woningenbestand is onttrokken.
+
+8.1
+
+Dat betekent echter nog niet dat de boete terecht is opgelegd. Van belang is om vast te stellen dat het hier gaat om een bestuurlijke boete. De bestuurlijke boete is een punitieve sanctie, gericht op het bestraffen van de overtreder (en het afschrikken van toekomstige overtreders). Dat betekent dan ook dat strafrechtelijke waarborgen van toepassing zijn. Een van die waarborgen is dat een bestuurlijke boete alleen kan worden opgelegd indien de overtreding en de sanctie in een aan de gedraging voorafgaand wettelijk voorschrift zijn omschreven. Anders gezegd: de burger moet vooraf kunnen weten dat als hij een regel overtreedt aan hem of haar een bestuurlijke boete kan worden opgelegd. Deze eis van voorzienbaarheid is neergelegd in artikel 16 van de Grondwet en artikel 5:4, tweede lid, Awb.
+
+8.2
+
+De voorzieningenrechter stelt vast dat de Huisvestingsverordening op 1 april 2019 in werking is getreden waarbij de voorheen geldende Huisvestingsverordening Zuid-Kennemerland/IJmond: Zandvoort 2017 is ingetrokken (zie artikelen 27 en 28 van de thans vigerende Huisvestingsverordening). De voorheen geldende Huisvestingsverordening van 2017 behelsde geen verbod om woonruimten zonder vergunning geheel of gedeeltelijk aan de bestemming tot bewoning te onttrekken. Onder de vigeur van de oude Huisvestingsverordening uit 2017 bestond derhalve ook niet de mogelijkheid om een bestuurlijke boete op te leggen voor het onttrekken van woonruimte zonder vergunning.
+
+9.1
+
+Gelet op het vorenstaande gaat de voorzieningenrechter er van uit dat de onttrekking ergens in 2018 heeft plaatsgevonden en derhalve vóór de inwerkingtreding van het verbod op 1 april 2019 om woonruimten zonder vergunning aan de bestemming tot bewoning te onttrekken. Ten tijde van de onttrekking van de woonruimte aan het woningenbestand door het bg-appartement in zijn geheel in gebruik te nemen ten behoeve van de toeristische verhuur, dan wel het betrekken van dat afzonderlijke appartement bij het appartement op de eerste verdieping, kon op grond van de toen geldende Huisvestingsverordening geen boete worden opgelegd. Op dat moment was er immers geen sprake van een strafbaar feit.
+
+9.2
+
+De voorzieningenrechter is zich er van bewust dat het verbod van artikel 21, aanhef en onder a, van de Huisvestingswet - anders dan artikel 16, eerste en derde lid van de Huisvestingsverordening - niet alleen ziet op het zonder vergunning aan de bestemming tot bewoning onttrekken, maar ook op het onttrokken houden. Het is echter de vraag of het enkele onttrokken houden vanaf een moment vóór het van toepassing worden van de strafbepaling in Zandvoort (zonder dat sprake is van een strafbare onttrekking omdat het verbod ten tijde daarvan nog niet gold), het opleggen van een bestuurlijke boete kan rechtvaardigen. Gelet hierop bestaan er bij de voorzieningenrechter twijfels over de rechtmatigheid van de boetebesluiten en ziet hij in het vorenstaande voldoende aanleiding om het verzoek toe te wijzen en de boetebesluiten te schorsen tot zes weken na de beslissing op bezwaar. Hetgeen voor het overige naar voren is gebracht - waaronder het aldus begrepen beroep van verzoekers op het vertrouwensbeginsel - kan thans onbesproken blijven.
+
+9.3
+
+Voor een proceskostenveroordeling bestaat geen aanleiding. Omdat maar eenmaal griffierecht is geheven voor beide zaken, dient verweerder het hierna te vermelden bedrag aan griffierecht te vergoeden.
+
+Beslissing
+
+De voorzieningenrechter:
+
+- wijst het verzoek om een voorlopige voorziening toe;
+
+- schorst de boetebesluiten tot zes weken na de bekendmaking van de beslissingen op bezwaar;
+
+- draagt verweerder op het betaalde griffierecht ad € 178,-- aan verzoekers te vergoeden.
+
+Deze uitspraak is gedaan door mr. R.H.M. Bruin, voorzieningenrechter, in aanwezigheid van mr. J. Poggemeier, griffier. De beslissing is in het openbaar uitgesproken op 4 december 2020.
+
+griffier							voorzieningenrechter
+
+Afschrift verzonden aan partijen op:
+
+Rechtsmiddel
+
+Tegen deze uitspraak staat geen rechtsmiddel open.
+
+Vergelijk de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 29 januari 2020 (ECLI:NL:RVS:2020:261).
