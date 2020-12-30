@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2020:11631"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0232", "PR-Updates.nl PR-2021-0037", "PJ 2021/55"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0232", "PR-Updates.nl PR-2021-0037", "PJ 2021/55", "VAAN-AR-Updates.nl 2021-0232", "PR-Updates.nl 2021-0037"]
 ---
 
 # ECLI:NL:RBNHO:2020:11631 Rechtbank Noord-Holland , 30-12-2020 / 8508923 CV EXPL 20-4108
