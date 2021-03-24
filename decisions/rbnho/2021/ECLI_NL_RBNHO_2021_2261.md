@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:2261"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/847", "NLF 2021/0805 met annotatie van", "V-N 2021/26.2.8", "NTFR 2021/1410 met annotatie van mr. J.P.W.H.T. Becks, mr. N. Arzini"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/847", "NLF 2021/0805", "V-N 2021/26.2.8", "NTFR 2021/1410 met annotatie van mr. J.P.W.H.T. Becks, mr. N. Arzini", "FutD 2021-1179", "Viditax (FutD) 2021040703"]
 ---
 
 # ECLI:NL:RBNHO:2021:2261 Rechtbank Noord-Holland , 24-03-2021 / AWB - 20 _ 3044
