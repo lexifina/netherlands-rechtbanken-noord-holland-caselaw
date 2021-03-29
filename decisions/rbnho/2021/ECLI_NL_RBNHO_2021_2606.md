@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:2606"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/808", "NLF 2021/0756 met annotatie van", "V-N 2021/26.2.2"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/808", "NLF 2021/0756", "V-N 2021/26.2.2", "FutD 2021-1078", "Viditax (FutD) 2021033101"]
 ---
 
 # ECLI:NL:RBNHO:2021:2606 Rechtbank Noord-Holland , 29-03-2021 / HAA 20/3166
