@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:4640"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1376", "NLF 2021/1231 met annotatie van", "V-N 2021/27.25.3", "Viditax (FutD) 2021060826", "FutD 2021-1828"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1376", "NLF 2021/1231", "V-N 2021/27.25.3", "Viditax (FutD) 2021060826", "FutD 2021-1828"]
 ---
 
 # ECLI:NL:RBNHO:2021:4640 Rechtbank Noord-Holland , 09-04-2021 / AWB - 20 _ 2911
