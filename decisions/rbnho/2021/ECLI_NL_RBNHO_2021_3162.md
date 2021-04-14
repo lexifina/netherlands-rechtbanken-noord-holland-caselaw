@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:3162"
-published_in: ["Rechtspraak.nl", "PJ 2021/85", "PR-Updates.nl PR-2021-0103", "OR-Updates.nl 2021-0250"]
+published_in: ["Rechtspraak.nl", "PJ 2021/85", "PR-Updates.nl PR-2021-0103", "OR-Updates.nl 2021-0250", "PR-Updates.nl 2021-0103"]
 ---
 
 # ECLI:NL:RBNHO:2021:3162 Rechtbank Noord-Holland , 14-04-2021 / 7971208 CV EXPL 19-11844
