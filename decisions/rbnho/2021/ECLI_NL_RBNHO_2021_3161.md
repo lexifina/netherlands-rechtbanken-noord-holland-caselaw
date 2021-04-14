@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:3161"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0104", "OR-Updates.nl 2021-0249"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0104", "OR-Updates.nl 2021-0249", "PR-Updates.nl 2021-0104"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2022:3534"]]
 ---
 
 # ECLI:NL:RBNHO:2021:3161 Rechtbank Noord-Holland , 14-04-2021 / 7840165 \ CV EXPL  19-8348
