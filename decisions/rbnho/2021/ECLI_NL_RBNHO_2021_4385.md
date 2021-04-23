@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:4385"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0126"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0126", "PR-Updates.nl 2021-0126"]
 ---
 
 # ECLI:NL:RBNHO:2021:4385 Rechtbank Noord-Holland , 23-04-2021 / AWB 20_3348
