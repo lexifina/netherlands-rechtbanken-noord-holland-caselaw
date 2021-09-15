@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:11600"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0038"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0038", "PR-Updates.nl 2022-0038"]
 ---
 
 # ECLI:NL:RBNHO:2021:11600 Rechtbank Noord-Holland , 15-09-2021 / C/15/313496 / HA ZA 21-103
