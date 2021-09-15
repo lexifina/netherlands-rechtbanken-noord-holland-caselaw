@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:8090"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0180"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0180", "PR-Updates.nl 2021-0180"]
 ---
 
 # ECLI:NL:RBNHO:2021:8090 Rechtbank Noord-Holland , 15-09-2021 / 305693
