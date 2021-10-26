@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:9536"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1376", "JAR 2021/294 met annotatie van Vermeeren-Keijzers, I.H., Haaren, K.A. van", "PR-Updates.nl PR-2021-0222", "PJ 2022/3", "VAAN-AR-Updates.nl 2021-1376"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1376", "JAR 2021/294 met annotatie van Haaren, K.A. van, Vermeeren-Keijzers, I.H.", "PR-Updates.nl PR-2021-0222", "PJ 2022/3", "VAAN-AR-Updates.nl 2021-1376", "PR-Updates.nl 2021-0222"]
 ---
 
 # ECLI:NL:RBNHO:2021:9536 Rechtbank Noord-Holland , 26-10-2021 / 9360278 AO VERZ 21-78
