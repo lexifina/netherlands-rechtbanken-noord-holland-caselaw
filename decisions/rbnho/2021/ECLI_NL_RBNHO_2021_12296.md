@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2021:12296"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2022011110", "FutD 2022-0232"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2023:410, Niet bevoegd"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2023:410, Niet bevoegd"], ["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4131, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBNHO:2021:12296 Rechtbank Noord-Holland , 24-12-2021 / AWB - 20 _ 530
