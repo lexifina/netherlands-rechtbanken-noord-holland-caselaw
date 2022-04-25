@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2022:3557"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5986, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2022:3557 Rechtbank Noord-Holland , 25-04-2022 / 21/3256
