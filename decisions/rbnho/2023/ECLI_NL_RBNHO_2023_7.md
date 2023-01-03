@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:7"
 published_in: ["Rechtspraak.nl", "OGR-Updates.nl 2023-0012"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4101, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNHO:2023:7 Rechtbank Noord-Holland , 03-01-2023 / 22/74
