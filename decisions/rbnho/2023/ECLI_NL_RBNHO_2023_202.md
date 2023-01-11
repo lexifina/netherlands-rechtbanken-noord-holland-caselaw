@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:202"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2023/84", "PJ 2023/19", "PR-Updates.nl PR-2023-0074", "VAAN-AR-Updates.nl 2023-0228"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2023/84", "PJ 2023/19", "PR-Updates.nl PR-2023-0074", "VAAN-AR-Updates.nl 2023-0228", "PR-Updates.nl 2023-0074"]
 ---
 
 # ECLI:NL:RBNHO:2023:202 Rechtbank Noord-Holland , 11-01-2023 / 10211416
