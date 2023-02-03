@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:789"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0245", "PR-Updates.nl PR-2023-0035", "VAAN-AR-Updates.nl 2023-0245"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0245", "PR-Updates.nl PR-2023-0035", "VAAN-AR-Updates.nl 2023-0245", "PR-Updates.nl 2023-0035"]
 ---
 
 # ECLI:NL:RBNHO:2023:789 Rechtbank Noord-Holland , 03-02-2023 / 10238864
