@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:1743"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/591", "Sdu Nieuws Personen- en familierecht 2023/180", "NLF 2023/0733 met annotatie van Theo Hoogwout", "V-N 2023/17.2.1", "Belastingadvies 2023/9.1", "Sdu Nieuws Belastingzaken 2023/244", "Viditax (FutD) 2023031402", "FutD 2023-0706"]
-relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2024:1494, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2024:1494, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Hoger beroep: ECLI:NL:GHDHA:2026:2038, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNHO:2023:1743 Rechtbank Noord-Holland , 14-02-2023 / 20/6303 en 21/163
