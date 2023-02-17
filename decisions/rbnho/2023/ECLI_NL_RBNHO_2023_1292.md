@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:1292"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2023/258", "PR-Updates.nl PR-2023-0068"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2023/258", "PR-Updates.nl PR-2023-0068", "PR-Updates.nl 2023-0068"]
 ---
 
 # ECLI:NL:RBNHO:2023:1292 Rechtbank Noord-Holland , 17-02-2023 / C/15/329529 / FA RK 22-3024
