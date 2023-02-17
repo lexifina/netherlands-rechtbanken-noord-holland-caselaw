@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:1233"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0028"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0028", "PR-Updates.nl 2023-0028"]
 ---
 
 # ECLI:NL:RBNHO:2023:1233 Rechtbank Noord-Holland , 17-02-2023 / C/15/323236 / FA RK 21-6064
