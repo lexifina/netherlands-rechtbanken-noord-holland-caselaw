@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:1363"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6367, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2023:1363 Rechtbank Noord-Holland , 23-02-2023 / 22/1162
