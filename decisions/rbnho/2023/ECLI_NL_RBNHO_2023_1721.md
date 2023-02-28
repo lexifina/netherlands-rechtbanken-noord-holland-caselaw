@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:1721"
 published_in: ["Rechtspraak.nl", "NLF 2023/0566", "V-N Vandaag 2023/596", "V-N 2023/21.1.5", "NTFR 2023/515 met annotatie van mr. R. van der Wilt LLM", "Sdu Nieuws Belastingzaken 2023/222", "Viditax (FutD) 2023030906", "FutD 2023-0656"]
+relations: [["Formele relatie", "Sprongcassatie: ECLI:NL:HR:2026:811"]]
 ---
 
 # ECLI:NL:RBNHO:2023:1721 Rechtbank Noord-Holland , 28-02-2023 / HAA 21/2477
