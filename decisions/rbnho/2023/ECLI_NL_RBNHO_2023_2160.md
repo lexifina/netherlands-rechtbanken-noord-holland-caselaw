@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:2160"
-published_in: ["Rechtspraak.nl", "NJF 2023/371"]
+published_in: ["Rechtspraak.nl", "NJF 2023/371", "NJFCZ 2026/290"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:RBNHO:2022:10587"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:RBNHO:2022:8124"]]
 ---
 
