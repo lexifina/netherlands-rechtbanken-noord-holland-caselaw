@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:2190"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2023/8824"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4744, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2023:2190 Rechtbank Noord-Holland , 09-03-2023 / HAA 22/324, HAA 22/349, HAA 22/369 en HAA 22/370
