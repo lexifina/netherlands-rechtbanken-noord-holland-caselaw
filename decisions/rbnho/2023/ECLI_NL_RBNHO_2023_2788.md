@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:2788"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1516"]]
 ---
 
 # ECLI:NL:RBNHO:2023:2788 Rechtbank Noord-Holland , 29-03-2023 / C/15/335466 / FA RK 23-54
