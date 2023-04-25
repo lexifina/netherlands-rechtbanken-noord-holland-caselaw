@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:5607"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2023/277", "PR-Updates.nl PR-2023-0158"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2023/277", "PR-Updates.nl PR-2023-0158", "PR-Updates.nl 2023-0158"]
 ---
 
 # ECLI:NL:RBNHO:2023:5607 Rechtbank Noord-Holland , 25-04-2023 / 10345745 \ AO VERZ  23-13
