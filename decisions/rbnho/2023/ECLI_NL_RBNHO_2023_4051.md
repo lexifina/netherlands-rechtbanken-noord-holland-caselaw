@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:4051"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:487, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBNHO:2023:4051 Rechtbank Noord-Holland , 03-05-2023 / HAA 22/2342
