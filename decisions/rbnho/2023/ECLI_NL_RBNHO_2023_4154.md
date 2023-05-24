@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:4154"
-published_in: ["Rechtspraak.nl", "PJ 2023/80", "PR-Updates.nl PR-2023-0126"]
+published_in: ["Rechtspraak.nl", "PJ 2023/80", "PR-Updates.nl PR-2023-0126", "PR-Updates.nl 2023-0126"]
 ---
 
 # ECLI:NL:RBNHO:2023:4154 Rechtbank Noord-Holland , 24-05-2023 / 10161531 CV EXPL 22-6210
