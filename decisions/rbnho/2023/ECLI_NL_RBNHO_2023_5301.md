@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:5301"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0700", "Sdu Nieuws Arbeidsrecht 2023/239", "PR-Updates.nl PR-2023-0129", "VAAN-AR-Updates.nl 2023-0700", "Brightmine 2023-20009169"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0700", "Sdu Nieuws Arbeidsrecht 2023/239", "PR-Updates.nl PR-2023-0129", "VAAN-AR-Updates.nl 2023-0700", "Brightmine 2023-20009169", "PR-Updates.nl 2023-0129"]
 ---
 
 # ECLI:NL:RBNHO:2023:5301 Rechtbank Noord-Holland , 07-06-2023 / 10379007 AO VERZ 23-23
