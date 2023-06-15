@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:5393"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:3008, Overig"]]
 ---
 
 # ECLI:NL:RBNHO:2023:5393 Rechtbank Noord-Holland , 15-06-2023 / 15.298727.22
