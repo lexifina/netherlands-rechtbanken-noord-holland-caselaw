@@ -1,0 +1,304 @@
+---
+ecli: "ECLI:NL:RBNHO:2023:5540"
+court: "Rechtbank Noord-Holland"
+court_code: "RBNHO"
+docket: "C/15/338449 KG ZA 23-174"
+decided: "2023-06-19"
+published: "2023-06-15"
+type: "uitspraak"
+procedure: "Kort geding"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:5540"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBNHO:2023:5540 Rechtbank Noord-Holland , 19-06-2023 / C/15/338449 KG ZA 23-174
+
+## Inhoudsindicatie
+
+Kort geding. Vordering van de gemeente en kinderopvangorganisatie tegen de exploitant van de lokale sporthal. Eisers vorderen dat gedaagde wordt veroordeeld tot nakoming van de gesloten (onder)huur- en exploitatie-overeenkomst, op grond waarvan er kinderopvang in de sporthal aanwezig is. De voorzieningenrechter is van oordeel dat eisers op dit moment geen spoedeisend belang hebben bij een voorziening, gelet op de toezegging van gedaagde dat de kinderopvangorganisatie de ruimten in de sporthal nog ruim een jaar kan blijven huren tegen dezelfde voorwaarden.
+
+## Uitspraak
+
+RECHTBANK Noord-Holland
+
+Civiel recht
+
+Zittingsplaats Alkmaar
+
+Zaaknummer: C/15/338449 / KG ZA 23-174
+
+Vonnis in kort geding van 19 juni 2023
+
+in de zaak van
+
+GEMEENTE OPMEER,
+
+gevestigd te Opmeer,
+
+hierna te noemen: de gemeente,
+
+eiseres in de hoofdzaak,
+
+advocaat: mr. F.M. Wagener te Alkmaar,
+
+tegen
+
+[gedaagde]
+
+,
+
+gevestigd te [vestigingsplaats 2] ,
+
+gedaagde in de hoofdzaak,
+
+hierna te noemen: [gedaagde] ,
+
+ter zitting vertegenwoordigd door haar bestuurders,
+
+en
+
+[belanghebbende]
+
+,
+
+gevestigd te [vestigingsplaats 1] ,
+
+als tussenkomende partij,
+
+hierna te noemen: [belanghebbende]
+
+advocaat: mr. R.A. Reijnen te Hoorn.
+
+1
+De procedure
+
+1.1.
+
+Het verloop van de procedure blijkt uit:
+
+- de dagvaarding van 2 mei 2023, met 18 producties,
+
+- het exploot van 26 mei 2023, waarbij een akte houdende wijziging van eis is betekend aan [gedaagde] ,
+
+- de incidentele conclusie tot tussenkomst/voeging van [belanghebbende] , met 18 producties, ingekomen op 30 mei 2023,
+
+- de brief van [gedaagde] van 2 juni 2023, met 43 producties,
+
+- de brief van de gemeente van 1 juni 2023, met productie 19,
+
+- de brief van de gemeente van 2 juni 2023, met productie 20 tot en met 24, - de mondelinge behandeling van 5 juni 2023, waar voor de gemeente zijn verschenen[adviseur gemeente] , adviseur, en [beleidsadviseur gemeente] , beleidsadviseur, bijgestaan door mr. Wagener, en voor [gedaagde] zijn verschenen [bestuurder 1] en [bestuurder 2] , bestuurders, zonder advocaat, en voor [belanghebbende] zijn verschenen [vertegewoorder 1 belanghebbende] en [vertegenwoordiger 2 belanghebbende] , bijgestaan door mr. Reijnen,- de pleitnota van de gemeente,
+
+- de pleitnota van [belanghebbende] , - de pleitnota van [gedaagde] .
+
+1.2.
+
+Op de vordering in het incident is tijdens de mondelinge behandeling beslist. [belanghebbende] is als tussenkomende partij toegelaten.
+
+2
+De feiten
+
+2.1.
+
+De gemeente heeft op 15 december 2020 een huurovereenkomst en een exploitatieovereenkomst gesloten met [gedaagde] . Beide overeenkomsten eindigen op 21 augustus 2025. De aandelen van [gedaagde] werden destijds (middellijk) gehouden door [aandeelhouder] .
+
+2.2.
+
+In de huurovereenkomst zijn de voorwaarden voor de verhuur van Sporthal [gedaagde] (verder: de sporthal) geregeld. De sporthal maakt deel uit van een geheel sportcomplex. De exploitatieovereenkomst ziet op het gehele sportcomplex, waarvan [gedaagde] een gedeelte in gebruik heeft op grond van een met de gemeente gesloten erfpachtovereenkomst.
+
+2.3.
+
+In de huurovereenkomst is, voor zover hier van belang, het volgende opgenomen:
+
+“Artikel 2. Het gehuurde, bestemming
+
+(…)
+
+4. 	Het gehuurde zal door of vanwege Huurder uitsluitend worden gebruikt overeenkomstig de bestemming zoals omschreven in de Exploitatieovereenkomst, inhoudende de verplichting om het gehuurde in gericht te houden als en te exploiteren (exploitatieplicht) als publieke voorziening met inachtneming van het bepaalde in artikel 3 van de Exploitatieovereenkomst. Hierbij wordt onderscheid gemaakt in:
+
+a. Reguliere activiteiten en bestemmingen. Dit is verhuur aan voor sportactiviteiten van Opmeerse verenigingen en de verhuur aan de in het Sportcentrum gevestigde kinderopvang.
+
+(…)”
+
+2.4.
+
+In de exploitatieovereenkomst is, voor zover hier van belang, bepaald:
+
+“
+Artikel 3. Bestemming en gebruik
+
+(…)
+
+5)	De Accommodatie vormt een publieke voorziening voor de inwoners van de gemeente Opmeer, die hen gelegenheid biedt tot actieve en passieve sportbeoefening en recreatiemogelijkheden in de brede zin van de betekenis. De Exploitant is verplicht de Accommodatie te exploiteren en ingericht te houden als publieke voorziening.
+
+6) 	De exploitant dient in beginsel alle huidige activiteiten, zoals in de huurovereenkomst beschreven in artikel 2, lid 4 onder a, die nu plaats vinden in de Accommodatie te faciliteren.
+
+(…)
+
+Artikel 11. Verslaglegging, informatieverstrekking en overleg
+
+(…)
+
+2) 	Partijen voeren minimaal 2 maal per jaar overleg over de exploitatie van de Accommodatie, relevante beleidsvoornemens en maatschappelijke ontwikkelingen. (…)”.
+
+2.5.
+
+Sedert 2011 huurt [belanghebbende] van [gedaagde] een aantal ruimtes van de sporthal ten behoeve van kinderopvang/buitenschoolse opvang. Blijkens de aanhef van de schriftelijke (onder)huurovereenkomst is de strekking van de overeenkomst om de opvang van de kinderen te combineren met sport in de sporthal.
+
+2.6.
+
+Eind 2022/begin 2023 hebben [betrokkene 1] en [betrokkene 2] de aandelen in [gedaagde] van [aandeelhouder] overgenomen.
+
+2.7.
+
+Bij brief van 8 september 2022 heeft [gedaagde] de (onder)huurovereenkomst met [belanghebbende] opgezegd. [belanghebbende] heeft de gemeente daarover geïnformeerd. Vervolgens is er overleg tussen de gemeente en [belanghebbende] geweest. Bij brief van 20 december 2023 heeft [belanghebbende] de gemeente verzocht om bij [gedaagde] tegen de opzegging te ageren.
+
+2.8.
+
+Bij brief van 13 januari 2023 heeft de gemeente [gedaagde] gesommeerd tot nakoming van de verplichtingen uit de huur- en de exploitatieovereenkomst. Hierop heeft overleg plaatsgevonden. [gedaagde] heeft bij brief van 25 januari 2023 aan [belanghebbende] medegedeeld dat zij de opzegging intrekt, om de gesprekken in goede harmonie te kunnen voortzetten.
+
+2.9.
+
+Tijdens daarop gevolgde besprekingen heeft [gedaagde] te kennen gegeven dat zij de kinderopvang wil verplaatsen naar een andere plek in de sporthal. [belanghebbende] heeft daarop verzocht om een volledig uitgewerkt plan. [gedaagde] heeft vervolgens een tekening naar [belanghebbende] gestuurd, met een korte toelichting, en enige dagen later ook een nieuwe huurovereenkomst.
+
+2.10.
+
+Bij brief van 24 februari 2023 heeft [belanghebbende] aan [gedaagde] medegedeeld dat zij niet kan instemmen met het (niet uitgewerkte) plan om [belanghebbende] te verplaatsen en ook niet met de inhoud van de nieuwe huurovereenkomst.
+
+2.11.
+
+Bij e-mail van 24 februari 2023 heeft [gedaagde] aan [belanghebbende] bericht: “Naar aanleiding van het, voor ons gevoel zeer positieve gesprek, dat wij op woensdag 15-02-2023 met elkaar hebben gehad, zijn wij ervan overtuigd dat wij met elkaar tot een goede oplossing kunnen komen. Mr. Van Til heeft in dat kader reeds een nieuw huurvoorstel aan u doen toekomen.
+
+In het verlengde van dit nieuwe huurvoorstel en in verband met het naderende einde van het huurcontract per 1 september 2023 zeggen wij de huidige huurovereenkomst hierbij formeel op met inachtneming van de opzegtermijn van 6 maanden. Voorts zeggen wij de ontruiming per die datum hierbij eveneens formeel aan.
+
+Wij benadrukken daarbij dat wij in alle redelijkheid de intentie hebben om de huurrelatie met u voort te zetten en derhalve het nieuwe huurvoorstel aan u hebben doen toekomen. (…)”.
+
+2.12.
+
+De gemeente heeft bij brieven van 17 maart 2023 en 31 maart 2023 [gedaagde] gesommeerd de opzegging van de huurovereenkomst met [belanghebbende] in te trekken.
+
+2.13.
+
+[gedaagde] heeft bij e-mail van 3 april 2023 aan de gemeente en [belanghebbende] onder meer bericht dat zij de opzegging van de huur niet vrijwillig zal intrekken.
+
+2.14.
+
+Op 4 mei 2023 heeft [gedaagde] nogmaals een nieuwe onderhuurovereenkomst aan [belanghebbende] toegezonden. Bij e-mail van 15 mei 2023 aan [gedaagde] heeft [belanghebbende] daar afwijzend op gereageerd.
+
+3.	Het geschil
+
+vordering gemeente
+
+3.1.
+
+De gemeente vordert na eiswijziging - samengevat – dat de voorzieningenrechter [gedaagde] hoofdelijk zal veroordelen tot nakoming van de uit de exploitatieovereenkomst en/of de huurovereenkomst en/of de onderhuurovereenkomst voortvloeiende verplichting om [belanghebbende] ook na 31 augustus 2023 onverkort het huurgenot te verschaffen van het gehuurde, op straffe van verbeurte van een dwangsom, met veroordeling van [gedaagde] in de proceskosten, waaronder nakosten, met rente.
+
+3.2.
+
+Daartoe stelt de gemeente – zakelijk weergegeven – het volgende. Tussen de gemeente en [gedaagde] zijn twee overeenkomsten gesloten waarin de exploitatie en de verhuur van een deel van de sporthal geregeld. Deze overeenkomsten zijn onlosmakelijk met elkaar verbonden. In de overeenkomsten is onder meer bepaald dat [gedaagde] verplicht is het gehuurde te exploiteren met de reeds aanwezige huurders daarin. De kinderopvang wordt daarbij expliciet genoemd. De gedachte achter deze verplichting voor [gedaagde] is dat de gemeente de aanwezigheid van bepaalde voorzieningen op die plek voor haar inwoners wil waarborgen. [belanghebbende] combineert de opvang met beweging. De gemeente hecht daaraan. Door opzegging van de onderhuurovereenkomst met [belanghebbende] pleegt [gedaagde] wanprestatie. De gemeente heeft [gedaagde] gesommeerd tot nakoming van de uit de overeenkomsten voortvloeiende verplichting om [belanghebbende] haar kinderdagverblijf te laten exploiteren, maar [gedaagde] heeft aangegeven dat zij de huuropzegging niet zal intrekken. De gemeente heeft spoedeisend belang bij haar vorderingen, omdat zij de ouders/verzorgers van de kinderen snel duidelijkheid wil geven over het voortbestaan van de kinderopvang in de sporthal.
+
+vordering [belanghebbende] in het incident en in de hoofdzaak
+
+3.3.
+
+[belanghebbende] vordert - samengevat – dat de voorzieningenrechter – primair -
+
+I. 	haar ex artikel 217 van het Wetboek van Rechtsvordering (Rv) zal toestaan om tussen te komen in de hoofdzaak,
+
+II. 	[gedaagde] hoofdelijk zal veroordelen tot nakoming van de uit exploitatieovereenkomst en/of de huurovereenkomst en/of de onderhuurovereenkomst voortvloeiende verplichting om [belanghebbende] ook na 31 augustus 2023 onverkort het huurgenot te verschaffen van het gehuurde, op straffe van verbeurte van een dwangsom, met veroordeling van [gedaagde] in de proceskosten, waaronder nakosten, met rente,
+
+en subsidiair
+
+III. haar zal toestaan om zich ex artikel 217 Rv te voegen in de hoofdzaak aan de zijde van de gemeente, met veroordeling van [gedaagde] in de proceskosten, waaronder nakosten, met rente.
+
+3.4.
+
+[belanghebbende] legt aan haar incidentele vordering tot tussenkomst/voeging het volgende
+
+– zakelijk weergegeven – ten grondslag. De gemeente vordert in de hoofdzaak dat [gedaagde] wordt veroordeeld tot het ook na 31 augustus 2023 aan [belanghebbende] verschaffen van het huurgenot. [belanghebbende] heeft groot belang bij de uitkomst van die procedure in verband met de nadelige feitelijke en juridische gevolgen die dit voor haar kan hebben. [belanghebbende] heeft ook een zelfstandig vorderingsrecht op [gedaagde] . Ter onderbouwing van haar materiële vordering voert [belanghebbende] voorts het volgende – kort weergegeven – aan. [gedaagde] heeft de met [belanghebbende] gesloten huurovereenkomst opgezegd per 1 september 2023 en weigert deze opzegging ongedaan te maken. Het is [gedaagde] niet toegestaan om de huurovereenkomst op te zeggen, gelet op de bepalingen die zijn opgenomen in de huur- en exploitatieovereenkomst met de gemeente. Die bepalingen dienen tevens te worden gekwalificeerd als derdenbeding, waardoor [gedaagde] zich ook tegenover [belanghebbende] heeft verbonden om haar in staat te stellen haar kinderopvang in het gehuurde te exploiteren. [gedaagde] handelt voorts in strijd met de goede trouw en de redelijkheid en billijkheid, en ook maakt zij zich schuldig aan misbruik van recht. De opzegging heeft enkel tot doel [belanghebbende] onder druk te zetten en in te laten stemmen met een verplaatsing naar een andere ruimte in de sporthal en nieuwe huurvoorwaarden. Beëindiging van de kinderopvang in de sporthal heeft zeer negatieve gevolgen voor [belanghebbende] , haar personeel, de ouders en de kinderen. De kinderen kunnen niet bij andere kinderopvangorganisaties terecht, omdat deze lange wachtlijsten hebben. Hierom heeft [belanghebbende] spoedeisend belang bij haar vorderingen.
+
+verweer [gedaagde] in de hoofdzaak en het incident
+
+3.5.
+
+[gedaagde] voert verweer. Zij concludeert tot niet-ontvankelijkheid van de gemeente respectievelijk [belanghebbende] , dan wel tot afwijzing van de vorderingen van de gemeente respectievelijk [belanghebbende] , met veroordeling van de gemeente respectievelijk [belanghebbende] in de proceskosten.
+
+3.6.
+
+Op hetgeen partijen hebben aangevoerd wordt, voor zover van belang, onder de beoordeling (nader) ingegaan.
+
+4
+De beoordeling in de hoofdzaak en het incident
+
+in het incident
+
+4.1.
+
+Zoals hiervoor onder punt 1.2. is weergegeven, heeft de voorzieningenrechter ter zitting mondeling uitspraak gedaan en beslist dat [belanghebbende] als tussenkomende partij wordt toegelaten. Daartoe heeft de voorzieningenrechter overwogen dat duidelijk is dat [belanghebbende] belang heeft bij de uitkomst in de hoofdzaak en voorts dat zij een eigen vordering tegen [gedaagde] wenst in te stellen tot blijven verschaffen van het huurgenot van het gehuurde. De proceskosten in het incident worden gecompenseerd.
+
+in de hoofdzaak
+
+4.2.
+
+Omdat de gemeente en [belanghebbende] identieke vorderingen tot nakoming hebben ingesteld zal de voorzieningenrechter deze gezamenlijk beoordelen.
+
+4.3.
+
+De voorzieningenrechter stelt voorop dat de kortgeding-procedure bedoeld is voor zaken waarin een ordemaatregel moet worden gegeven. De rechter moet daarom eerst beoordelen of de eisende partij een spoedeisend belang bij de gevorderde voorziening heeft. Hiervan is sprake indien de voorziening uit hoofde van onverwijlde spoed noodzakelijk is en de afloop van een bodemprocedure niet kan worden afgewacht. Het is vaste rechtspraak van de Hoge Raad dat het spoedeisend belang moet worden beantwoord te worden aan de hand van een afweging van de belangen van partijen, beoordeeld naar de toestand ten tijde van de uitspraak. Het ligt op de weg van de eisende partij om te stellen en te onderbouwen dat hij een spoedeisend belang heeft bij de vorderingen die hij instelt.
+
+4.4.
+
+Verder is voor toewijzing van de vordering in dit kort geding vereist dat de aan die vordering ten grondslag gelegde feiten en omstandigheden voldoende aannemelijk zijn en dat het ook in voldoende mate waarschijnlijk is dat die vordering in een nog te voeren gewone procedure (bodemprocedure) zal worden toegewezen. Voor nader onderzoek naar bepaalde feiten en omstandigheden of voor bewijslevering door bijvoorbeeld getuigen is in dit kort geding in beginsel geen plaats. Dat moet gebeuren in een eventuele bodemprocedure. De beoordeling in dit kort geding is dan ook niet meer dan een voorlopig oordeel over het geschil tussen partijen.
+
+4.5.
+
+[gedaagde] heeft aangevoerd dat de gemeente en [belanghebbende] geen spoedeisend belang bij hun vorderingen hebben. Zij wijst er op dat zij bij e-mail van 31 mei 2023 aan de gemeente en [belanghebbende] heeft voorgesteld om de huidige onderhuurovereenkomst te verlengen tot 1 september 2024, en dat zij daarbij ook heeft voorgesteld om een mediator te benoemen om in overleg tot een nieuwe huurovereenkomst te komen. [gedaagde] stelt dat het dus niet noodzakelijk is dat de voorzieningenrechter nu een voorziening treft.
+
+4.6.
+
+Ter zitting heeft [bestuurder 1] op vragen van de voorzieningenrechter geantwoord dat het aanbod van [gedaagde] om de huidige (onder)huurovereenkomst met [belanghebbende] voort te zetten tot 1 september 2024 een onvoorwaardelijk aanbod betreft en dat dezelfde voorwaarden van de (onder)huurovereenkomst blijven gelden tot 1 september 2024.
+
+4.7.
+
+Gelet op deze onvoorwaardelijke toezegging van [gedaagde] dat zij nog gedurende bijna 15 maanden onverkort dezelfde faciliteiten aan [belanghebbende] zal blijven aanbieden tegen dezelfde huurprijs en andere geldende voorwaarden, is de voorzieningenrechter van oordeel dat de gemeente en [belanghebbende] op dit moment geen spoedeisend belang hebben bij de door hen gevraagde voorziening. [gedaagde] blijft immers nog geruime tijd het huurgenot aan [belanghebbende] verschaffen en dat is waartoe de vorderingen in dit kort geding strekken. Voor de vordering van [belanghebbende] is verder van belang dat [belanghebbende] krachtens artikel 7:230a Burgerlijk Wetboek de kantonrechter kan verzoeken de termijn waarbinnen ontruiming plaats moet vinden, te verlengen.
+
+4.8.
+
+Uit de standpunten van de gemeente en [belanghebbende] blijkt dat zij (ook) duidelijkheid voor de komende jaren willen krijgen, maar dat is niet aan de voorzieningenrechter. In kort geding worden alleen ordemaatregelen getroffen.
+
+4.9.
+
+Over de opzegging van de (onder)huurovereenkomst met [belanghebbende] , waarvan de gemeente en [belanghebbende] stellen dat die ook in strijd is met de exploitatieovereenkomst en de huurovereenkomst tussen de gemeente en [gedaagde] , overweegt de voorzieningenrechter dat de gemeente niet zelf partij is bij de onderhuurovereenkomst tussen [gedaagde] en [belanghebbende] , en dat in de huur- en exploitatieovereenkomst (in samenhang gelezen) alleen is bepaald dat [gedaagde] de in de sporthal gevestigde kinderopvang moet blijven aanbieden. Uit de tekst van de overeenkomsten blijkt niet dat de kinderopvang specifiek door [belanghebbende] moet worden aangeboden. Of de overeenkomsten een derdenbeding ten gunste van [belanghebbende] bevatten, is dus maar de vraag. Een en ander moet in een bodemprocedure beoordeeld worden. In die procedure kan nader onderzoek naar de feiten plaatsvinden. Daarvoor leent het kort geding zich naar zijn aard niet.
+
+4.10.
+
+De voorzieningenrechter zal de proceskosten tussen partijen compenseren, omdat [gedaagde] het aanbod om de onderhuurovereenkomst met [belanghebbende] tot 1 september 2024 ongewijzigd voort te zetten, pas bij e-mail van 31 mei 2023 heeft gedaan, dus ruimschoots na het uitbrengen van de dagvaarding.
+
+5
+De beslissing
+
+De voorzieningenrechter:
+
+in het incident
+
+5.1.
+
+staat [belanghebbende] toe tussen te komen,
+
+5.2.
+
+compenseert de kosten van de procedure tussen partijen, zodat iedere partij de eigen kosten draagt,
+
+in de hoofdzaak
+
+5.3.
+
+weigert de gevraagde voorzieningen,
+
+5.4.
+
+compenseert de kosten van de procedure tussen partijen, zodat iedere partij de eigen kosten draagt.
+
+Dit vonnis is gewezen door mr. J.H. Gisolf en in het openbaar uitgesproken op 19 juni 2023 in tegenwoordigheid van de griffier.
+
+NMB/JG
