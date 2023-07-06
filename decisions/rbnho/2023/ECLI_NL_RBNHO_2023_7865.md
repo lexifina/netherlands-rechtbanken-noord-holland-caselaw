@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:7865"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:226, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBNHO:2023:7865 Rechtbank Noord-Holland , 06-07-2023 / 21/6573
