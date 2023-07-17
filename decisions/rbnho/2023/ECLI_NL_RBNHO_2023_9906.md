@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:9906"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3488, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBNHO:2023:9906 Rechtbank Noord-Holland , 17-07-2023 / 22/4172
