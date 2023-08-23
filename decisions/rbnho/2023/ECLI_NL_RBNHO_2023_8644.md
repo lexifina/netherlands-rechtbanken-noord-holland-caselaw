@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:8644"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2066", "V-N Vandaag 2023/2065", "NLF 2023/2063", "V-N 2023/48.15.7", "Viditax (FutD) 2023090513", "FutD 2023-2382"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:1285, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNHO:2023:8644 Rechtbank Noord-Holland , 23-08-2023 / AWB - 22 _ 4388
