@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:10200"
 published_in: ["Rechtspraak.nl", "NLF 2023/2527", "Viditax (FutD) 2023103006", "FutD 2023-2833"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:1284, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2023:10200 Rechtbank Noord-Holland , 14-09-2023 / AWB - 22 _ 1879
