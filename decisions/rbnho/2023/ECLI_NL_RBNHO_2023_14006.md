@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:14006"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/396", "Sdu Nieuws Belastingzaken 2024/185", "NDFR Nieuws 2024/350", "NLF 2024/0553 met annotatie van Arco Bobeldijk", "NTFR 2024/486 met annotatie van M. van Zijl MSc", "Belastingadvies 2024/7.4", "V-N 2024/19.9 met annotatie van Redactie", "Viditax (FutD) 2024021902", "FutD 2024-0538"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/396", "Sdu Nieuws Belastingzaken 2024/185", "NDFR Nieuws 2024/350", "NLF 2024/0553 met annotatie van Arco Bobeldijk", "NTFR 2024/486 met annotatie van M. van Zijl MSc", "Belastingadvies 2024/7.4", "V-N 2024/19.9", "Viditax (FutD) 2024021902", "FutD 2024-0538"]
 ---
 
 # ECLI:NL:RBNHO:2023:14006 Rechtbank Noord-Holland , 06-11-2023 / HAA 22/2883 en HAA 22/2884
