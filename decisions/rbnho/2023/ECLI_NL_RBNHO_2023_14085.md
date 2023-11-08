@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:14085"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/592", "NDFR Nieuws 2024/537", "V-N 2024/19.16 met annotatie van Redactie", "NTFR 2024/792 met annotatie van Mr. E.H.A.M. Thijssen", "Belastingadvies 2024/10.7", "Viditax (FutD) 2024031303", "FutD 2024-0650"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/592", "NDFR Nieuws 2024/537", "V-N 2024/19.16", "NTFR 2024/792 met annotatie van Mr. E.H.A.M. Thijssen", "Belastingadvies 2024/10.7", "Viditax (FutD) 2024031303", "FutD 2024-0650"]
 ---
 
 # ECLI:NL:RBNHO:2023:14085 Rechtbank Noord-Holland , 08-11-2023 / AWB - 22 _ 4978
