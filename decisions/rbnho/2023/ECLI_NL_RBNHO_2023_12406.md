@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Proces-verbaal"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:12406"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0008"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0008", "BPR-Updates.nl 2024-0008"]
 ---
 
 # ECLI:NL:RBNHO:2023:12406 Rechtbank Noord-Holland , 29-11-2023 / C/15/346195 / JU RK 23-1771
