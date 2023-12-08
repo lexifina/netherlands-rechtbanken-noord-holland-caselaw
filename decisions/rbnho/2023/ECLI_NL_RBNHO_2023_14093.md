@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:14093"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/281", "V-N Vandaag 2024/574", "NLF 2024/0707", "V-N 2024/20.13 met annotatie van Redactie", "Viditax (FutD) 2024031202", "FutD 2024-0672"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/281", "V-N Vandaag 2024/574", "NLF 2024/0707", "V-N 2024/20.13", "Viditax (FutD) 2024031202", "FutD 2024-0672"]
 ---
 
 # ECLI:NL:RBNHO:2023:14093 Rechtbank Noord-Holland , 08-12-2023 / AWB - 21 _ 6561
