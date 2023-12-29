@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2023:13815"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0104", "PR-Updates.nl PR-2024-0036", "VAAN-AR-Updates.nl 2024-0104"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0104", "PR-Updates.nl PR-2024-0036", "VAAN-AR-Updates.nl 2024-0104", "PR-Updates.nl 2024-0036"]
 ---
 
 # ECLI:NL:RBNHO:2023:13815 Rechtbank Noord-Holland , 29-12-2023 / 10758206 \ AO VERZ  23-121
