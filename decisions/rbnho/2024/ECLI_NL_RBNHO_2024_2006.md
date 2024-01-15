@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:2006"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/803", "NLF 2024/0933", "V-N 2024/19.2.1", "NDFR Nieuws 2024/786", "NTFR 2024/912 met annotatie van Drs. C. Verweij", "Belastingadvies 2024/13-14.9", "Viditax (FutD) 2024040902", "FutD 2024-0876"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2025:3338, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2024:2006 Rechtbank Noord-Holland , 15-01-2024 / AWB - 20 _ 3028
