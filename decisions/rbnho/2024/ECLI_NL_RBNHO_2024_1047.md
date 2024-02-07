@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:1047"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Omgevingsrecht 2024/54", "JOM 2024/144"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1813, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
 # ECLI:NL:RBNHO:2024:1047 Rechtbank Noord-Holland , 07-02-2024 / HAA 23/776
