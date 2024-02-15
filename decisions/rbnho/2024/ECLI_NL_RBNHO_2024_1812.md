@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursstrafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:1812"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/497", "Belastingblad 2024/119 met annotatie van L.J. Boone", "V-N 2024/14.14 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/497", "Belastingblad 2024/119 met annotatie van L.J. Boone", "V-N 2024/14.14"]
 ---
 
 # ECLI:NL:RBNHO:2024:1812 Rechtbank Noord-Holland , 15-02-2024 / 10786111 \ WM VERZ  23-762
