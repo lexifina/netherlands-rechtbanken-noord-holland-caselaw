@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:7396"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1621", "V-N 2024/37.2.2", "NLF 2024/2014", "Viditax (FutD) 2024073001", "FutD 2024-1701"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:186, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2024:7396 Rechtbank Noord-Holland , 12-03-2024 / HAA 22/5284, HAA 22/5348, HAA 22/5410, HAA 22/5414,   HAA 22/5417, HAA 22/5419, HAA 22/5421, HAA 22/5426, 22/5428 en HAA 22/5429
