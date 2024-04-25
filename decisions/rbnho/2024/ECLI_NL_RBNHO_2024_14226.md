@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:14226"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/602"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/602", "NTFR 2026/733 met annotatie van mr. R. van Elten"]
 ---
 
 # ECLI:NL:RBNHO:2024:14226 Rechtbank Noord-Holland , 25-04-2024 / AWB - 21 _ 6123
