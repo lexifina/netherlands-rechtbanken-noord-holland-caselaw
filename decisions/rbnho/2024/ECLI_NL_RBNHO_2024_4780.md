@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:4780"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1199, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2024:4780 Rechtbank Noord-Holland , 07-05-2024 / HAA 23/3394
