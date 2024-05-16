@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:6542"
 published_in: ["Rechtspraak.nl", "NLF 2025/0197"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:4098, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2024:6542 Rechtbank Noord-Holland , 16-05-2024 / AWB - 22 _ 4428
