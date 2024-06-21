@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:6316"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1727"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:1923, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNHO:2024:6316 Rechtbank Noord-Holland , 21-06-2024 / AWB - 21 _ 6708
