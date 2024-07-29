@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:8523"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/15", "Viditax (FutD) 2025010907", "FutD 2025-0080", "NLF 2025/0129", "V-N 2025/10.17 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/15", "Viditax (FutD) 2025010907", "FutD 2025-0080", "NLF 2025/0129", "V-N 2025/10.17"]
 ---
 
 # ECLI:NL:RBNHO:2024:8523 Rechtbank Noord-Holland , 29-07-2024 / HAA 21/6693
