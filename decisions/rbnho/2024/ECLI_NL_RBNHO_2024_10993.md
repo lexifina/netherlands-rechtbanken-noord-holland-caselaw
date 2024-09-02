@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:10993"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012901", "V-N Vandaag 2025/155", "CFN 2025/09 met annotatie van -", "FutD 2025-0240", "V-N 2025/9.23.9"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012901", "V-N Vandaag 2025/155", "CFN 2025/09", "FutD 2025-0240", "V-N 2025/9.23.9"]
 ---
 
 # ECLI:NL:RBNHO:2024:10993 Rechtbank Noord-Holland , 02-09-2024 / AWB - 22 _ 3193
