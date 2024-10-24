@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:12638"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025013012", "V-N Vandaag 2025/182", "FutD 2025-0233", "NLF 2025/0265", "V-N 2025/9.2.4"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:2028, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2024:12638 Rechtbank Noord-Holland , 24-10-2024 / AWB - 23 _ 2521
