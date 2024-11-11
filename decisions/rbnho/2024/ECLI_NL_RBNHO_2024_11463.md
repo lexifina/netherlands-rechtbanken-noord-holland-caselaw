@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:11463"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/63"]
 ---
 
 # ECLI:NL:RBNHO:2024:11463 Rechtbank Noord-Holland , 11-11-2024 / HAA 24/642
