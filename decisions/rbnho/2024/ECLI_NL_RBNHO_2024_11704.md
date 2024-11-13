@@ -173,7 +173,7 @@ Erflaatster heeft in haar testament [eiser] tot executeur benoemd. Verder zijn i
 
 Ik legateer, vrij van rechten en kosten, vrij van inbreng, af te geven zo spoedig mogelijk na mijn overlijden, aan:
 
-mijn neef, de heer [eiser] (…), zonder inbreng in- of verrekening bij mijn nalatenschap, boven zijn erfdeel, de (door hem bewoonde) woning met tuin, plaatselijk bekend Noord [adres] te [postcode] Spierdijk , (…) te vermeerderen met een bedrag van vijftig duizend euro voor achterstallig onderhoud in verband met vervanging kozijnen, goten en dak.
+mijn neef, de heer [eiser] (…), zonder inbreng in- of verrekening bij mijn nalatenschap, boven zijn erfdeel, de (door hem bewoonde) woning met tuin, plaatselijk bekend [adres] te [postcode] [woonplaats] , (…) te vermeerderen met een bedrag van vijftig duizend euro voor achterstallig onderhoud in verband met vervanging kozijnen, goten en dak.
 
 De reden van dit legaat is gelegen in het feit dat [eiser] als laatste is overgebleven van de vennoten die destijds het ouderlijk bedrijf hebben overgenomen. Hij heeft daardoor alle verplichtingen en het daaropvolgend faillissement op zich genomen en viel drie jaar onder de Wet Schuldsanering Natuurlijke Personen. Ik ben van mening dat enige compensatie hiervoor op zijn plaats is.
 
