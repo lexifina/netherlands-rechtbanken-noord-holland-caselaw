@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:13875"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025031902", "V-N Vandaag 2025/544", "FutD 2025-0603", "NLF 2025/0664", "NDFR Nieuws 2025/663", "V-N 2025/18.2.2", "VFP 2025/72", "Notamail 2025/107"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025031902", "V-N Vandaag 2025/544", "FutD 2025-0603", "NLF 2025/0664", "NDFR Nieuws 2025/663", "V-N 2025/18.2.2", "VFP 2025/72", "Notamail 2025/107", "NTFR 2025/1017 met annotatie van mr. H.A.S. Roozeboom"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:1294, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2024:13875 Rechtbank Noord-Holland , 12-12-2024 / AWB - 23 _ 2452
