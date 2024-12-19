@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:13859"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025020302", "Notamail 2025/26", "V-N Vandaag 2025/197", "FutD 2025-0291", "NLF 2025/0348", "NDFR Nieuws 2025/292", "V-N 2025/12.2.2", "NTFR 2025/656 met annotatie van Mr. P.W. Hofman", "Belastingadvies 2025/7.5"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025020302", "Notamail 2025/26", "V-N Vandaag 2025/197", "FutD 2025-0291", "NLF 2025/0348", "NDFR Nieuws 2025/292", "V-N 2025/12.2.2", "NTFR 2025/656 met annotatie van Mr. P.W. Hofman", "Belastingadvies 2025/7.5", "RN 2025/42"]
 ---
 
 # ECLI:NL:RBNHO:2024:13859 Rechtbank Noord-Holland , 19-12-2024 / AWB - 23 _ 7025
