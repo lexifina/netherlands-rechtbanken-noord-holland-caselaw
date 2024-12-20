@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:13416"
 published_in: ["Rechtspraak.nl", "Douanerechtspraak 2025/34"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:2809, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2024:13416 Rechtbank Noord-Holland , 20-12-2024 / 23/1455, 22/2066, 22/2067, 24/1970
