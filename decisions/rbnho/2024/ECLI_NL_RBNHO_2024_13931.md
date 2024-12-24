@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:13931"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3312, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2024:13931 Rechtbank Noord-Holland , 24-12-2024 / 23_551
