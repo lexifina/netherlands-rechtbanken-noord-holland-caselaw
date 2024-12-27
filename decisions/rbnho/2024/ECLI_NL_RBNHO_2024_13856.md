@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2024:13856"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025030309", "V-N Vandaag 2025/433", "Sdu Nieuws Belastingzaken 2025/259", "FutD 2025-0496", "NLF 2025/0559", "Sdu Nieuws Personen- en familierecht 2025/144", "V-N 2025/14.2.3"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:2574, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBNHO:2024:13856 Rechtbank Noord-Holland , 27-12-2024 / AWB - 23 _ 2544
