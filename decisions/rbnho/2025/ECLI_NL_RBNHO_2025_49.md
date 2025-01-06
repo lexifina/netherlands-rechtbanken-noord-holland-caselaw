@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:49"
 published_in: ["Rechtspraak.nl", "JOM 2025/20"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:116"]]
 ---
 
 # ECLI:NL:RBNHO:2025:49 Rechtbank Noord-Holland , 06-01-2025 / 23-1809
