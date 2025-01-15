@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:335"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012308", "V-N Vandaag 2025/113", "FutD 2025-0185", "NLF 2025/0241", "V-N 2025/10.27 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012308", "V-N Vandaag 2025/113", "FutD 2025-0185", "NLF 2025/0241", "V-N 2025/10.27"]
 ---
 
 # ECLI:NL:RBNHO:2025:335 Rechtbank Noord-Holland , 15-01-2025 / 350599 HA ZA 24-166
