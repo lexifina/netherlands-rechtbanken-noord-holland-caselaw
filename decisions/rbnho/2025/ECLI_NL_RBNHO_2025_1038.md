@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:1038"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025031001", "V-N Vandaag 2025/472", "Sdu Nieuws Belastingzaken 2025/299", "FutD 2025-0561", "NLF 2025/0617", "V-N 2025/16.20 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025031001", "V-N Vandaag 2025/472", "Sdu Nieuws Belastingzaken 2025/299", "FutD 2025-0561", "NLF 2025/0617", "V-N 2025/16.20"]
 ---
 
 # ECLI:NL:RBNHO:2025:1038 Rechtbank Noord-Holland , 30-01-2025 / 24/582
