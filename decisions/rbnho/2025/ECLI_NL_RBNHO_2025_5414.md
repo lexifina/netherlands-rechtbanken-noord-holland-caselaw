@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:5414"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025053001", "FutD 2025-1160", "NLF 2025/1210", "NDFR Nieuws 2025/1000", "NTFR 2025/1079 met annotatie van mr. O. Eroglu"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHAMS:2026:2129, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2025:5414 Rechtbank Noord-Holland , 26-02-2025 / HAA 23/3762
