@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:2944"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1720, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2025:2944 Rechtbank Noord-Holland , 25-03-2025 / HAA 23/5206
