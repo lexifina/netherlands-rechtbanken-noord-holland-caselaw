@@ -49,17 +49,17 @@ tegen
 
 de stichting, STICHTING SCHULDVRIJ, IN HAAR HOEDANIGHEID VAN BEWINDVOERDER VAN [gedaagde],
 
-te [plaats 1],
+te [plaats 1] ,
 
 gedaagde partij,
 
-hierna te noemen: [gedaagde],
+hierna te noemen: [gedaagde] ,
 
 procederend in persoon
 
 De zaak in het kort
 
-[gedaagde] huurt sinds 21 november 2023 van Woonopmaat een woning gelegen aan het adres [adres 1] te ([postcode 1]) [plaats 2]. Sinds augustus 2024 veroorzaakt [gedaagde] overlast in en rondom het gehuurde. Ook heeft [gedaagde] structurele en ernstige overlast veroorzaakt in en rondom de woning van zijn ex-vriendin die zij ook van Woonopmaat huurde. Ondanks de inzet van Woonopmaat, de politie en andere instanties is volgens Woonopmaat de overlast niet minder geworden. De vraag is nu of [gedaagde] als huurder, zulke ernstige overlast heeft veroorzaakt dat een ontruiming terecht is en [gedaagde] dus niet langer in de woning mag blijven wonen. De kantonrechter oordeelt dat [gedaagde] de woning moet ontruimen.
+[gedaagde] huurt sinds 21 november 2023 van Woonopmaat een woning gelegen aan het adres [adres 1] te ( [postcode 1] ) [plaats 2] . Sinds augustus 2024 veroorzaakt [gedaagde] overlast in en rondom het gehuurde. Ook heeft [gedaagde] structurele en ernstige overlast veroorzaakt in en rondom de woning van zijn ex-vriendin die zij ook van Woonopmaat huurde. Ondanks de inzet van Woonopmaat, de politie en andere instanties is volgens Woonopmaat de overlast niet minder geworden. De vraag is nu of [gedaagde] als huurder, zulke ernstige overlast heeft veroorzaakt dat een ontruiming terecht is en [gedaagde] dus niet langer in de woning mag blijven wonen. De kantonrechter oordeelt dat [gedaagde] de woning moet ontruimen.
 
 1
 De procedure
@@ -79,11 +79,11 @@ De feiten
 
 2.1.
 
-Sinds 21 november 2023 huurt [gedaagde] van Woonopmaat de woning  aan de [adres 1] te ([postcode 1]) [plaats 2] (hierna: het gehuurde). Dit is een portiekwoning in een gebouw van vier verdiepingen. Acht woningen delen het portiek. Op de overeenkomst zijn algemene voorwaarden van toepassing verklaard.
+Sinds 21 november 2023 huurt [gedaagde] van Woonopmaat de woning  aan de [adres 1] te ( [postcode 1] ) [plaats 2] (hierna: het gehuurde). Dit is een portiekwoning in een gebouw van vier verdiepingen. Acht woningen delen het portiek. Op de overeenkomst zijn algemene voorwaarden van toepassing verklaard.
 
 2.2.
 
-[gedaagde] huurde daarvoor van Woonopmaat de woning gelegen aan de [adres 2] te [plaats 2]. Vanwege sloop- dan wel renovatiewerkzaamheden moest [gedaagde] naar het gehuurde verhuizen.
+[gedaagde] huurde daarvoor van Woonopmaat de woning gelegen aan de [adres 2] te [plaats 2] . Vanwege sloop- dan wel renovatiewerkzaamheden moest [gedaagde] naar het gehuurde verhuizen.
 
 2.3.
 
@@ -95,7 +95,7 @@ Bij beschikking van 30 juli 2024 is [gedaagde] onder bewind gesteld.
 
 2.5.
 
-[gedaagde] heeft een relatie gehad met [betrokkene] (hierna: [betrokkene]). [betrokkene] heeft van Woonopmaat gehuurd de woning gelegen aan het adres [adres 3] te ([postcode 2]) [plaats 2]. [gedaagde] en [betrokkene] hebben sinds maart 2022 in en rondom deze woning structurele en ernstige overlast veroorzaakt. Ondanks de gesprekken die Woonopmaat met [betrokkene] en [gedaagde] heeft gevoerd en ondanks een verbod voor [gedaagde] om zich in de [adres 3] te begeven is de overlast niet gestopt. [betrokkene] heeft (uiteindelijk), nadat zij daartoe door Woonopmaat verzocht, de hiervoor genoemde huurovereenkomst opgezegd tegen 1 november 2024 en de woning ontruimd.
+[gedaagde] heeft een relatie gehad met [betrokkene] (hierna: [betrokkene] ). [betrokkene] heeft van Woonopmaat gehuurd de woning gelegen aan het adres [adres 3] te ( [postcode 2] ) [plaats 2] . [gedaagde] en [betrokkene] hebben sinds maart 2022 in en rondom deze woning structurele en ernstige overlast veroorzaakt. Ondanks de gesprekken die Woonopmaat met [betrokkene] en [gedaagde] heeft gevoerd en ondanks een verbod voor [gedaagde] om zich in de [adres 3] te begeven is de overlast niet gestopt. [betrokkene] heeft (uiteindelijk), nadat zij daartoe door Woonopmaat verzocht, de hiervoor genoemde huurovereenkomst opgezegd tegen 1 november 2024 en de woning ontruimd.
 
 2.6.
 
@@ -105,7 +105,7 @@ Op 17 augustus 2024 heeft [gedaagde] een omwonende van de [adres 3] mishandeld w
 
 [gedaagde] veroorzaakt sinds augustus 2024 ook overlast in en rondom het gehuurde. Op 9 oktober 2024 heeft [gedaagde] – nadat hij een week bedenktijd had gekregen - een gedragsaanwijzing ondertekend waarin staat dat hij:
 
-- geen overlast (meer) mag veroorzaken in en rondom de [adres 1];
+- geen overlast (meer) mag veroorzaken in en rondom de [adres 1] ;
 
 - niet meer in of om de woning aan de [adres 3] zal komen;
 
@@ -123,11 +123,11 @@ In december 2024 heeft Woonopmaat opnieuw overlastmeldingen en meldingen van ver
 
 2.9.
 
-Bij brief van 12 december 2024 is [gedaagde], althans zijn bewindvoerder, verzocht om zijn overlastgevende gedrag te stoppen. Woonopmaat heeft in diezelfde brief ook verwezen naar de gedragsaanwijziging. [gedaagde] heeft hier geen gehoor aan gegeven.
+Bij brief van 12 december 2024 is [gedaagde] , althans zijn bewindvoerder, verzocht om zijn overlastgevende gedrag te stoppen. Woonopmaat heeft in diezelfde brief ook verwezen naar de gedragsaanwijziging. [gedaagde] heeft hier geen gehoor aan gegeven.
 
 2.10.
 
-Per brief van 28 januari 2025 heeft Woonopmaat [gedaagde], althans zijn bewindvoerder, verzocht om de huurovereenkomst op te zeggen en het gehuurde vóór 4 maart 2025 te verlaten. In reactie daarop heeft [gedaagde] om een andere woning gevraagd en ook wilde hij de namen hebben van de melders. Daarnaast heeft [gedaagde] de volgende uitingen gedaan: “Als ik op straat kom te staan dan wordt dat geen leuke situatie voor de klagers”, “En als ik dan toch dood ga dan neem ik jullie allemaal mee”.
+Per brief van 28 januari 2025 heeft Woonopmaat [gedaagde] , althans zijn bewindvoerder, verzocht om de huurovereenkomst op te zeggen en het gehuurde vóór 4 maart 2025 te verlaten. In reactie daarop heeft [gedaagde] om een andere woning gevraagd en ook wilde hij de namen hebben van de melders. Daarnaast heeft [gedaagde] de volgende uitingen gedaan: “Als ik op straat kom te staan dan wordt dat geen leuke situatie voor de klagers”, “En als ik dan toch dood ga dan neem ik jullie allemaal mee”.
 
 2.11.
 
@@ -161,7 +161,7 @@ Spoedeisend belang
 
 4.2.
 
-Woonopmaat heeft een spoedeisend belang bij de gevorderde ontruiming van de woning. Dit belang is gelegen in de verplichting haar (andere) huurders het rustige woongenot te verschaffen en hen te vrijwaren van overlast veroorzaakt door [gedaagde]. Woonopmaat is daarom ontvankelijk in haar vordering.
+Woonopmaat heeft een spoedeisend belang bij de gevorderde ontruiming van de woning. Dit belang is gelegen in de verplichting haar (andere) huurders het rustige woongenot te verschaffen en hen te vrijwaren van overlast veroorzaakt door [gedaagde] . Woonopmaat is daarom ontvankelijk in haar vordering.
 
 Toetsingskader
 
@@ -189,7 +189,7 @@ Uit de overgelegde correspondentie en de ter zitting getoonde filmpjes blijkt vo
 
 4.8.
 
-[gedaagde] veroorzaakt niet alleen overlast in en rondom het gehuurde, maar ook heeft hij overlast veroorzaakt in en rondom de woning aan de [adres 3] te ([postcode 2]) [plaats 2] waar de ex-vriendin ([betrokkene]) van [gedaagde] tot november 2024 woonachtig was. Uit dat overlastdossier blijkt dat omwonenden vanaf maart 2022 veelvuldig hebben geklaagd over overlast door [betrokkene] en [gedaagde]. Die overlast was vergelijkbaar met de overlast die de bewoners op de [adres 1] ervaren. Op of omstreeks 31 oktober 2023 is [gedaagde] bevolen om zich niet meer in de [adres 3] te begeven. Daar heeft hij zich blijkens het overlastdossier niet aan gehouden. Op 17 augustus 2024 is de situatie geëscaleerd en heeft [gedaagde] een omwonende van de [adres 3] mishandeld waar hij voor is veroordeeld. Ondanks meerdere gesprekken met [betrokkene] en [gedaagde] stopte de overlast niet. Uiteindelijk heeft [betrokkene] – na een verzoek van Woonopmaat – de huurovereenkomst opgezegd en is zij vertrokken.
+[gedaagde] veroorzaakt niet alleen overlast in en rondom het gehuurde, maar ook heeft hij overlast veroorzaakt in en rondom de woning aan de [adres 3] te ( [postcode 2] ) [plaats 2] waar de ex-vriendin ( [betrokkene] ) van [gedaagde] tot november 2024 woonachtig was. Uit dat overlastdossier blijkt dat omwonenden vanaf maart 2022 veelvuldig hebben geklaagd over overlast door [betrokkene] en [gedaagde] . Die overlast was vergelijkbaar met de overlast die de bewoners op de [adres 1] ervaren. Op of omstreeks 31 oktober 2023 is [gedaagde] bevolen om zich niet meer in de [adres 3] te begeven. Daar heeft hij zich blijkens het overlastdossier niet aan gehouden. Op 17 augustus 2024 is de situatie geëscaleerd en heeft [gedaagde] een omwonende van de [adres 3] mishandeld waar hij voor is veroordeeld. Ondanks meerdere gesprekken met [betrokkene] en [gedaagde] stopte de overlast niet. Uiteindelijk heeft [betrokkene] – na een verzoek van Woonopmaat – de huurovereenkomst opgezegd en is zij vertrokken.
 
 4.9.
 
@@ -250,15 +250,15 @@ De kantonrechter
 
 5.1.
 
-veroordeelt Stichting Schuldvrij, in haar hoedanigheid als bewindvoerder van [gedaagde], om binnen veertien dagen na betekening van dit vonnis de woning aan [adres 1] te ([postcode 1]) [plaats 2] te ontruimen met alle daarin aanwezige personen en zaken, tenzij deze zaken van Woonopmaat zijn, en de sleutels af te geven aan Woonopmaat,
+veroordeelt Stichting Schuldvrij, in haar hoedanigheid als bewindvoerder van [gedaagde] , om binnen veertien dagen na betekening van dit vonnis de woning aan [adres 1] te ( [postcode 1] ) [plaats 2] te ontruimen met alle daarin aanwezige personen en zaken, tenzij deze zaken van Woonopmaat zijn, en de sleutels af te geven aan Woonopmaat,
 
 5.2.
 
-veroordeelt Stichting Schuldvrij, in haar hoedanigheid als bewindvoerder van [gedaagde], in de proceskosten van € 1.187,40, te betalen binnen veertien dagen na aanschrijving daartoe, te vermeerderen met de kosten van betekening als [gedaagde] niet tijdig aan de veroordelingen voldoet en het vonnis daarna wordt betekend,
+veroordeelt Stichting Schuldvrij, in haar hoedanigheid als bewindvoerder van [gedaagde] , in de proceskosten van € 1.187,40, te betalen binnen veertien dagen na aanschrijving daartoe, te vermeerderen met de kosten van betekening als [gedaagde] niet tijdig aan de veroordelingen voldoet en het vonnis daarna wordt betekend,
 
 5.3.
 
-veroordeelt Stichting Schuldvrij, in haar hoedanigheid als bewindvoerder van [gedaagde], tot betaling van de wettelijke rente als bedoeld in artikel 6:119 BW over de proceskosten als deze niet binnen veertien dagen na aanschrijving zijn betaald,
+veroordeelt Stichting Schuldvrij, in haar hoedanigheid als bewindvoerder van [gedaagde] , tot betaling van de wettelijke rente als bedoeld in artikel 6:119 BW over de proceskosten als deze niet binnen veertien dagen na aanschrijving zijn betaald,
 
 5.4.
 
@@ -272,7 +272,7 @@ Dit vonnis is gewezen door mr. J.J. Dijk en in het openbaar uitgesproken op 27 m
 
 Algemene Huurvoorwaarden Huurovereenkomst Zelfstandige Woonruimte Woonopmaat februari 2022
 
-Artikel 1:1441 lid 1 BW.
+Artikel 1:441 lid 1 BW.
 
 Hoge Raad 7 maart 2014, ECLI:NL:HR:2014:525.
 
