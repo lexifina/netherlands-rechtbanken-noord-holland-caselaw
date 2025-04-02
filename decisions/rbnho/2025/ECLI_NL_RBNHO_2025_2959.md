@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:2959"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2025/189", "JERF Actueel 2025/183"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2025/189", "JERF Actueel 2025/183", "ERF-Updates.nl 2025-0279", "VEAN-ERF-Updates.nl 2025-0279"]
 ---
 
 # ECLI:NL:RBNHO:2025:2959 Rechtbank Noord-Holland , 02-04-2025 / C/15/360758 / HA ZA 25-23
@@ -35,14 +35,13 @@ Vonnis in incident van 2 april 2025
 in de zaak van
 
 1
+[eiser 1] ,
 
-[eiser 1],
-
-wonende te [plaats 1],
+wonende te [plaats 1] ,
 
 2.	[eiser 2],
 
-wonende te [plaats 1],
+wonende te [plaats 1] ,
 
 eisers in de hoofdzaak,
 
@@ -53,10 +52,9 @@ advocaat mr. J.C. van den End te Amsterdam,
 tegen
 
 1
+[gedaagde 1] ,
 
-[gedaagde 1],
-
-wonende te [plaats 1],
+wonende te [plaats 1] ,
 
 gedaagde,
 
@@ -66,7 +64,7 @@ advocaat mr. M.J.P. Schipper te Alkmaar,
 
 2.	[gedaagde 2],
 
-wonende te [plaats 2],
+wonende te [plaats 2] ,
 
 gedaagde,
 
@@ -89,7 +87,7 @@ de akte overlegging producties 1 tot en met 25 van [eiser 1] en [eiser 2]
 
 de incidentele conclusie van antwoord met producties 1 tot en met 4 van vader
 
-de akte uitlaten van [eiser 1] en [eiser 2].
+de akte uitlaten van [eiser 1] en [eiser 2] .
 
 1.2.
 
@@ -100,11 +98,11 @@ De feiten
 
 2.1.
 
-[eiser 1], [eiser 2] en [gedaagde 2] (gedaagde sub 3) zijn de kinderen van [erflaatster], overleden op 13 november 2010 (hierna: erflaatster) en van vader, gedaagde sub 1.
+[eiser 1] , [eiser 2] en [gedaagde 2] (gedaagde sub 3) zijn de kinderen van [erflaatster] , overleden op 13 november 2010 (hierna: erflaatster) en van vader, gedaagde sub 1.
 
 2.2.
 
-Erflaatster heeft op 23 december 2002 bij testament over haar nalatenschap beschikt. In het testament is een ouderlijke boedelverdeling bepaald. Zij heeft vader, [gedaagde 2], [eiser 1] en [eiser 2] als erfgenamen achtergelaten.
+Erflaatster heeft op 23 december 2002 bij testament over haar nalatenschap beschikt. In het testament is een ouderlijke boedelverdeling bepaald. Zij heeft vader, [gedaagde 2] , [eiser 1] en [eiser 2] als erfgenamen achtergelaten.
 
 2.3.
 
@@ -116,17 +114,17 @@ Op 14 december 2010 is een verklaring van executele en erfrecht afgegeven. De aa
 
 2.5.
 
-Erflaatster was tot haar overlijden actief in vastgoed via haar onderneming Corona-Invest B.V.
+Erflaatster was tot haar overlijden actief in vastgoed via haar onderneming [bedrijf 2] B.V.
 
 2.6.
 
-Vader is vanaf 1975 werkzaam geweest in het notariaat en had vanaf 1992 een eigen notariskantoor, Notariskantoor [bedrijf] te [plaats 1].
+Vader is vanaf 1975 werkzaam geweest in het notariaat en had vanaf 1992 een eigen notariskantoor, Notariskantoor [bedrijf 1] te [plaats 1] .
 
 [eiser 1] en [eiser 2] hebben in 2011 respectievelijk 2014 2/3e deel van de aandelen in het notariskantoor van vader overgenomen. In 2019 hebben zij ook de laatste aandelen in het notariskantoor overgenomen.
 
 2.7.
 
-Vader is op 29 februari 2024 in het huwelijk getreden met [betrokkene 1] (hierna: [betrokkene 1]).
+Vader is op 29 februari 2024 in het huwelijk getreden met [betrokkene 1] (hierna: [betrokkene 1] ).
 
 2.8.
 
@@ -137,7 +135,7 @@ De vordering en standpunten in het incident
 
 3.1.
 
-[eiser 1] en [eiser 2] vorderen in de hoofdzaak - samengevat - dat bij tussenvonnis een deskundige benoemd wordt om de aandelen in Noord-End Beheer B.V. te waarderen, bij welke waardering tevens de waarde van de deelnemingen meegenomen dient te worden, waaronder de deelneming in Notarispraktijk [bedrijf] B.V., alsmede dat een deskundige benoemd wordt om de aandelen in Corona-Invest B.V. te waarderen, bij welke waardering tevens de waarde van de deelnemingen in Corona Noord-End B.V. en Corona Immobiliare B.V. meegenomen dient te worden, en waarbij telkens de door [eiser 1] en [eiser 2] in de dagvaarding geformuleerde vragen aan de deskundige worden voorgelegd.
+[eiser 1] en [eiser 2] vorderen in de hoofdzaak - samengevat - dat bij tussenvonnis een deskundige benoemd wordt om de aandelen in [bedrijf 3] B.V. te waarderen, bij welke waardering tevens de waarde van de deelnemingen meegenomen dient te worden, waaronder de deelneming in Notarispraktijk [bedrijf 1] B.V., alsmede dat een deskundige benoemd wordt om de aandelen in [bedrijf 2] B.V. te waarderen, bij welke waardering tevens de waarde van de deelnemingen in [bedrijf 4] B.V. en [bedrijf 5] B.V. meegenomen dient te worden, en waarbij telkens de door [eiser 1] en [eiser 2] in de dagvaarding geformuleerde vragen aan de deskundige worden voorgelegd.
 
 3.2.
 
@@ -151,11 +149,11 @@ aangifte inkomstenbelasting van vader over de jaren 2008 t/m 2010
 
 aangifte inkomstenbelasting van erflaatster over de jaren 2008 en 2009
 
-de jaarstukken van Noord-End Beheer B.V. over de jaren 2008 t/m 2010 alsmede de jaarstukken 2008 t/m 2010 van alle vennootschappen waarin Noord-End Beheer B.V. een belang heeft
+de jaarstukken van [bedrijf 3] B.V. over de jaren 2008 t/m 2010 alsmede de jaarstukken 2008 t/m 2010 van alle vennootschappen waarin [bedrijf 3] B.V. een belang heeft
 
-e jaarstukken Corona-Invest B.V. over de jaren 2008 t/m 2010
+e jaarstukken [bedrijf 2] B.V. over de jaren 2008 t/m 2010
 
-de jaarstukken Corona-Noord-End B.V. en Corona Immobiliare B.V. over de jaren 2008 t/m 2010
+de jaarstukken [bedrijf 4] B.V. en [bedrijf 5] B.V. over de jaren 2008 t/m 2010
 
 een overzicht van op datum overlijden aanwezige onroerende zaken op naam van vader en/of moeder
 
@@ -171,15 +169,15 @@ Vader voert verweer. Hij stelt voorop dat [eiser 1] en [eiser 2] recht hebben op
 
 3.6.
 
-Over de gevorderde bescheiden voert vader aan dat hij de onder a tot en met e gevorderde bescheiden in ieder geval niet meer kan verkrijgen. Daarbij wijst er op dat [eiser 1] en [eiser 2] overigens wel zelf de sub d. gevorderde jaarstukken van Corona-Invest B.V. over de jaren 2008 t/m 2010 al als productie 24 hebben overgelegd.
+Over de gevorderde bescheiden voert vader aan dat hij de onder a tot en met e gevorderde bescheiden in ieder geval niet meer kan verkrijgen. Daarbij wijst er op dat [eiser 1] en [eiser 2] overigens wel zelf de sub d. gevorderde jaarstukken van [bedrijf 2] B.V. over de jaren 2008 t/m 2010 al als productie 24 hebben overgelegd.
 
 3.7.
 
-Over het onder f gevorderde overzicht van aanwezige onroerende zaken op naam van vader en/of moeder op datum overlijden verklaart hij dat hij ten tijde van het overlijden van erflaatster eigenaar was van de echtelijke woning aan de [adres 3] te [plaats 1], hetgeen een bloot-eigendom betrof omdat erflaatster vruchtgebruikster was van die woning, welk vruchtgebruik eindigde door haar overlijden. Vader verklaart dat erflaatster daarnaast geen onroerend goed bezat en dat hijzelf nog eigenaar was van een garagebox aan de [adres 1] te [plaats 1] en van een kantoorpand met parkeerplaatsen aan de [adres 2] te [plaats 1]. Hij stelt dat, met uitzondering van de garagebox, alle onroerende zaken volledig verhypothekeerd waren met een hypotheek ten behoeve van de Rabobank in [plaats 1].
+Over het onder f gevorderde overzicht van aanwezige onroerende zaken op naam van vader en/of moeder op datum overlijden verklaart hij dat hij ten tijde van het overlijden van erflaatster eigenaar was van de echtelijke woning aan de [adres 3] te [plaats 1] , hetgeen een bloot-eigendom betrof omdat erflaatster vruchtgebruikster was van die woning, welk vruchtgebruik eindigde door haar overlijden. Vader verklaart dat erflaatster daarnaast geen onroerend goed bezat en dat hijzelf nog eigenaar was van een garagebox aan de [adres 1] te [plaats 1] en van een kantoorpand met parkeerplaatsen aan de [adres 2] te [plaats 1] . Hij stelt dat, met uitzondering van de garagebox, alle onroerende zaken volledig verhypothekeerd waren met een hypotheek ten behoeve van de Rabobank in [plaats 1] .
 
 3.8.
 
-Over het onder g gevorderde overzicht van de op datum van overlijden aanwezige bankrekeningen met de op die datum aanwezige banksaldi, voert vader aan dat hij niet meer beschikt over de betreffende bankafschriften en deze ook bij de bank niet meer kan krijgen, in verband met de verstreken bewaartermijn en het beleid van de bank. Vader verklaart dat hij wel kan melden dat erflaatster een rekening bij de ABN AMRO Bank had met nummer [rekeningnummer], welke bankrekening volgens hem door [eiser 1] is overgenomen.
+Over het onder g gevorderde overzicht van de op datum van overlijden aanwezige bankrekeningen met de op die datum aanwezige banksaldi, voert vader aan dat hij niet meer beschikt over de betreffende bankafschriften en deze ook bij de bank niet meer kan krijgen, in verband met de verstreken bewaartermijn en het beleid van de bank. Vader verklaart dat hij wel kan melden dat erflaatster een rekening bij de ABN AMRO Bank had met nummer [rekeningnummer] , welke bankrekening volgens hem door [eiser 1] is overgenomen.
 
 3.9.
 
@@ -187,7 +185,7 @@ Hij wijst er op dat in de aangifte erfbelasting (door [eiser 1] en [eiser 2] als
 
 3.10.
 
-Vader legt bij zijn conclusie van antwoord in het incident als producties over het bewijs van eigendom met betrekking tot het perceel [adres 3] te [plaats 1], alsmede de hypotheekakte met betrekking tot deze woning, de akte van levering van de garagebox aan de [adres 1] en de akte van levering van de [adres 2].
+Vader legt bij zijn conclusie van antwoord in het incident als producties over het bewijs van eigendom met betrekking tot het perceel [adres 3] te [plaats 1] , alsmede de hypotheekakte met betrekking tot deze woning, de akte van levering van de garagebox aan de [adres 1] en de akte van levering van de [adres 2] .
 
 3.11.
 
@@ -195,7 +193,7 @@ Vader legt bij zijn conclusie van antwoord in het incident als producties over h
 
 3.12.
 
-Over de overgelegde producties voeren zij aan dat daaruit blijkt dat er een recht van hypotheek is verleend op het perceel [adres 3], maar dat daar niet uit blijkt dat er daadwerkelijk een geldlening is verstrekt. Ook blijkt uit de producties niet dat ook het kantoorpand zoals gezegd bezwaard is met een hypotheekrecht. Zij handhaven hun stelling dat de aangifte erfbelasting niet als vertrekpunt kan of mag worden gebruikt. Daarbij wijzen zij er op dat hun vorderingen uit de nalatenschap van erflaatster nooit zijn vastgesteld zodat zij niet gebonden zijn aan de aangifte erfbelasting.
+Over de overgelegde producties voeren zij aan dat daaruit blijkt dat er een recht van hypotheek is verleend op het perceel [adres 3] , maar dat daar niet uit blijkt dat er daadwerkelijk een geldlening is verstrekt. Ook blijkt uit de producties niet dat ook het kantoorpand zoals gezegd bezwaard is met een hypotheekrecht. Zij handhaven hun stelling dat de aangifte erfbelasting niet als vertrekpunt kan of mag worden gebruikt. Daarbij wijzen zij er op dat hun vorderingen uit de nalatenschap van erflaatster nooit zijn vastgesteld zodat zij niet gebonden zijn aan de aangifte erfbelasting.
 
 3.13.
 
