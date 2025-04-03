@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:4414"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1701, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2025:4414 Rechtbank Noord-Holland , 03-04-2025 / HAA 24/1929
