@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:4144"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.10", "FJR 2026/40.6"]
 ---
 
 # ECLI:NL:RBNHO:2025:4144 Rechtbank Noord-Holland , 04-04-2025 / 11336279 BM VERZ 24-2570 JM
