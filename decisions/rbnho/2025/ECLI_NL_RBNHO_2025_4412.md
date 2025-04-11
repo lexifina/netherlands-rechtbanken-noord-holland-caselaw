@@ -35,10 +35,9 @@ Tegenspraak
 Dit vonnis is gewezen naar aanleiding van het onderzoek op de openbare terechtzitting van 14 en 28 maart 2025 in de zaak tegen:
 
 [verdachte]
-
 ,
 
-geboren op [geboortedatum] te [geboorteplaats],
+geboren op [geboortedatum] te [geboorteplaats] ,
 
 ingeschreven in de basisregistratie personen op het adres [adres]
 
@@ -127,23 +126,23 @@ Standpunt van de verdediging
 
 De raadsvrouw heeft zich op het standpunt gesteld dat de verdachte bij gebrek aan wettig en overtuigend bewijs dient te worden vrijgesproken van het onder 1 ten laste gelegde feit, voor zover dat feit ziet op aangevers
 
- [benadeelde 1],
+ [benadeelde 1] ,
 
- [benadeelde 2],
+ [benadeelde 2] ,
 
- [benadeelde 3],
+ [benadeelde 3] ,
 
- [benadeelde 4],
+ [benadeelde 4] ,
 
- [benadeelde 9],
+ [benadeelde 9] ,
 
- [benadeelde 10],
+ [benadeelde 10] ,
 
- [benadeelde 11],
+ [benadeelde 11] ,
 
  [benadeelde 12] en
 
- [benadeelde 13].
+ [benadeelde 13] .
 
 Ten aanzien van de overige aangevers heeft de verdediging zich ten aanzien van het onder 1 ten laste gelegde feit gerefereerd aan het oordeel van de rechtbank.
 
@@ -155,9 +154,9 @@ Oordeel van de rechtbank
 
 3.3.1
 
-Vrijspraak feiten 1 en 2 ten aanzien van Van Wonderen
+Vrijspraak feiten 1 en 2 ten aanzien van [benadeelde 1]
 
-Naar het oordeel van de rechtbank kunnen de onder 1 en 2 ten laste gelegde feiten, voor zover die zien op aangeefster [benadeelde 1], niet worden bewezenverklaard. De rechtbank kan op basis van het dossier niet vaststellen dat de verdachte het telefoonnummer heeft gebruikt waarmee Van Wonderen is gebeld, noch dat de verdachte de persoon is die telefonisch met Van Wonderen heeft gesproken. De rechtbank zal de verdachte in zoverre dan ook vrijspreken.
+Naar het oordeel van de rechtbank kunnen de onder 1 en 2 ten laste gelegde feiten, voor zover die zien op aangeefster [benadeelde 1] , niet worden bewezenverklaard. De rechtbank kan op basis van het dossier niet vaststellen dat de verdachte het telefoonnummer heeft gebruikt waarmee [benadeelde 1] is gebeld, noch dat de verdachte de persoon is die telefonisch met [benadeelde 1] heeft gesproken. De rechtbank zal de verdachte in zoverre dan ook vrijspreken.
 
 3.3.2
 
@@ -189,27 +188,27 @@ hij in de periode van 21 maart 2024 tot en met 6 mei 2024 in Nederland tezamen e
 
 - andere personen tot de afgifte van een of meer bankpassen en/of telefoons en/of het ter beschikking stellen van een of meer (pin)codes (aangiftes/mutatierapport op pagina:
 
-595 ([benadeelde 8]),
+595 ( [benadeelde 8] ),
 
-601 ([benadeelde 9]),
+601 ([benadeelde 9] ),
 
-612 ([benadeelde 10]),
+612 ( [benadeelde 10]),
 
-616 ([benadeelde 11]),
+616 ( [benadeelde 11] ),
 
-619 ([benadeelde 12]),
+619 ( [benadeelde 12] ),
 
-622 ([benadeelde 13]),
+622 ( [benadeelde 13]),
 
-650 ([benadeelde 14]),
+650 ([benadeelde 14] ),
 
-663 ([benadeelde 15]),
+663 ( [benadeelde 15] ),
 
-674 ([benadeelde 16]),
+674 ( [benadeelde 16] ),
 
-676 ([benadeelde 17]) en
+676 ([benadeelde 17] ) en
 
-677 ([benadeelde 18]) procesdossier (map II)),
+677 ( [benadeelde 18] ) procesdossier (map II)),
 
 door
 
@@ -239,21 +238,21 @@ hij in de periode van 21 maart 2024 tot en met 6 mei 2024 in Nederland, tezamen 
 
 - andere geldbedragen, van een of meer andere personen (aangiftes op pagina:
 
-595 ([benadeelde 8]),
+595 ( [benadeelde 8] ),
 
-601 ([benadeelde 9]),
+601 ([benadeelde 9] ),
 
-619 ([benadeelde 12]),
+619 ([benadeelde 12] ),
 
-622 ([benadeelde 13]),
+622 ( [benadeelde 13] ),
 
-650 ([benadeelde 14]),
+650 ( [benadeelde 14] ),
 
-663 ([benadeelde 15]),
+663 ( [benadeelde 15] ),
 
-674 ([benadeelde 16]) en
+674 ( [benadeelde 16] ) en
 
-677 ([benadeelde 18]) procesdossier (map II)),
+677 ([benadeelde 18] ) procesdossier (map II)),
 
 heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen, terwijl verdachte en/of zijn mededader(s) dat weg te nemen goed onder zijn/hun bereik heeft/hebben gebracht door middel van een valse sleutel.
 
@@ -308,7 +307,7 @@ Met betrekking tot de persoon van de verdachte heeft de rechtbank in het bijzond
 
 - het op naam van de verdachte staand Uittreksel Justitiële Documentatie, gedateerd 06 februari 2025, waaruit blijkt dat de verdachte niet eerder voor vergelijkbare feiten veroordeeld is. Wel werd de verdachte eerder veroordeeld tot een deels voorwaardelijke gevangenisstraf wegens computervredebreuk. Dat de verdachte in een proeftijd liep ten tijde van het bewezenverklaarde en hem nota bene een voorwaardelijke gevangenisstraf boven het hoofd hing, heeft hem er kennelijk niet van weerhouden opnieuw strafbare feiten te plegen.
 
-- het over de verdachte uitgebrachte voorlichtingsrapport gedateerd 13 september 2024 van mevrouw [reclasseringswerker], als reclasseringswerkster verbonden aan Reclassering Nederland. Daaruit volgt, kort samengevat, dat er een gemiddeld risico op recidive is door de gokproblematiek en het psychosociaal functioneren van de verdachte. De verdachte heeft op zitting aangegeven open te staan voor hulp van de reclassering, en zich te willen richten op een baan in de evenementenbeveiliging.
+- het over de verdachte uitgebrachte voorlichtingsrapport gedateerd 13 september 2024 van mevrouw [reclasseringswerker] , als reclasseringswerkster verbonden aan Reclassering Nederland. Daaruit volgt, kort samengevat, dat er een gemiddeld risico op recidive is door de gokproblematiek en het psychosociaal functioneren van de verdachte. De verdachte heeft op zitting aangegeven open te staan voor hulp van de reclassering, en zich te willen richten op een baan in de evenementenbeveiliging.
 
 De rechtbank heeft, naast het hiervoor genoemde, ook gekeken naar straffen die in soortgelijke zaken zijn opgelegd en de LOVS-oriëntatiepunten voor de straftoemeting voor meerderjarigen (voor fraude en diefstal).
 
@@ -360,7 +359,7 @@ Vordering benadeelde partij [benadeelde 1]
 
 De benadeelde partij [benadeelde 1] heeft een vordering tot schadevergoeding van € 547,21 ingediend tegen de verdachte wegens materiële (€ 47,21) en immateriële schade (€ 500,00) die zij als gevolg van de ten laste gelegde feiten zou hebben geleden, vermeerderd met de wettelijke rente over dit bedrag. De gestelde materiële schade bestaat uit slaappillen en medicijnen.
 
-Omdat de rechtbank de verdachte vrijspreekt van de onder 1 en 2 ten laste gelegde feiten voor zover deze zien op [benadeelde 1], zal de rechtbank bepalen dat de benadeelde partij in de vordering niet-ontvankelijk wordt verklaard. Hierbij zal de rechtbank bepalen dat de verdachte en de benadeelde partij ieder de eigen proceskosten dragen.
+Omdat de rechtbank de verdachte vrijspreekt van de onder 1 en 2 ten laste gelegde feiten voor zover deze zien op [benadeelde 1] , zal de rechtbank bepalen dat de benadeelde partij in de vordering niet-ontvankelijk wordt verklaard. Hierbij zal de rechtbank bepalen dat de verdachte en de benadeelde partij ieder de eigen proceskosten dragen.
 
 8.3
 
@@ -430,13 +429,13 @@ Namens de benadeelde partij [benadeelde 21] heeft [gemachtigde] een vordering to
 
 [benadeelde 5] à € 750,00.
 
-Omdat de rechtbank de verdachte vrijspreekt van de onder 1 en 2 ten laste gelegde feiten voor zover deze zien op [benadeelde 1], zal de rechtbank bepalen dat de benadeelde partij niet-ontvankelijk in de vordering wordt verklaard, voor wat betreft het deel dat ziet op schadeloosstelling van [benadeelde 1].
+Omdat de rechtbank de verdachte vrijspreekt van de onder 1 en 2 ten laste gelegde feiten voor zover deze zien op [benadeelde 1] , zal de rechtbank bepalen dat de benadeelde partij niet-ontvankelijk in de vordering wordt verklaard, voor wat betreft het deel dat ziet op schadeloosstelling van [benadeelde 1] .
 
 De rechtbank is van oordeel dat de materiële schade voor het overige rechtstreeks voortvloeit uit de bewezen verklaarde feiten. De vordering zal dan ook worden toegewezen, vermeerderd met de wettelijke rente over dit bedrag vanaf
 
-18 april 2024 inzake de schadeloosstelling van [benadeelde 4],
+18 april 2024 inzake de schadeloosstelling van [benadeelde 4] ,
 
-9 mei 2024 inzake de schadeloosstelling van [benadeelde 5],
+9 mei 2024 inzake de schadeloosstelling van [benadeelde 5] ,
 
 tot aan de dag der algehele voldoening. Daarbij zal de rechtbank bepalen dat indien een medeverdachte dit bedrag geheel of gedeeltelijk heeft betaald, de verdachte in zoverre van deze verplichting zal zijn bevrijd.
 
@@ -529,7 +528,7 @@ Bepaalt dat de benadeelde partij en de verdachte ieder de eigen proceskosten dra
 
 Benadeelde partij [benadeelde 2]
 
-Wijst toe de vordering tot vergoeding van de door de benadeelde partij geleden schade tot een bedrag van € 980,00, als vergoeding voor de materiële schade, en veroordeelt de verdachte tot betaling van dit bedrag, vermeerderd met de wettelijke rente over dit bedrag vanaf 21 maart 2024 tot aan de dag der algehele voldoening, aan Schipper, voornoemd, tegen behoorlijk bewijs van kwijting.
+Wijst toe de vordering tot vergoeding van de door de benadeelde partij geleden schade tot een bedrag van € 980,00, als vergoeding voor de materiële schade, en veroordeelt de verdachte tot betaling van dit bedrag, vermeerderd met de wettelijke rente over dit bedrag vanaf 21 maart 2024 tot aan de dag der algehele voldoening, aan [benadeelde 2] , voornoemd, tegen behoorlijk bewijs van kwijting.
 
 Bepaalt dat indien genoemd bedrag geheel of gedeeltelijk door een medeverdachte is betaald, de verdachte in zoverre van deze verplichting zal zijn bevrijd.
 
@@ -557,7 +556,7 @@ Bepaalt dat de benadeelde partij en de verdachte ieder de eigen proceskosten dra
 
 Benadeelde partij [benadeelde 14]
 
-Wijst toe de vordering tot vergoeding van de door de benadeelde partij geleden schade tot een bedrag van € 5.850,00, als vergoeding voor de materiële schade, en veroordeelt de verdachte tot betaling van dit bedrag, vermeerderd met de wettelijke rente over dit bedrag vanaf 26 april 2024 tot aan de dag der algehele voldoening, aan Verkade, voornoemd, tegen behoorlijk bewijs van kwijting.
+Wijst toe de vordering tot vergoeding van de door de benadeelde partij geleden schade tot een bedrag van € 5.850,00, als vergoeding voor de materiële schade, en veroordeelt de verdachte tot betaling van dit bedrag, vermeerderd met de wettelijke rente over dit bedrag vanaf 26 april 2024 tot aan de dag der algehele voldoening, aan [benadeelde 14] , voornoemd, tegen behoorlijk bewijs van kwijting.
 
 Bepaalt dat indien genoemd bedrag geheel of gedeeltelijk door een medeverdachte is betaald, de verdachte in zoverre van deze verplichting zal zijn bevrijd.
 
@@ -571,7 +570,7 @@ Wijst toe de vordering tot vergoeding van de door de benadeelde partij geleden s
 
 9 mei 2024 voor een bedrag van € 750,00,
 
-tot aan de dag der algehele voldoening, aan [benadeelde 21], voornoemd, tegen behoorlijk bewijs van kwijting.
+tot aan de dag der algehele voldoening, aan [benadeelde 21] , voornoemd, tegen behoorlijk bewijs van kwijting.
 
 Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering.
 
