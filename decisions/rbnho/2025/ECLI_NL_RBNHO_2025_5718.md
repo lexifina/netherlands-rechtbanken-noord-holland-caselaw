@@ -53,7 +53,7 @@ te Amsterdam,
 
 gedaagde partij,
 
-hierna te noemen: [betrokkene],
+hierna te noemen: [betrokkene] ,
 
 gemachtigde: mr. M. Heikens.
 
@@ -75,15 +75,15 @@ De feiten
 
 2.1.
 
-Sinds 3 mei 2022 huurt [betrokkene] van Stichting Pré Wonen de woning gelegen aan het adres [adres] te ([postcode] Haarlem (hierna: het gehuurde). Op de huurovereenkomst zijn algemene voorwaarden van toepassing verklaard.
+Sinds 3 mei 2022 huurt [betrokkene] van Stichting Pré Wonen de woning gelegen aan het adres [adres] te ( [postcode] Haarlem (hierna: het gehuurde). Op de huurovereenkomst zijn algemene voorwaarden van toepassing verklaard.
 
 2.2.
 
-De goederen van de heer [betrokkene] zijn onder bewind gesteld. Beaufin B.V. is de bewindvoerder van [betrokkene].
+De goederen van de heer [betrokkene] zijn onder bewind gesteld. Beaufin B.V. is de bewindvoerder van [betrokkene] .
 
 2.3.
 
-De onderbuurvrouw van [betrokkene] ondervindt al geruime tijd overlast van een lekkage die afkomstig is uit het doucheputje in de woning van [betrokkene]. Wanneer [betrokkene] gebruik maakt van de douche stroomt er bij haar water uit het plafond.
+De onderbuurvrouw van [betrokkene] ondervindt al geruime tijd overlast van een lekkage die afkomstig is uit het doucheputje in de woning van [betrokkene] . Wanneer [betrokkene] gebruik maakt van de douche stroomt er bij haar water uit het plafond.
 
 2.4.
 
@@ -206,6 +206,6 @@ Algemene Huurvoorwaarden voor zelfstandige woonruimte van 2018.
 
 Artikel 7:220 BW en artikel 8.1 van de algemene voorwaarden.
 
-Artikel 1:1441 lid 1 BW.
+Artikel 1:441 lid 1 BW.
 
 Hoge Raad 7 maart 2014, ECLI:NL:HR:2014:525.
