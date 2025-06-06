@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:6042"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2895, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBNHO:2025:6042 Rechtbank Noord-Holland , 06-06-2025 / HAA 24/4190
