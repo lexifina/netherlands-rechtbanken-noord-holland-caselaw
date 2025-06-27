@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:10749"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025102702", "Sdu Nieuws Belastingzaken 2025/1167", "V-N Vandaag 2025/2150", "FutD 2025-2155", "NDFR Nieuws 2025/1720", "NLF 2025/2346 met annotatie van Loes van Hulten", "NTFR 2025/1847 met annotatie van dr. R.W.G. Rouwers"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025102702", "Sdu Nieuws Belastingzaken 2025/1167", "V-N Vandaag 2025/2150", "FutD 2025-2155", "NDFR Nieuws 2025/1720", "NLF 2025/2346 met annotatie van Loes van Hulten", "NTFR 2025/1847 met annotatie van dr. R.W.G. Rouwers", "V-N 2026/23.10 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBNHO:2025:10749 Rechtbank Noord-Holland , 27-06-2025 / HAA 21/5013
