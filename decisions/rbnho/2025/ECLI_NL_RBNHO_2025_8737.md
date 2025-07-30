@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:8737"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2025/382", "ERF-Updates.nl 2025-0507", "VEAN-ERF-Updates.nl 2025-0507"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2025/382", "ERF-Updates.nl 2025-0507", "VEAN-ERF-Updates.nl 2025-0507", "FJR 2026/40.63"]
 ---
 
 # ECLI:NL:RBNHO:2025:8737 Rechtbank Noord-Holland , 30-07-2025 / 11583148 BZ VERZ 25-787 ZK
