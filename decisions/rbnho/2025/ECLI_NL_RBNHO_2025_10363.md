@@ -127,7 +127,7 @@ Onderhoud t.b.v. de toegangsbrug wordt door beide partijen onderhouden, rekening
 
 2.6.
 
-[eisers] hebben [gedaagden] enige tijd nadat partijen in de woningen zijn gaan wonen – volgens [eisers] in april 2021 – gevraagd of Van Gulik al hadden nagedacht over het realiseren van een eigen ontsluiting. [gedaagden] hebben daarop meegedeeld niet van plan te zijn zelf een brug te plaatsen.
+[eisers] hebben [gedaagden] enige tijd nadat partijen in de woningen zijn gaan wonen – volgens [eisers] in april 2021 – gevraagd of [gedaagden] al hadden nagedacht over het realiseren van een eigen ontsluiting. [gedaagden] hebben daarop meegedeeld niet van plan te zijn zelf een brug te plaatsen.
 
 2.7.
 
