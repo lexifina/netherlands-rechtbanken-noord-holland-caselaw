@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:9884"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/585"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/585", "NTFR 2026/800 met annotatie van mr. P.W.L. van den Bersselaar"]
 ---
 
 # ECLI:NL:RBNHO:2025:9884 Rechtbank Noord-Holland , 26-08-2025 / HAA 25/1455
