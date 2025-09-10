@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15617"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/265"]
 ---
 
 # ECLI:NL:RBNHO:2025:15617 Rechtbank Noord-Holland , 10-09-2025 / 11334484 \ CV EXPL 24-6944
