@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:10473"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.36"]
 ---
 
 # ECLI:NL:RBNHO:2025:10473 Rechtbank Noord-Holland , 11-09-2025 / C/15/368416 / FA RK 25-4079
