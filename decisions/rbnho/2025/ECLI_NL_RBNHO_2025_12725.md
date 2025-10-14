@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:12725"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112501", "FutD 2025-2365", "NDFR Nieuws 2025/1891", "Sdu Nieuws Belastingzaken 2025/1323", "NLF 2025/2550 met annotatie van Theo Hoogwout", "NTFR 2025/2013 met annotatie van mr. J.A.L. Heldens"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112501", "FutD 2025-2365", "NDFR Nieuws 2025/1891", "Sdu Nieuws Belastingzaken 2025/1323", "NLF 2025/2550 met annotatie van mr. T.C. Hoogwout", "NTFR 2025/2013 met annotatie van mr. J.A.L. Heldens"]
 ---
 
 # ECLI:NL:RBNHO:2025:12725 Rechtbank Noord-Holland , 14-10-2025 / 24_464
