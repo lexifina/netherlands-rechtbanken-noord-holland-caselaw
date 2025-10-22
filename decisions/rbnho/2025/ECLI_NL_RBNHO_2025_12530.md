@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:12530"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2025-0212"]
 ---
 
 # ECLI:NL:RBNHO:2025:12530 Rechtbank Noord-Holland , 22-10-2025 / C/15/361010 / HA ZA 25-36
