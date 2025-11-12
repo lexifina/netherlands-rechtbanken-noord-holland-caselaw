@@ -43,9 +43,9 @@ gemachtigde mr. O.J. Boeder
 
 tegen
 
-[gedaagde 1], te Haarlem
+[gedaagde 1] , te Haarlem
 
-[gedaagde 2] B.V., in haar hoedanigheid als bewindvoerder over de goederen van [gedaagde 1], te [plaats]
+[gedaagde 2] B.V., in haar hoedanigheid als bewindvoerder over de goederen van [gedaagde 1] , te [plaats]
 
 gedaagde partijen
 
@@ -58,14 +58,14 @@ De procedure
 
 1.1.
 
-Stichting Elan Wonen heeft [gedaagde 1] gedagvaard op 18 september 2025. [gedaagde 1] heeft schriftelijk geantwoord. Op 16 oktober 2025 heeft een mondelinge behandeling plaatsgevonden, waarbij aanwezig waren mr. Oost namens Stichting Elan Wonen en [gedaagde 1]. De griffier heeft aantekeningen gemaakt van wat partijen naar voren hebben gebracht. Vonnis is bepaald op vandaag.
+Stichting Elan Wonen heeft [gedaagde 1] gedagvaard op 18 september 2025. [gedaagde 1] heeft schriftelijk geantwoord. Op 16 oktober 2025 heeft een mondelinge behandeling plaatsgevonden, waarbij aanwezig waren mr. Oost namens Stichting Elan Wonen en [gedaagde 1] . De griffier heeft aantekeningen gemaakt van wat partijen naar voren hebben gebracht. Vonnis is bepaald op vandaag.
 
 2
 De feiten
 
 2.1.
 
-[gedaagde 1] huurt met ingang van 5 maart 2021 van Stichting Elan Wonen een woning gelegen aan het adres [adres] te ([postcode]) [plaats] tegen een huurprijs van € 769,41 per maand. Er is sprake van sociale huur. Op de overeenkomst zijn algemene voorwaarden van toepassing verklaard.
+[gedaagde 1] huurt met ingang van 5 maart 2021 van Stichting Elan Wonen een woning gelegen aan het adres [adres] te ( [postcode] ) [plaats] tegen een huurprijs van € 769,41 per maand. Er is sprake van sociale huur. Op de overeenkomst zijn algemene voorwaarden van toepassing verklaard.
 
 2.2.
 
@@ -97,7 +97,7 @@ De kantonrechter stelt voorop dat een vordering die een persoon betreft wiens go
 
 4.2.
 
-Uit de stukken is gebleken dat het onderhavige bewind bij beschikking van 22 september 2025 per 6 oktober 2025 is opgeheven. Stichting Elan Wonen wordt daarom niet-ontvankelijk verklaard in haar vordering jegens [gedaagde 2] B.V. Zij is wel ontvankelijk in de vordering jegens [gedaagde 1].
+Uit de stukken is gebleken dat het onderhavige bewind bij beschikking van 22 september 2025 per 6 oktober 2025 is opgeheven. Stichting Elan Wonen wordt daarom niet-ontvankelijk verklaard in haar vordering jegens [gedaagde 2] B.V. Zij is wel ontvankelijk in de vordering jegens [gedaagde 1] .
 
 Ambtshalve toetsing van: de huurovereenkomst en de algemene voorwaarden
 
@@ -150,7 +150,7 @@ De kantonrechter:
 
 5.1.
 
-verklaart Stichting Elan Wonen niet-ontvankelijk in haar vordering jegens [gedaagde 2] B.V., in haar hoedanigheid als bewindvoerder over de goederen van [gedaagde 1];
+verklaart Stichting Elan Wonen niet-ontvankelijk in haar vordering jegens [gedaagde 2] B.V., in haar hoedanigheid als bewindvoerder over de goederen van [gedaagde 1] ;
 
 5.2.
 
@@ -158,7 +158,7 @@ ontbindt de tussen Stichting Elan Wonen en [gedaagde 1] gesloten huurovereenkoms
 
 5.3.
 
-veroordeelt [gedaagde 1] om de woonruimte aan het adres [adres] te ([postcode]) [plaats] binnen veertien dagen na betekening van dit vonnis te ontruimen, leeg op te leveren en de sleutels over te dragen aan Stichting Elan Wonen;
+veroordeelt [gedaagde 1] om de woonruimte aan het adres [adres] te ( [postcode] ) [plaats] binnen veertien dagen na betekening van dit vonnis te ontruimen, leeg op te leveren en de sleutels over te dragen aan Stichting Elan Wonen;
 
 5.4.
 
@@ -196,7 +196,7 @@ De griffier 								De kantonrechter
 
 Algemene voorwaarden huurovereenkomst februari 2020.
 
-Artikel 1:1441 lid 1 BW;
+Artikel 1:441 lid 1 BW;
 
 Hoge Raad 7 maart 2014, ECLI:NL:HR:2014:525.
 
