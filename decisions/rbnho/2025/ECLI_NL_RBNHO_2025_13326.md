@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:13326"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.12", "FJR 2026/40.9"]
 ---
 
 # ECLI:NL:RBNHO:2025:13326 Rechtbank Noord-Holland , 12-11-2025 / 11722114 CB VERZ 25-42 ZK
