@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:13526"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2025/467", "Notamail 2025/275", "Sdu Nieuws Personen- en familierecht 2025/701", "ERF-Updates.nl 2025-0608", "VEAN-ERF-Updates.nl 2025-0608"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2025/467", "Notamail 2025/275", "Sdu Nieuws Personen- en familierecht 2025/701", "ERF-Updates.nl 2025-0608", "VEAN-ERF-Updates.nl 2025-0608", "JERF 2026/86"]
 ---
 
 # ECLI:NL:RBNHO:2025:13526 Rechtbank Noord-Holland , 19-11-2025 / C/15/340627 / HA ZA 23-327
