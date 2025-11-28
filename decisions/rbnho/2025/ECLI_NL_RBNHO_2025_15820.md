@@ -38,11 +38,11 @@ in de zaak van
 [eiser]
 ,
 
-te [plaats],
+te [plaats] ,
 
 eisende partij,
 
-hierna te noemen: [eiser],
+hierna te noemen: [eiser] ,
 
 gemachtigde: mr. J.W. Janssens,
 
@@ -81,7 +81,7 @@ Het verloop van de procedure blijkt uit:
 
 2.1.
 
-[eiser] is sinds 16 augustus 2021 bij Samsung werkzaam als directeur Human Resources & General Affairs (HR&GA)/director People and Workplace. In die functie is zij als ‘Head of Department’ verantwoordelijk voor de departementen Human Resources en Facilities.
+[eiser] is sinds [datum in dienst] bij Samsung werkzaam als [functie].
 
 2.2.
 
@@ -137,7 +137,7 @@ Bij brief van haar gemachtigde van 14 oktober 2025 heeft [eiser] om inzage verzo
 
 2.15.
 
-Bij brief van 17 oktober 2025 heeft Samsung laten weten dat zij heeft gekozen voor de weg van de klokkenluidersregeling vanwege de aard van de klachten en de sterke bescherming die hierdoor geboden wordt aan alle partijen, waaronder [eiser]. Ook heeft  Samsung in die brief meegedeeld dat [eiser] op non-actief is gesteld vanwege de aard van de klachten en het risico op vergelding.
+Bij brief van 17 oktober 2025 heeft Samsung laten weten dat zij heeft gekozen voor de weg van de klokkenluidersregeling vanwege de aard van de klachten en de sterke bescherming die hierdoor geboden wordt aan alle partijen, waaronder [eiser] . Ook heeft  Samsung in die brief meegedeeld dat [eiser] op non-actief is gesteld vanwege de aard van de klachten en het risico op vergelding.
 
 2.16.
 
@@ -264,11 +264,11 @@ Thans is de vraag aan de orde of dit belang zwaarder weegt dan het belang van [e
 
 5.12.
 
-De kantonrechter is echter van oordeel dat het belang van [eiser] op dit moment niet opweegt tegen het zwaarwegende belang van Samsung bij handhaving van de non-actiefstelling. [eiser] krijgt gedurende haar non-actiefstelling haar loon en emolumenten doorbetaald en heeft ook haar leaseauto, laptop en telefoon mogen behouden. Aan het eind van de week van 24 november 2025 zal het definitieve onderzoeksrapport aan mr. Engelsman worden opgeleverd, waarna Samsung (naar zij ter zitting heeft verklaard) binnen enkele dagen zal beslissen of dat rapport aanleiding geeft voor het treffen van (disciplinaire of ontslag-) maatregelen jegens [eiser]. Een - mogelijk kortstondige - terugkeer van [eiser] op de werkvloer weegt niet op tegen de het belang van Samsung om de daarmee gepaard gaande onrust onder haar werknemers te voorkomen. Voor zover [eiser] door haar afwezigheid op de werkvloer reputatieschade lijdt, lijkt te gelden dat deze schade inmiddels al is geleden; terugkeer naar het werk in dit stadium van het onderzoek zal daar weinig aan veranderen.  Samsung heeft ter zitting overigens toegezegd dat, als het rapport van Hoffmann geen aanleiding geeft tot het treffen van maatregelen jegens [eiser], stevig zal worden ingezet op mediation om het vertrouwen tussen [eiser] en (de werknemers van) Samsung te herstellen en haar functioneren weer mogelijk te maken.
+De kantonrechter is echter van oordeel dat het belang van [eiser] op dit moment niet opweegt tegen het zwaarwegende belang van Samsung bij handhaving van de non-actiefstelling. [eiser] krijgt gedurende haar non-actiefstelling haar loon en emolumenten doorbetaald en heeft ook haar leaseauto, laptop en telefoon mogen behouden. Aan het eind van de week van 24 november 2025 zal het definitieve onderzoeksrapport aan mr. Engelsman worden opgeleverd, waarna Samsung (naar zij ter zitting heeft verklaard) binnen enkele dagen zal beslissen of dat rapport aanleiding geeft voor het treffen van (disciplinaire of ontslag-) maatregelen jegens [eiser] . Een - mogelijk kortstondige - terugkeer van [eiser] op de werkvloer weegt niet op tegen de het belang van Samsung om de daarmee gepaard gaande onrust onder haar werknemers te voorkomen. Voor zover [eiser] door haar afwezigheid op de werkvloer reputatieschade lijdt, lijkt te gelden dat deze schade inmiddels al is geleden; terugkeer naar het werk in dit stadium van het onderzoek zal daar weinig aan veranderen.  Samsung heeft ter zitting overigens toegezegd dat, als het rapport van Hoffmann geen aanleiding geeft tot het treffen van maatregelen jegens [eiser] , stevig zal worden ingezet op mediation om het vertrouwen tussen [eiser] en (de werknemers van) Samsung te herstellen en haar functioneren weer mogelijk te maken.
 
 5.13.
 
-De kantonrechter merkt nog op dat de door [eiser] aangevoerde omstandigheid dat eerder twee van fraude beschuldigde werknemers niet op non-actief zijn gesteld, de belangenafweging in haar geval niet anders maakt. De problematiek die daar tot onderzoek leidde is immers niet te vergelijken met die in het geval van [eiser].
+De kantonrechter merkt nog op dat de door [eiser] aangevoerde omstandigheid dat eerder twee van fraude beschuldigde werknemers niet op non-actief zijn gesteld, de belangenafweging in haar geval niet anders maakt. De problematiek die daar tot onderzoek leidde is immers niet te vergelijken met die in het geval van [eiser] .
 
 5.14.
 
@@ -314,7 +314,7 @@ Ook gaat het in dit geval om ‘bepaalde’ gegevens over die rechtsbetrekking, 
 
 5.23.
 
-Bovendien heeft [eiser], zoals gezegd, voldoende belang bij verstrekking van de betreffende afschriften om het conceptrapport te kunnen controleren en becommentariëren. Aan de vereisten van artikel 194 lid 1 Rv is dus voldaan.
+Bovendien heeft [eiser] , zoals gezegd, voldoende belang bij verstrekking van de betreffende afschriften om het conceptrapport te kunnen controleren en becommentariëren. Aan de vereisten van artikel 194 lid 1 Rv is dus voldaan.
 
 5.24.
 
@@ -330,7 +330,7 @@ Voor het overige zal de vordering van [eiser] tot overlegging van afschriften va
 
 5.27.
 
-De kantonrechter tekent hier nog bij aan dat Samsung ter zitting heeft toegezegd dat, als [eiser] vindt dat de inhoud van het (concept) onderzoeksrapport geen goede weergave is van de gespreksverslagen, [eiser] een contra-expertise door een ander onderzoeksbureau mag laten verrichten dat (in plaats van [eiser]) kennis kan nemen van de gespreksverslagen en de weergave daarvan in het rapport kan controleren.
+De kantonrechter tekent hier nog bij aan dat Samsung ter zitting heeft toegezegd dat, als [eiser] vindt dat de inhoud van het (concept) onderzoeksrapport geen goede weergave is van de gespreksverslagen, [eiser] een contra-expertise door een ander onderzoeksbureau mag laten verrichten dat (in plaats van [eiser] ) kennis kan nemen van de gespreksverslagen en de weergave daarvan in het rapport kan controleren.
 
 De proceskosten
 
