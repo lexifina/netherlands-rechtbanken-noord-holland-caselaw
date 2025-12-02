@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15830"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021702", "V-N Vandaag 2026/317", "FutD 2026-0307", "NDFR Nieuws 2026/298", "NLF 2026/0341", "NTFR 2026/456 met annotatie van mr. F. van Horzen", "V-N 2026/14.7 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021702", "V-N Vandaag 2026/317", "FutD 2026-0307", "NDFR Nieuws 2026/298", "NLF 2026/0341", "NTFR 2026/456 met annotatie van mr. F. van Horzen", "V-N 2026/14.7 met annotatie van Redactie", "Belastingadvies 2026/8.3"]
 ---
 
 # ECLI:NL:RBNHO:2025:15830 Rechtbank Noord-Holland , 02-12-2025 / HAA 24/713 t/m 24/715
