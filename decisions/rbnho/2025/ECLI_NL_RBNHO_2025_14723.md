@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:14723"
-published_in: ["Rechtspraak.nl", "JGz 2026/16 met annotatie van dr. J.J. de Jong"]
+published_in: ["Rechtspraak.nl", "JGz 2026/16 met annotatie van dr. J.J. de Jong", "JGz 2026/55 met annotatie van drs. B.C.J. van den Bosch, mr. C.M.A Bakker"]
 ---
 
 # ECLI:NL:RBNHO:2025:14723 Rechtbank Noord-Holland , 03-12-2025 / C/15/372274 / FA RK 25-6111
