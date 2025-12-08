@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:14333"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025122301", "V-N Vandaag 2025/2628", "Sdu Nieuws Belastingzaken 2026/12", "FutD 2026-0037", "NDFR Nieuws 2026/41", "V-N 2026/8.19.4", "NTFR 2026/355 met annotatie van mr. H.A.S. Roozeboom", "NLF 2026/0016"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025122301", "V-N Vandaag 2025/2628", "Sdu Nieuws Belastingzaken 2026/12", "FutD 2026-0037", "NDFR Nieuws 2026/41", "V-N 2026/8.19.4", "NTFR 2026/355 met annotatie van mr. H.A.S. Roozeboom", "NLF 2026/0016", "Belastingadvies 2026/7.4"]
 ---
 
 # ECLI:NL:RBNHO:2025:14333 Rechtbank Noord-Holland , 08-12-2025 / HAA 24/4828
