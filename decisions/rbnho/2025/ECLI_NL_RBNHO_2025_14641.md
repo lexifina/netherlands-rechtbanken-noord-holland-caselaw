@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:14641"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0073", "Sdu Nieuws Arbeidsrecht 2026/17", "TRA 2026/27 met annotatie van N. Hummel", "RAR 2026/57", "JBP 2026/47"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0073", "Sdu Nieuws Arbeidsrecht 2026/17", "TRA 2026/27 met annotatie van N. Hummel", "RAR 2026/57", "JBP 2026/47", "Jurisprudentie HSE 2026/3"]
 ---
 
 # ECLI:NL:RBNHO:2025:14641 Rechtbank Noord-Holland , 09-12-2025 / 11876673 \ AO VERZ 25-124
