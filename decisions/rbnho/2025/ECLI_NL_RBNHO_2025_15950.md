@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15950"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0396"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0396", "RAR 2026/84"]
 ---
 
 # ECLI:NL:RBNHO:2025:15950 Rechtbank Noord-Holland , 10-12-2025 / 11900311
