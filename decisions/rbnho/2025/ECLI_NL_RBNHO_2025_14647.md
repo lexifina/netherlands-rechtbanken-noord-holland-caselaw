@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:14647"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2516", "JAAN 2026/40"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2516", "JAAN 2026/40", "JAAN 2026/69 met annotatie van mr. C.K. van Lavieren"]
 ---
 
 # ECLI:NL:RBNHO:2025:14647 Rechtbank Noord-Holland , 16-12-2025 / 371737
