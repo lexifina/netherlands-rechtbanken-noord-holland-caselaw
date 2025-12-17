@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15954"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0435", "VAAN-AR-Updates.nl 2026-0435"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0435", "VAAN-AR-Updates.nl 2026-0435", "PR-Updates.nl 2026-0099"]
 ---
 
 # ECLI:NL:RBNHO:2025:15954 Rechtbank Noord-Holland , 17-12-2025 / 11744373
