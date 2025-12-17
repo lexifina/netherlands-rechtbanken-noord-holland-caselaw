@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:14805"
-published_in: ["Rechtspraak.nl", "Douanerechtspraak 2026/207", "Douanerechtspraak 2025/207"]
+published_in: ["Rechtspraak.nl", "Douanerechtspraak 2026/207", "Douanerechtspraak 2025/207", "S&S 2026/94"]
 ---
 
 # ECLI:NL:RBNHO:2025:14805 Rechtbank Noord-Holland , 17-12-2025 / C/15/371846 / KG ZA 25-730
