@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15819"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041304", "Sdu Nieuws Belastingzaken 2026/501", "NDFR Nieuws 2026/600", "V-N Vandaag 2026/744", "FutD 2026-0671"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041304", "Sdu Nieuws Belastingzaken 2026/501", "NDFR Nieuws 2026/600", "V-N Vandaag 2026/744", "FutD 2026-0671", "V-N 2026/20.2.1", "NTFR 2026/1229 met annotatie van mr. T.J. Mooij"]
 ---
 
 # ECLI:NL:RBNHO:2025:15819 Rechtbank Noord-Holland , 23-12-2025 / AWB - 25 _ 1105
