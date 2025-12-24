@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15474"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0024"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0024", "RI 2026/44"]
 ---
 
 # ECLI:NL:RBNHO:2025:15474 Rechtbank Noord-Holland , 24-12-2025 / C15/371961 FT RK 25-922
