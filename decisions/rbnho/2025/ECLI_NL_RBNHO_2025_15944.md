@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15944"
-published_in: ["Rechtspraak.nl", "Prg. 2026/100"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/100", "JONDR 2026/361"]
 ---
 
 # ECLI:NL:RBNHO:2025:15944 Rechtbank Noord-Holland , 30-12-2025 / C/15/372760 / KG ZA 25-780
