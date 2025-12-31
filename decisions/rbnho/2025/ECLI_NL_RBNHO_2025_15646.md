@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15646"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0071"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0071", "RFR 2026/54"]
 ---
 
 # ECLI:NL:RBNHO:2025:15646 Rechtbank Noord-Holland , 31-12-2025 / C/15/360681 / HA ZA 25-10
