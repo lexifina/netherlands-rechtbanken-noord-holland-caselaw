@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2025:15601"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/35, p.160"]
 ---
 
 # ECLI:NL:RBNHO:2025:15601 Rechtbank Noord-Holland , 31-12-2025 / 11771140 \ CV FORM  25-4140
