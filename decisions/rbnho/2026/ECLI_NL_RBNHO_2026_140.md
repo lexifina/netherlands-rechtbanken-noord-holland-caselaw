@@ -32,17 +32,17 @@ beschikking op een verzoek tot opheffing van mentorschap
 
 op verzoek van:
 
-[betrokkene],
+[betrokkene] ,
 
-geboren te [geboorteplaats] op [geboortedatum],
+geboren te [geboorteplaats] op [geboortedatum] ,
 
-[adres],
+[adres] ,
 
 hierna te noemen: betrokkene,
 
 met als mentor A. de Graaf-Kooij h.o.d.n. Andrea Mentorschap
 
-correspondentieadres: 1963 BE Heemskerk, Rosa Manussingel 128.
+[adres] .
 
 procedure
 
