@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:132"
-published_in: ["Rechtspraak.nl", "PJ 2026/29"]
+published_in: ["Rechtspraak.nl", "PJ 2026/29", "Module Privacy & AVG 2026/4498", "PR-Updates.nl 2026-0046"]
 ---
 
 # ECLI:NL:RBNHO:2026:132 Rechtbank Noord-Holland , 08-01-2026 / 368369
