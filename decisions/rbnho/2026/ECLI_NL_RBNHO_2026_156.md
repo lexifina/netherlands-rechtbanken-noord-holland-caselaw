@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:156"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0059", "JA 2026/43"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0059", "JA 2026/43", "VR 2026/73"]
 ---
 
 # ECLI:NL:RBNHO:2026:156 Rechtbank Noord-Holland , 08-01-2026 / 11766313 \ EJ VERZ 25-204
