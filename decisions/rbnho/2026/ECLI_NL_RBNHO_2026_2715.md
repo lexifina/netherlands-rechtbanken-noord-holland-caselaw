@@ -37,11 +37,11 @@ in de zaak van
 
 [eiser] B.V.,
 
-te [plaats 1],
+te [plaats 1] ,
 
 eisende partij,
 
-hierna te noemen: [eiser],
+hierna te noemen: [eiser] ,
 
 gemachtigde: mr. K.R. Stephan,
 
@@ -49,13 +49,13 @@ tegen
 
 1. [gedaagde 1] H.O.D.N. [bedrijf] in hoedanigheid van bewindvoerder in het bewind van [betrokkene],
 
-te [plaats 1],2. [gedaagde 2],
+te [plaats 1] ,2. [gedaagde 2],
 
-te [plaats 2],
+te [plaats 2] ,
 
 gedaagde partijen,
 
-hierna  te noemen: [gedaagde 2],
+hierna  te noemen: [gedaagde 2] ,
 
 gemachtigde: [gemachtigde]
 
@@ -79,7 +79,7 @@ De feiten
 
 2.1.
 
-[gedaagde 2] huurt sinds 19 december 2019 van [eiser] de woonruimte gelegen aan het adres [adres] te ([postcode]) [plaats 2]. Er is sprake van sociale huur.
+[gedaagde 2] huurt sinds 19 december 2019 van [eiser] de woonruimte gelegen aan het adres [adres] te ( [postcode] ) [plaats 2] . Er is sprake van sociale huur.
 
 2.2.
 
@@ -117,7 +117,7 @@ De formele procespartij
 
 4.1.
 
-De kantonrechter stelt voorop dat een vordering die een persoon betreft wiens goederen onder bewind zijn gesteld, moet worden ingesteld tegen de bewindvoerder ter zake van kwesties die de onder het bewind gestelde goederen betreffen. De Hoge Raad heeft geoordeeld dat de uit de huurovereenkomst voortvloeiende rechten goederen zijn in de hiervoor bedoelde zin. [gedaagde 2] is bij beschikking van 13 oktober 2025 onder bewind gesteld. [eiser] wordt daarom niet-ontvankelijk verklaard in haar vordering jegens [gedaagde 2]. Zij is wel ontvankelijk in de vordering jegens de bewindvoerder. In het vervolg zal echter over [gedaagde 2] zelf worden gesproken.
+De kantonrechter stelt voorop dat een vordering die een persoon betreft wiens goederen onder bewind zijn gesteld, moet worden ingesteld tegen de bewindvoerder ter zake van kwesties die de onder het bewind gestelde goederen betreffen. De Hoge Raad heeft geoordeeld dat de uit de huurovereenkomst voortvloeiende rechten goederen zijn in de hiervoor bedoelde zin. [gedaagde 2] is bij beschikking van 13 oktober 2025 onder bewind gesteld. [eiser] wordt daarom niet-ontvankelijk verklaard in haar vordering jegens [gedaagde 2] . Zij is wel ontvankelijk in de vordering jegens de bewindvoerder. In het vervolg zal echter over [gedaagde 2] zelf worden gesproken.
 
 De zaak leent zich voor kort geding
 
@@ -166,11 +166,11 @@ De kantonrechter
 
 5.1.
 
-verklaart [eiser] niet-ontvankelijk in haar vorderingen jegens [gedaagde 2];
+verklaart [eiser] niet-ontvankelijk in haar vorderingen jegens [gedaagde 2] ;
 
 5.2.
 
-veroordeelt [gedaagde 1], in hoedanigheid van bewindvoerder in het bewind van [betrokkene], om te betalen aan [eiser] € 705,48 aan huur tot en met januari 2026 en rente,
+veroordeelt [gedaagde 1] , in hoedanigheid van bewindvoerder in het bewind van [betrokkene] , om te betalen aan [eiser] € 705,48 aan huur tot en met januari 2026 en rente,
 
 5.3.
 
@@ -188,7 +188,7 @@ Dit vonnis is gewezen door mr. J.J. Dijk en in het openbaar uitgesproken op
 
 13 januari 2026.
 
-Artikel 1:1441 lid 1 BW.
+Artikel 1:441 lid 1 BW.
 
 HR 7 maart 2024, ECLI:NL:HR:2014:525.
 
