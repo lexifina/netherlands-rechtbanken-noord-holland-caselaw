@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:592"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0290", "VAAN-AR-Updates.nl 2026-0290", "Sdu Nieuws Arbeidsrecht 2026/79"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0290", "VAAN-AR-Updates.nl 2026-0290", "Sdu Nieuws Arbeidsrecht 2026/79", "TvPP 2026/29, p.101 met annotatie van M. Immerzeel"]
 ---
 
 # ECLI:NL:RBNHO:2026:592 Rechtbank Noord-Holland , 13-01-2026 / 11909662
