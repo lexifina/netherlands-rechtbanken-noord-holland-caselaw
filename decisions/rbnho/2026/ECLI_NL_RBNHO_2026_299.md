@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:299"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0080", "JA 2026/49"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0080", "JA 2026/49", "VR 2026/120"]
 ---
 
 # ECLI:NL:RBNHO:2026:299 Rechtbank Noord-Holland , 16-01-2026 / C/15/368363 / HA RK 25-116
