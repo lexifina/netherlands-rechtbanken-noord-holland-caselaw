@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:820"
-published_in: ["Rechtspraak.nl", "NLF 2026/0391", "NDFR Nieuws 2026/337", "Douanerechtspraak 2026/24"]
+published_in: ["Rechtspraak.nl", "NLF 2026/0391", "NDFR Nieuws 2026/337", "Douanerechtspraak 2026/24", "NTFR 2026/734 met annotatie van mr. N.P.J. Roovers"]
 ---
 
 # ECLI:NL:RBNHO:2026:820 Rechtbank Noord-Holland , 27-01-2026 / HAA-24_122 HAA-24_430 HAA-24_431
