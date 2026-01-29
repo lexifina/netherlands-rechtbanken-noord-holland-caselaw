@@ -35,10 +35,9 @@ Uitspraakdatum: 29 januari 2026
 
 Beschikking van de kantonrechter in de zaak van:
 
-[verzoeker]
-,
+Abdellah Ouazane,
 
-te [plaats]
+te Amsterdam
 
 verzoekende partij
 
@@ -46,9 +45,9 @@ verder te noemen: verzoeker,
 
 met als belanghebbenden, zijn ouders:
 
-[belanghebbende] en [belanghebbende]
+Saadia Abdi en Lhoussaaine Ouazane
 
-te [plaats] .
+te Zaanstad .
 
 1
 Het verzoek
@@ -90,7 +89,7 @@ Verzoeker is op dit moment zeventien jaar oud en profvoetballer bij Ajax. Hij on
 
 2.7.
 
-Hoewel de kantonrechter begrip heeft voor de wens van verzoeker en verzoeker ook overtuigend heeft toegelicht dat hij wordt bijgestaan door een team van professionals (zoals zijn zaakwaarnemer, [naam] van [bedrijf] , en daarnaast gespecialiseerde aankoopmakelaars, financieel adviseurs en een notaris), moet de kantonrechter het verzoek toch afwijzen. De wet staat namelijk niet toe dat aan verzoeker deze bevoegdheden worden toegekend. Het bepaalde in lid 3 van artikel 1:235 BW sluit uitdrukkelijk uit dat een minderjarige kan beschikken over registergoederen. De bevoegdheden waarom verzoeker vraagt, houden allemaal daarmee verband. Er is geen ruimte om van de wet af te wijken, ook niet als de aan te kopen woning helemaal zelf wordt betaald zonder daarvoor een hypothecaire lening af te sluiten. Dat betekent dat de kantonrechter het verzoek niet mag toewijzen.
+Hoewel de kantonrechter begrip heeft voor de wens van verzoeker en verzoeker ook overtuigend heeft toegelicht dat hij wordt bijgestaan door een team van professionals (zoals zijn zaakwaarnemer, D. Kamp van Forza Sports Management , en daarnaast gespecialiseerde aankoopmakelaars, financieel adviseurs en een notaris), moet de kantonrechter het verzoek toch afwijzen. De wet staat namelijk niet toe dat aan verzoeker deze bevoegdheden worden toegekend. Het bepaalde in lid 3 van artikel 1:235 BW sluit uitdrukkelijk uit dat een minderjarige kan beschikken over registergoederen. De bevoegdheden waarom verzoeker vraagt, houden allemaal daarmee verband. Er is geen ruimte om van de wet af te wijken, ook niet als de aan te kopen woning helemaal zelf wordt betaald zonder daarvoor een hypothecaire lening af te sluiten. Dat betekent dat de kantonrechter het verzoek niet mag toewijzen.
 
 2.8.
 
