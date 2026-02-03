@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2543"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/796"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/796", "V-N 2026/20.13 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBNHO:2026:2543 Rechtbank Noord-Holland , 03-02-2026 / AWB - 25 _ 1523
