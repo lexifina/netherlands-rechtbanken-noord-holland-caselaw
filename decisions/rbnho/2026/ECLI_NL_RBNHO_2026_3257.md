@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:3257"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Douanerechtspraak 2026/50"]
 ---
 
 # ECLI:NL:RBNHO:2026:3257 Rechtbank Noord-Holland , 03-02-2026 / HAA-24_2784
