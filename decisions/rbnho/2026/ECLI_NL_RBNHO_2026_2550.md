@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2550"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/232 met annotatie van J.C. Scherff"]
 ---
 
 # ECLI:NL:RBNHO:2026:2550 Rechtbank Noord-Holland , 03-02-2026 / AWB - 25 _ 1744
