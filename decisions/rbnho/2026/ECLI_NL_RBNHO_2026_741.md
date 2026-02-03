@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:741"
-published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0038"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0038", "Jurisprudentie HSE 2026/15"]
 ---
 
 # ECLI:NL:RBNHO:2026:741 Rechtbank Noord-Holland , 03-02-2026 / 24/178
