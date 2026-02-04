@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2056"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/687"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/687", "V-N 2026/20.17.17", "Belastingblad 2026/273 met annotatie van J.G.E. Gieskes"]
 ---
 
 # ECLI:NL:RBNHO:2026:2056 Rechtbank Noord-Holland , 04-02-2026 / HAA 25/2076
