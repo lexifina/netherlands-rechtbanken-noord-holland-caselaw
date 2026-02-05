@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2541"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042108", "Sdu Nieuws Belastingzaken 2026/539", "V-N Vandaag 2026/819"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042108", "Sdu Nieuws Belastingzaken 2026/539", "V-N Vandaag 2026/819", "FutD 2026-0724", "NDFR Nieuws 2026/703", "V-N 2026/20.17.8", "NTFR 2026/901 met annotatie van mr. S.P.J. van Straalen"]
 ---
 
 # ECLI:NL:RBNHO:2026:2541 Rechtbank Noord-Holland , 05-02-2026 / AWB - 25 _ 3440
