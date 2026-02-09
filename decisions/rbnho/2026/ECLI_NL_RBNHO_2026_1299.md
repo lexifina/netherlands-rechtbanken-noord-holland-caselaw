@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:1299"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041302", "V-N Vandaag 2026/719", "FutD 2026-0686"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041302", "V-N Vandaag 2026/719", "FutD 2026-0686", "NDFR Nieuws 2026/658", "V-N 2026/20.17.13", "NTFR 2026/1045 met annotatie van mr. E. Alink"]
 ---
 
 # ECLI:NL:RBNHO:2026:1299 Rechtbank Noord-Holland , 09-02-2026 / HAA 24/1018
