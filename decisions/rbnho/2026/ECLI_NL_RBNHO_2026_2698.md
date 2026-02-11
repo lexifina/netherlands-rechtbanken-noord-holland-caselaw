@@ -51,7 +51,7 @@ gedaagde
 
 verder te noemen: de vervoerder
 
-gemachtigden: mr. G.I. Niesert en mr. L.C.E. Kleine (LVH advocaten)
+gemachtigden: mr. G.I. Niesert en mr. L.C.E. Kleijne (LVH advocaten)
 
 1
 Het procesverloop
