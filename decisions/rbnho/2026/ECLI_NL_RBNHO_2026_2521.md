@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2521"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/93"]
 ---
 
 # ECLI:NL:RBNHO:2026:2521 Rechtbank Noord-Holland , 11-02-2026 / C/15/364921 / HA ZA 25-271
