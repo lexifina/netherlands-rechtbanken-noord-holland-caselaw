@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:1432"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0352", "Sdu Nieuws Arbeidsrecht 2026/87"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0352", "Sdu Nieuws Arbeidsrecht 2026/87", "RAR 2026/83"]
 ---
 
 # ECLI:NL:RBNHO:2026:1432 Rechtbank Noord-Holland , 11-02-2026 / 11793711 CV EXPL 25-4625
