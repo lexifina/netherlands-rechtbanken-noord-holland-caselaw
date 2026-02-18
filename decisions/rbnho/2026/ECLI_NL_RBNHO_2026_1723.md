@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:1723"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0247", "VEAN-ERF-Updates.nl 2026-0247", "JERF Actueel 2026/131", "Prg. 2026/202", "JERF 2026/89"]
 ---
 
 # ECLI:NL:RBNHO:2026:1723 Rechtbank Noord-Holland , 18-02-2026 / C/15/355531 / HA ZA 24-438
@@ -97,7 +97,7 @@ Alle erfgenamen hebben de nalatenschap van erflater zuiver aanvaard. [gedaagde] 
 
 2.4.
 
-In 2017 hebben erflater en [gedaagde] een overeenkomst met elkaar gesloten over de onroerende zaak gelegen aan de [adres 1] in Kolhorn. De tussen erflater en [gedaagde] op 2 april 2017 opgemaakte onderhandse akte (hierna ook: de overeenkomst) luidt als volgt (waarbij met ondergetekende 1 is bedoeld erflater en met ondergetekende 2 [gedaagde] ):
+In 2017 hebben erflater en [gedaagde] een overeenkomst met elkaar gesloten over de onroerende zaak gelegen aan de [adres 1] in [woonplaats]. De tussen erflater en [gedaagde] op 2 april 2017 opgemaakte onderhandse akte (hierna ook: de overeenkomst) luidt als volgt (waarbij met ondergetekende 1 is bedoeld erflater en met ondergetekende 2 [gedaagde] ):
 
 “(…)
 
@@ -117,7 +117,7 @@ Dat uitgangspunt is dat erfgenamen op geen enkele wijze worden benadeeld of bevo
 
 Komen overeen:
 
-Ondergetekende 1 (hierna “1”) en ondergetekende 2 (hierna “2”) kopen de nieuwbouwwoning in Kolhorn en vragen hiervoor een hypotheek aan;
+Ondergetekende 1 (hierna “1”) en ondergetekende 2 (hierna “2”) kopen de nieuwbouwwoning in [woonplaats] en vragen hiervoor een hypotheek aan;
 
 Uitgangspunt is dat 80 tot 90 procent marktwaarde extern wordt gefinancierd en ondergetekende 2 de lasten van deze financiering volledig draagt;
 
@@ -421,7 +421,7 @@ Daarmee komt de rechtbank toe aan de verdeling van de nalatenschap. Voor een ver
 
 4.41.
 
-Het een vierde onverdeeld aandeel in de [adres 1] ( [postcode] Kolhorn, kadastraal bekend gemeente Barsingerhorn, [kadastraalnummer] ) wordt toegedeeld aan [gedaagde] , zonder verrekening van enige waarde, en onder de voorwaarde dat [eiser] en [eiseres] binnen zes maanden na vandaag worden ontslagen uit hun hoofdelijke aansprakelijkheid voor de hypotheekschuld (die volledig door [gedaagde] dient te worden gedragen).
+Het een vierde onverdeeld aandeel in de [adres 1] ( [postcode] [woonplaats], kadastraal bekend gemeente [gemeente], [kadastraalnummer] ) wordt toegedeeld aan [gedaagde] , zonder verrekening van enige waarde, en onder de voorwaarde dat [eiser] en [eiseres] binnen zes maanden na vandaag worden ontslagen uit hun hoofdelijke aansprakelijkheid voor de hypotheekschuld (die volledig door [gedaagde] dient te worden gedragen).
 
 4.42.
 
