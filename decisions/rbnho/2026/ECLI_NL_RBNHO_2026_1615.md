@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:1615"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0110", "AR-Updates.nl 2026-0315", "VAAN-AR-Updates.nl 2026-0315", "JA 2026/54"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0110", "AR-Updates.nl 2026-0315", "VAAN-AR-Updates.nl 2026-0315", "JA 2026/54", "Jurisprudentie HSE 2026/22"]
 ---
 
 # ECLI:NL:RBNHO:2026:1615 Rechtbank Noord-Holland , 19-02-2026 / 11927989\ EJ VERZ25-14
