@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2034"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040110", "FutD 2026-0585", "V-N Vandaag 2026/663", "Sdu Nieuws Belastingzaken 2026/477", "NDFR Nieuws 2026/591"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040110", "FutD 2026-0585", "V-N Vandaag 2026/663", "Sdu Nieuws Belastingzaken 2026/477", "NDFR Nieuws 2026/591", "NTFR 2026/785 met annotatie van mr. B. Hulshof, S.J. Leening MSc"]
 ---
 
 # ECLI:NL:RBNHO:2026:2034 Rechtbank Noord-Holland , 23-02-2026 / AWB - 20 _ 2729
