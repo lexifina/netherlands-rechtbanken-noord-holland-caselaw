@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2098"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040804", "FutD 2026-0653", "NDFR Nieuws 2026/577"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040804", "FutD 2026-0653", "NDFR Nieuws 2026/577", "Belastingblad 2026/217 met annotatie van C.M. Dijkstra", "NTFR 2026/1004 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:RBNHO:2026:2098 Rechtbank Noord-Holland , 26-02-2026 / AWB - 25 _ 1884
