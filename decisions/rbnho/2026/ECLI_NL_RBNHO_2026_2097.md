@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2097"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/658", "Viditax (FutD) 2026040805", "FutD 2026-0652", "NDFR Nieuws 2026/601"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/658", "Viditax (FutD) 2026040805", "FutD 2026-0652", "NDFR Nieuws 2026/601", "V-N 2026/23.20.39", "NTFR 2026/888 met annotatie van mr. J. Hollander"]
 ---
 
 # ECLI:NL:RBNHO:2026:2097 Rechtbank Noord-Holland , 26-02-2026 / 25/1946
