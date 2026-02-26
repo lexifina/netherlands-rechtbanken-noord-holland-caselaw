@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:1938"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0080"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0080", "FJR 2026/46.46"]
 ---
 
 # ECLI:NL:RBNHO:2026:1938 Rechtbank Noord-Holland , 26-02-2026 / C/15/339496 / FA RK 23-2063
