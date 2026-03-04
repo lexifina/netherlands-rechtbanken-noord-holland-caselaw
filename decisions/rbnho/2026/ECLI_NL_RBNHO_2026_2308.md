@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2308"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031102", "NLF 2026/0487", "FutD 2026-0433", "NDFR Nieuws 2026/489"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031102", "NLF 2026/0487", "FutD 2026-0433", "NDFR Nieuws 2026/489", "NTFR 2026/738 met annotatie van mr. H. de Jong"]
 ---
 
 # ECLI:NL:RBNHO:2026:2308 Rechtbank Noord-Holland , 04-03-2026 / 24/7851
