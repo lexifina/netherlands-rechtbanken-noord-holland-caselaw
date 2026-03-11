@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2288"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0382", "Prg. 2026/126"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0382", "Prg. 2026/126", "JOR 2026/158 met annotatie van mr. drs. M.A. Wielinga Carvajal", "JONDR 2026/607"]
 ---
 
 # ECLI:NL:RBNHO:2026:2288 Rechtbank Noord-Holland , 11-03-2026 / 11408269
