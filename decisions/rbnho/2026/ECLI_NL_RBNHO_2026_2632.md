@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2632"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042204", "V-N Vandaag 2026/791"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042204", "V-N Vandaag 2026/791", "FutD 2026-0729", "NLF 2026/0856"]
 ---
 
 # ECLI:NL:RBNHO:2026:2632 Rechtbank Noord-Holland , 12-03-2026 / 25/4508
