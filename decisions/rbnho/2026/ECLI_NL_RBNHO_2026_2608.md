@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2608"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0492", "Sdu Nieuws Arbeidsrecht 2026/116"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0492", "Sdu Nieuws Arbeidsrecht 2026/116", "RAR 2026/95", "Jurisprudentie HSE 2026/33"]
 ---
 
 # ECLI:NL:RBNHO:2026:2608 Rechtbank Noord-Holland , 13-03-2026 / 12038412 \ AO VERZ  25-168
