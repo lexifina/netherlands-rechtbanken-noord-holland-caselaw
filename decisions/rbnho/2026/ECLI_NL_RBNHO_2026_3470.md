@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:3470"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-1078", "VAAN-AR-Updates.nl 2026-1078"]
 ---
 
 # ECLI:NL:RBNHO:2026:3470 Rechtbank Noord-Holland , 16-03-2026 / K/4101/12018589
