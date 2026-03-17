@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:3584"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0183", "VEAN-ERF-Updates.nl 2026-0183", "JERF Actueel 2026/116"]
 ---
 
 # ECLI:NL:RBNHO:2026:3584 Rechtbank Noord-Holland , 17-03-2026 / C/15/375702 / KG ZA 26-127
