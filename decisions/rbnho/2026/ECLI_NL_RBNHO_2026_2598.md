@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2598"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JHV 2026/16 met annotatie van mr. E.P.W. Korevaar"]
 ---
 
 # ECLI:NL:RBNHO:2026:2598 Rechtbank Noord-Holland , 18-03-2026 / C/15/351661
