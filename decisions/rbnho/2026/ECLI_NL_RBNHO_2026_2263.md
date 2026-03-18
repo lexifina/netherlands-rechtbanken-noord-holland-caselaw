@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2263"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0227", "VEAN-ERF-Updates.nl 2026-0227"]
 ---
 
 # ECLI:NL:RBNHO:2026:2263 Rechtbank Noord-Holland , 18-03-2026 / C/15/373312
