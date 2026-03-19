@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2919"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040701", "V-N Vandaag 2026/676", "FutD 2026-0637"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040701", "V-N Vandaag 2026/676", "FutD 2026-0637", "V-N 2026/25.2.1"]
 ---
 
 # ECLI:NL:RBNHO:2026:2919 Rechtbank Noord-Holland , 19-03-2026 / HAA 23/4975 en 23/4976
