@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:2808"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBP 2026/79"]
 ---
 
 # ECLI:NL:RBNHO:2026:2808 Rechtbank Noord-Holland , 19-03-2026 / 24-6042
