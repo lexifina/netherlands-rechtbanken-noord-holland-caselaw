@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:3196"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026033101", "Sdu Nieuws Belastingzaken 2026/455", "NDFR Nieuws 2026/535", "V-N Vandaag 2026/675", "FutD 2026-0618"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026033101", "Sdu Nieuws Belastingzaken 2026/455", "NDFR Nieuws 2026/535", "V-N Vandaag 2026/675", "FutD 2026-0618", "NTFR 2026/729 met annotatie van mr. F. van Horzen", "V-N 2026/28.1.1"]
 ---
 
 # ECLI:NL:RBNHO:2026:3196 Rechtbank Noord-Holland , 25-03-2026 / AWB - 25 _ 3854
