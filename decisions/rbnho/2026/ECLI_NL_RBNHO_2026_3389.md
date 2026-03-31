@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:3389"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/139", "AR-Updates.nl 2026-0593"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/139", "AR-Updates.nl 2026-0593", "RAR 2026/106"]
 ---
 
 # ECLI:NL:RBNHO:2026:3389 Rechtbank Noord-Holland , 31-03-2026 / K/4101/12078407
