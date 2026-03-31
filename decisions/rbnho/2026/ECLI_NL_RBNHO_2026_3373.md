@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:3373"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2026/9369"]
 ---
 
 # ECLI:NL:RBNHO:2026:3373 Rechtbank Noord-Holland , 31-03-2026 / HAA 24/127
