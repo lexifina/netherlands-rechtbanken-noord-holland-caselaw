@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verschoning"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:3834"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/150"]
 ---
 
 # ECLI:NL:RBNHO:2026:3834 Rechtbank Noord-Holland , 01-04-2026 / C/15/376362 HA RK 26-71
