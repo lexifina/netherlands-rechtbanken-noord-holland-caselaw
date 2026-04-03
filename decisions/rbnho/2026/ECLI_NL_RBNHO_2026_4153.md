@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:4153"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-1040", "VAAN-AR-Updates.nl 2026-1040"]
 ---
 
 # ECLI:NL:RBNHO:2026:4153 Rechtbank Noord-Holland , 03-04-2026 / K/4102/12037174
