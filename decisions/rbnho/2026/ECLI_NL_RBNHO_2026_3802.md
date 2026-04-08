@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:3802"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2026/72 met annotatie van mr. E.A.L. van Emden"]
 ---
 
 # ECLI:NL:RBNHO:2026:3802 Rechtbank Noord-Holland , 08-04-2026 / 11752791 \ CV EXPL 25-3932
