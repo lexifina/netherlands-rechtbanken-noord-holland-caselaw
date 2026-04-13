@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:4083"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/129"]
 ---
 
 # ECLI:NL:RBNHO:2026:4083 Rechtbank Noord-Holland , 13-04-2026 / 15-159534-24
