@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:4012"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0257", "VEAN-ERF-Updates.nl 2026-0257"]
 ---
 
 # ECLI:NL:RBNHO:2026:4012 Rechtbank Noord-Holland , 13-04-2026 / K/4101/12060381
