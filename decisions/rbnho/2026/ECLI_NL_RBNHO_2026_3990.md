@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:3990"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2026/162", "WR 2026/88"]
 ---
 
 # ECLI:NL:RBNHO:2026:3990 Rechtbank Noord-Holland , 14-04-2026 / K/4104/12107122
