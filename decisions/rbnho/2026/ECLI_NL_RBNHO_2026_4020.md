@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:4020"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/72"]
 ---
 
 # ECLI:NL:RBNHO:2026:4020 Rechtbank Noord-Holland , 23-04-2026 / C/15/374462
