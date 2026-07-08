@@ -1,0 +1,227 @@
+---
+ecli: "ECLI:NL:RBNHO:2026:8276"
+court: "Rechtbank Noord-Holland"
+court_code: "RBNHO"
+docket: "C/15/377807 / HA ZA 26-311"
+decided: "2026-07-08"
+published: "2026-07-07"
+type: "uitspraak"
+procedure: "Tussenuitspraak"
+subject: "Civiel recht; Burgerlijk procesrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:8276"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBNHO:2026:8276 Rechtbank Noord-Holland , 08-07-2026 / C/15/377807 / HA ZA 26-311
+
+## Inhoudsindicatie
+
+Vervroegde onteigening. Tussenvonnis. Voorschot op de schadeloosstelling. Benoeming deskundigen. Descente. Tracebesluit programma hoogfrequent spoorvervoer Alkmaar-Amsterdam.
+
+## Uitspraak
+
+RECHTBANK Noord-Holland
+
+Civiel recht
+
+Zittingsplaats Alkmaar
+
+Zaaknummer: C/15/377807 / HA ZA 26-311
+
+Vonnis van 8 juli 2026
+
+in de zaak van
+
+PRORAIL B.V.,
+
+te Utrecht,
+
+eisende partij,
+
+hierna te noemen: ProRail,
+
+advocaat: mr. H.X. Botter,
+
+tegen
+
+[gedaagde]
+,
+
+te [woonplaats] ,
+
+gedaagde partij,
+
+hierna te noemen: [gedaagde] ,
+
+advocaat: mr. E. Baljic.
+
+1
+De procedure
+
+1.1.
+
+Het verloop van de procedure blijkt uit:
+
+de dagvaarding van 21 april 2026 met producties;
+
+de stukken vermeld in artikel 23 Onteigeningswet (hierna: Ow), neergelegd ter griffie van deze rechtbank op 6 mei 2026 (akte van depot nr. 2026/1);
+
+het tegen [gedaagde] verleende verstek;
+
+de zuivering van het verstek door [gedaagde] ;
+
+de conclusie van antwoord.
+
+1.2.
+
+Ten slotte is vonnis bepaald.
+
+2
+De feiten
+
+2.1.
+
+Bij Koninklijk Besluit van 3 oktober 2024, nr. 2024002182, openbaar gemaakt in de Staatscourant van 29 oktober 2024, nummer 34038 (hierna: het KB), zijn op grond van artikel 72a Ow ten behoeve van de realisatie van het op 7 november 2023 door de Staatssecretaris van Infrastructuur en Waterstaat vastgestelde tracébesluit Programma Hoogfrequent Spoorvervoer Alkmaar-Amsterdam (hierna: het tracébesluit) meerdere percelen ter onteigening aangewezen.
+
+2.2.
+
+[gedaagde] is in het KB aangewezen als eigenaar van het in de onteigening betrokken gedeelte ter grootte van 258m² van het perceel, kadastraal bekend gemeente [plaats] , [kadastraalnummer] (totaal groot 2.101m²) zoals nader aangeduid met grondplannummer [nummer] op de bijbehorende grondplantekening. Het betreft een onbebouwd perceel grasland.
+
+2.3.
+
+ProRail heeft aan [gedaagde] € 14.332,55 als schadeloosstelling aangeboden.
+
+3
+Het geschil
+
+3.1.
+
+ProRail vordert - samengevat- dat de rechtbank bij vonnis:
+
+bij vervroeging als bedoeld in artikel 54f Ow de onteigening uitspreekt, vrij van alle lasten en rechten, van een gedeelte ter grootte van 258 m2 van het perceel kadastraal bekend gemeente [plaats] , [kadastraalnummer] (totaal groot 2.101 m²) (grondplannummer [nummer] );
+
+het door ProRail aan [gedaagde] te betalen voorschot bepaalt op 100% van de aan hem aangeboden schadeloosstelling ad € 14.332,55 (zegge: veertienduizend
+
+driehonderdtweeëndertig euro en vijfenvijftig cent);
+
+bepaalt dat ProRail geen nadere zekerheid hoeft te stellen;
+
+indien [gedaagde] het bij dit exploot aan hem gedane aanbod aanvaardt, de uiteindelijk
+
+aan hem toekomende schadeloosstelling vaststelt op € 14.332,55 (zegge:
+
+veertienduizend driehonderdtweeëndertig euro en vijfenvijftig cent) en het voornoemde bedrag derhalve niet als voorschot toekent;
+
+indien [gedaagde] het bij dit exploot aan hem gedane aanbod niet aanvaardt, het bedrag van de uiteindelijke schadeloosstelling voor [gedaagde] nader bij vonnis vaststelt en een oneven aantal deskundigen benoemt, alsmede een datum, tijdstip en locatie van de opneming van de ligging en gesteldheid van het te onteigenen perceelsgedeelte bepaalt;
+
+de data voor nederlegging van het (concept)deskundigenrapport vaststelt;
+
+de nieuws- of advertentiebladen aanwijst waarin het vonnis bij uittreksel door de griffier der rechtbank zal worden geplaatst.
+
+3.2.
+
+ProRail heeft aan haar vordering tot vervroegde onteigening ten grondslag gelegd dat zij er ten behoeve van de uitvoering van het werk belang bij heeft dat het te onteigenen perceelsgedeelte zo spoedig mogelijk tot haar vrije beschikking komt.
+
+3.2.
+
+[gedaagde] heeft de aangeboden schadeloosstelling als ongenoegzaam van de hand gewezen en zich voor het overige gerefereerd aan het oordeel van de rechtbank.
+
+4
+De beoordeling
+
+4.1.
+
+De rechtbank stelt vast dat [gedaagde] geen verweer heeft gevoerd tegen de gevorderde onteigening, behoudens wat betreft de aangeboden schadeloosstelling. Nu de bij wet voorgeschreven termijnen en formaliteiten in acht zijn genomen en de rechtbank de vordering tot vervroegde onteigening niet onrechtmatig of ongegrond voorkomt, is deze voor toewijzing vatbaar.
+
+4.2.
+
+Omdat [gedaagde] het aanbod tot schadeloosstelling heeft verworpen zal over de hoogte van het aan haar toe te kennen bedrag aan schadeloosstelling op de voet van artikel 54j lid 1 Ow een bericht van deskundigen moet worden ingewonnen.
+
+4.3.
+
+De rechtbank zal op grond van artikel 54j Ow aan drie door haar te benoemen deskundigen opdracht geven om de schadeloosstelling te begroten voor [gedaagde] en zal één van haar leden aanwijzen om, vergezeld van de griffier, als rechter-commissaris bij de opneming door de deskundigen van de ligging en de gesteldheid van het perceel aanwezig te zijn.  Bovendien zal een nieuwsblad worden aangewezen waarin de aankondiging door de griffier, als bedoeld in artikel 28 Ow, moet geschieden. Aangezien dag, tijd en plaats voor de plaatsopneming door de rechter-commissaris zullen worden bepaald, wordt de vordering van ProRail op dit punt afgewezen.
+
+4.4.
+
+ProRail heeft voorgesteld dat de rechtbank het voorschot op de schadeloosstelling bepaalt op 100% van het aangeboden bedrag, zodat het stellen van zekerheid achterwege kan blijven. Omdat [gedaagde] het bedrag van de aangeboden schadeloosstelling niet heeft aanvaard, zal de rechtbank overeenkomstig artikel 54i lid 2 Ow het voorschot voor hem vaststellen op het aangeboden bedrag en hoeft ProRail geen zekerheid te stellen.
+
+4.5.
+
+Iedere verdere beslissing wordt aangehouden.
+
+5
+De beslissing
+
+5.1.
+
+spreekt vervroegd uit de onteigening ten behoeve van de uitvoering van het tracébesluit en, ten name van ProRail, vrij van alle bestaande lasten en rechten, van een deel ter grootte van 258m² van het perceel, kadastraal bekend als gemeente [plaats] , [kadastraalnummer] (totaal groot 2.101m²)  zoals nader aangeduid met grondplannummer [nummer] op de bijbehorende grondplantekening,
+
+5.2.
+
+bepaalt het door ProRail als onteigenende partij te betalen voorschot op de schadeloosstelling van [gedaagde] op € 14.332,55 (veertienduizenddriehondertweeëndertig euro en vijfenvijftig cent), rechtstreeks te betalen aan [gedaagde] ,
+
+5.3.
+
+bepaalt dat geen zekerheid voor de voldoening van de schadeloosstelling van [gedaagde] nodig is,
+
+5.4.
+
+beveelt dat een deskundigenonderzoek zal plaats hebben ter begroting van de schadeloosstelling van [gedaagde] ,
+
+5.5.
+
+benoemt tot deskundigen aan wie dit onderzoek wordt opgedragen:
+
+1. Prof. mr. J.A.M.A. Sluysmans
+
+Van der Feltz Advocaten
+
+Javastraat 22
+
+2585 AN Den Haag
+
+2. S.H.C. van den Berg MSc MRICS RT REV RM, Register taxateur / rentmeester NVR
+
+BaseValue B.V.
+
+Mulligenweg 52
+
+8096 RB Oldebroek
+
+3. mr. S.G. van Hoogmoed RT, Rentmeester NVR
+
+Hoogstate taxateurs o/z en rentmeesters
+
+Holterweg 79
+
+7441 DD Nijverdal
+
+5.6.
+
+benoemt tot rechter-commissaris die vergezeld van de griffier bij de opneming door deskundigen tegenwoordig zal zijn, het lid van deze rechtbank mr. J.H. Gisolf,
+
+5.7.
+
+verklaart dit vonnis tot zover uitvoerbaar bij voorraad,
+
+5.8.
+
+wijst het Noordhollands Dagblad aan als nieuwsblad waarin overeenkomstig artikel 54 Ow een uittreksel van dit vonnis geplaatst dient te worden,
+
+5.9.
+
+wijst het Noordhollands Dagblad aan als nieuwsblad waarin de aankondiging door de griffier zal moeten geschieden van de door de rechter-commissaris te bepalen dag, tijd en plaats van de opneming door deskundigen van de ligging en gesteldheid van het te onteigenen perceelsgedeelte,
+
+5.10.
+
+verwijst de zaak naar de rol van 22 juli 2026 voor het opgeven van verhinderdata in de maanden oktober 2026 tot en met december 2026, waarna een datum voor een plaatsopneming door de deskundigen zal worden bepaald,
+
+5.11.
+
+wijst af de vordering tot bepaling van een dag, tijd en plaats voor de plaatsopneming,
+
+5.12.
+
+houdt iedere verdere beslissing aan.
+
+Dit vonnis is gewezen door mr. J.H. Gisolf en in het openbaar uitgesproken op 8 juli 2026.
