@@ -1,0 +1,215 @@
+---
+ecli: "ECLI:NL:RBNHO:2026:9167"
+court: "Rechtbank Noord-Holland"
+court_code: "RBNHO"
+docket: "C/15/376182"
+decided: "2026-07-21"
+published: "2026-07-22"
+type: "uitspraak"
+procedure: "Beschikking"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNHO:2026:9167"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBNHO:2026:9167 Rechtbank Noord-Holland , 21-07-2026 / C/15/376182
+
+## Inhoudsindicatie
+
+Verzoeker heeft een inzageverzoek gedaan bij Scapino op grond van de AVG. Vervolgens is hij een procedure gestart. De rechtbank is van oordeel dat er sprake is van misbruik van recht door verzoeker. Verzoeker wordt daarom niet-ontvankelijk verklaard in zijn verzoek.
+
+## Uitspraak
+
+RECHTBANK Noord-Holland
+
+Civiel recht
+
+Zittingsplaats Alkmaar
+
+Zaaknummer / rekestnummer: C/15/376182 / HA RK 26-54
+
+Beschikking van 21 juli 2026
+
+in de zaak van
+
+[verzoeker]
+,
+
+te [woonplaats] ,
+
+verzoekende partij,
+
+hierna te noemen: [verzoeker] ,
+
+voorheen vertegenwoordigd door J. Morsink, thans procederend in persoon,
+
+tegen
+
+SCAPINO RETAIL B.V. tevens handelend onder de naam SCAPINO,
+
+te Assen,
+
+verwerende partij,
+
+hierna te noemen: Scapino,
+
+advocaat: mr. H. Ellemers.
+
+De zaak in het kort
+
+[verzoeker] heeft een inzageverzoek gedaan bij Scapino op grond van de AVG. Vervolgens is hij een procedure gestart. De rechtbank is van oordeel dat er sprake is van misbruik van recht door [verzoeker] . [verzoeker] wordt daarom niet-ontvankelijk verklaard in zijn verzoek.
+
+1
+De procedure
+
+1.1.
+
+Het verloop van de procedure blijkt uit:
+
+- de dagvaarding van 28 oktober 2025, met producties;- het vonnis van de kantonrechter van 25 maart 2026;- het door Scapino op 21 mei 2025 ingediende verweerschrift, met producties;- de door [verzoeker] op 22 mei 2025 ingediende akte overlegging producties;- de mondelinge behandeling van 9 juni 2026, waarvan door de griffier aantekeningen zijn gemaakt.
+
+Tevens heeft de rechtbank kennis genomen van het namens [verzoeker] ingekomen bericht waaruit blijkt dat zijn gemachtigde J. Morsink zich aan de zaak heeft onttrokken.
+
+Op de mondelinge behandeling heeft [verzoeker] verklaard in de veronderstelling te verkeren dat hij bij akte zijn verzoek heeft verminderd. Het procesdossier bevat een dergelijke akte niet. [verzoeker] heeft hierop ter zitting mondeling zijn verzoek verminderd.
+
+1.2.
+
+De beschikking is bepaald op vandaag.
+
+2
+De feiten
+
+2.1.
+
+[verzoeker] heeft op 22 juli 2025 een e-mail gestuurd aan Scapino met daarin een inzageverzoek op grond van artikel 15 van de Algemene Verordening Gegevensbescherming (AVG).
+
+2.2.
+
+Scapino heeft op 25 juli 2025 per e-mail een ontvangstbevestiging gestuurd.
+
+2.3.
+
+[verzoeker] heeft in de periode vanaf 25 juli 2025 Scapino meerdere malen per e-mail aangemaand en gesommeerd om aan het inzageverzoek te voldoen.
+
+2.4.
+
+Op 20 mei 2026 heeft de advocaat van Scapino namens laatstgenoemde inhoudelijk op het verzoek gereageerd en aan [verzoeker] een overzicht van persoonsgegevens verstrekt.
+
+3
+Het verzoek en het verweer
+
+3.1.
+
+[verzoeker] verzoekt, na zijn verzoek te hebben verminderd, dat de rechtbank bij beschikking uitvoerbaar bij voorraad:(i) Scapino op straffe van een dwangsom veroordeelt tot het verstrekken van volledige inzage in de persoonsgegevens van [verzoeker] en (ii) Scapino veroordeelt in de proceskosten, waaronder begrepen de kosten van de dagvaarding en het griffierecht.
+
+3.2.
+
+De aanvankelijk ingediende verzoeken tot toekenning van een schadevergoeding, betaling van buitengerechtelijke kosten en veroordeling in de werkelijke proceskosten heeft [verzoeker] niet gehandhaafd.
+
+3.3.
+
+Aan het verzoek heeft [verzoeker] het volgende ten grondslag gelegd. Scapino heeft niet tijdig en niet volledig geantwoord op het door [verzoeker] op 22 juli 2025 bij Scapino ingediende verzoek tot inzage in zijn persoonsgegevens. Pas op 20 mei 2026 heeft Scapino voor het eerst inhoudelijk op het verzoek gereageerd. Dit is te laat. Bovendien is de door Scapino op 20 mei 2026 verstrekte inzage onvolledig.
+
+3.4.
+
+Scapino voert verweer.
+
+3.5.
+
+Op de stellingen van partijen wordt hierna, voor zover van belang, nader ingegaan.
+
+4
+De beoordeling
+
+4.1.
+
+De rechtbank zal [verzoeker] niet-ontvankelijk verklaren in zijn verzoek, omdat sprake is van misbruik van recht als bedoeld in artikel 3:13 van het Burgerlijk Wetboek (BW). De rechtbank komt daarom aan een inhoudelijke beoordeling van de verzoeken van [verzoeker] niet toe.
+
+4.2.
+
+De rechtbank stelt bij het oordeel dat [verzoeker] misbruik van recht maakt, het volgende voorop. Dat Scapino zich in deze procedure niet uitdrukkelijk op het standpunt heeft gesteld dat [verzoeker] misbruik van recht maakt, staat aan een ambtshalve beoordeling daarvan door de rechter niet in de weg.
+
+Deze zaak van [verzoeker] tegen Scapino staat niet op zichzelf. Bij de kantonrechter van rechtbank Noord-Holland zijn vanaf juli 2025 tot en met april 2026 ongeveer twintig zaken door [verzoeker] aanhangig gemaakt. Al deze zaken betreffen AVG-verzoeken van [verzoeker] aan verschillende bedrijven. De kantonrechter heeft al deze zaken verwezen naar de sector handel. In een vergelijkbare AVG-zaak van [verzoeker] tegen een ander bedrijf, die op 1 juni 2026 ter zitting is behandeld, heeft de rechtbank op 13 juli 2026 uitspraak gedaan. In die zaak is de rechtbank uitgebreid ingegaan op het beoordelingskader, dat ook van toepassing is in deze zaak. Daarnaar wordt dan ook uitdrukkelijk verwezen, zodat de rechtbank hieronder volstaat met een verkorte weergave daarvan. De rechtbank heeft in die zaak geoordeeld dat er sprake is van misbruik van recht door [verzoeker] en hem in zijn verzoek niet-ontvankelijk verklaard. In deze zaak komt de rechtbank tot hetzelfde oordeel.
+
+Beoordelingskader
+
+4.3.
+
+Artikel 3:13 lid 1 BW stelt dat ‘degene aan wie een bevoegdheid toekomt, deze bevoegdheid niet kan inroepen, voor zover hij haar misbruikt’. Bij het aannemen van misbruik van (proces)recht past terughoudendheid.
+
+4.4.
+
+Artikel 12 lid 5 AVG geeft de verwerkingsverantwoordelijke – onder meer – de mogelijkheid om te weigeren gevolg te geven aan kennelijk ongegronde of buitensporige verzoeken, met name vanwege het repetitieve karakter van deze verzoeken. Dit betreft gevallen van misbruik van recht. Het is aan de verwerkingsverantwoordelijke om de kennelijk ongegronde of buitensporige aard van het verzoek aan te tonen. In de EDPB Guidelines is opgenomen dat een verzoek buitensporig kan worden bevonden wanneer (bijvoorbeeld) een persoon een verzoek indient, maar tegelijkertijd aanbiedt dit verzoek in te trekken in ruil voor een of ander voordeel van de verwerkingsverantwoordelijke.
+
+4.5.
+
+Bij de beoordeling van het beroep op misbruik van recht is – onder meer – van belang de uitspraak van het Hof van Justitie van 19 maart 2026 over de toepassing van artikel 12 lid 5 AVG. Voor het bewijs van misbruik is blijkens deze uitspraak enerzijds een geheel van objectieve omstandigheden vereist en anderzijds een subjectief element, namelijk ´de bedoeling van de betrokkene om een door de Unieregeling toegekend voordeel te verkrijgen door kunstmatig de voorwaarden te creëren waaronder het recht op dat voordeel ontstaat. Voor een dergelijke kwalificatie moeten voorts alle feiten en omstandigheden van het geval in aanmerking worden genomen.´ Daarbij mag rekening worden gehouden met openbaar toegankelijke informatie waaruit blijkt dat de betrokkene stelselmatig verzoeken tot inzage van zijn persoonsgegevens en vorderingen tot schadevergoeding indient bij verschillende verwerkingsverantwoordelijken volgens een vergelijkbaar patroon.
+
+Toepassing van het beoordelingskader op deze zaak
+
+4.6.
+
+Uit het toepasselijke beoordelingskader blijkt dat de lat voor het aannemen van misbruik van recht op grond van artikel 3:13 BW, bezien in samenhang met artikel 12 lid 5 AVG, hoog ligt en dat bij het aannemen van misbruik terughoudendheid moet worden betracht. De rechtbank is echter (ook) in deze zaak van oordeel dat voldoende is gebleken van zwaarwichtige gronden die de conclusie rechtvaardigen dat [verzoeker] met zijn verzoek misbruik van recht maakt. Uit de wijze waarop [verzoeker] in dit dossier, en in andere dossiers, de procedure is gestart en met Scapino heeft gecommuniceerd, blijkt dat [verzoeker] een financieel oogmerk heeft bij zijn verzoeken en dat het hem niet daadwerkelijk gaat om de inzage in zijn persoonsgegevens en om de juistheid van deze gegevens en om de rechtmatigheid van de verwerking te controleren. Hoewel in beginsel per individuele zaak moet worden beoordeeld of sprake is van misbruik van recht, kan deze zaak niet los worden gezien van de andere vergelijkbare zaken die [verzoeker] bij de rechtbank aanhangig heeft gemaakt. Juist het patroon in de werkwijze en het procedeergedrag dat zichtbaar wordt uit deze en andere zaken draagt in belangrijke mate bij aan het oordeel dat [verzoeker] misbruik van recht maakt.
+
+4.7.
+
+Voor de motivering van haar oordeel dat sprake is van misbruik van recht verwijst de rechtbank allereerst uitdrukkelijk naar haar gemotiveerde oordeel in de onder 4.2. genoemde beschikking, waaraan – kort gezegd – het procedeergedrag en de werkwijze van [verzoeker] , en de betrokkenheid van (vermeende) gemachtigden en de rol van Webshop Juristen ten grondslag ligt. De omstandigheden die de rechtbank er in de genoemde zaak van hebben overtuigd dat er sprake is van misbruik van recht, zijn ook aanwezig in de onderhavige zaak. Zo heeft [verzoeker] ook in deze zaak al in een vroegtijdig stadium buitengerechtelijke kosten aangezegd en aangedrongen op betaling van een (schade)vergoeding, onder dreiging van een gerechtelijke procedure. Ook in deze zaak heeft [verzoeker] in de dagvaarding, zonder schriftelijke onderbouwing, een immateriële schadevergoeding, een vergoeding van buitengerechtelijke incassokosten en een vergoeding van de werkelijke proceskosten gevorderd en vervolgens zijn verzoek – zonder deugdelijke of overtuigende toelichting – verminderd tot enkel inzage in zijn persoonsgegevens op straffe van een dwangsom, waarbij van belang is dat deze vermindering in dit geval eerst ter zitting heeft plaatsgevonden. Verder heeft [verzoeker] ook in deze zaak om vergoeding van de proceskosten verzocht, waarbij het aanvankelijk ging om de werkelijke proceskosten, terwijl de rechtbank ook hier - onder verwijzing naar de uitspraak van de rechtbank Amsterdam van 2 mei 2024 - haar twijfels heeft over het daadwerkelijk bestaan van gemachtigde Morsink. In de onder 4.2 genoemde beschikking heeft de rechtbank daarover geoordeeld dat [verzoeker] het bestaan van gemachtigde Donkersloot niet aannemelijk heeft weten te maken. Dat is ook hier het geval voor wat betreft gemachtigde Morsink, waarbij van belang is dat ook in deze zaak Morsink zonder goede of aannemelijke reden niet ter zitting is verschenen.
+
+4.8.
+
+Zoals ook in de onder 4.2. genoemde beschikking is overwogen heeft [verzoeker] de omschreven handelwijze niet alleen gehanteerd met betrekking tot zijn inzageverzoek aan Scapino, maar ook in andere zaken. Dit betreft de andere AVG-verzoeken van [verzoeker] tegen verschillende andere bedrijven die op 1 en 9 juni 2026 tijdens een zitting zijn behandeld, alsook de ongeveer twintig andere zaken die bij de rechtbank aanhangig zijn. [verzoeker] heeft in deze zaken een vergelijkbare communicatie en insteek van de procedure gehad als in deze zaak en – met gebruikmaking van nagenoeg identieke dagvaardingen en stukken – een hoge schadevergoeding en/of een hoge kostenvergoeding gevorderd. Vrijwel alle zaken die aanhangig zijn bij deze en andere rechtbanken vinden hun oorsprong in een online bestelling van [verzoeker] of registratie vanwege andere redenen, enige tijd later gevolgd door een AVG-verzoek. Ook in die zaken heeft [verzoeker] al in een vroeg stadium en herhaaldelijk aangedrongen op de betaling van een vergoeding door de betrokken bedrijven en ook in die zaken, althans in de zaken die op 1 en 9 juni 2026 op zitting zijn behandeld, heeft [verzoeker] kort voor de zitting zonder nadere toelichting zijn verzoek aangepast en verminderd. Daarbij is van belang dat in de meeste van deze zaken eveneens een beroep op misbruik van recht is gedaan.
+
+4.9.
+
+De rechtbank is er daarnaast ambtshalve mee bekend dat in ieder geval bij de rechtbanken Rotterdam en Midden-Nederland vergelijkbare zaken aanhangig zijn gemaakt. Tijdens de mondelinge behandeling in de onder 4.2. bedoelde zaak heeft [verzoeker] desgevraagd meegedeeld dat hij in de afgelopen anderhalf jaar zo’n 90 inzageverzoeken op grond van de AVG heeft gedaan. De bedrijven die weigerden aan dat verzoek te voldoen of geen dan wel onvoldoende inzage hebben gegeven, zijn de bedrijven waartegen hij uiteindelijk een procedure is gestart.
+
+4.10.
+
+Tot slot neemt de rechtbank ook in deze zaak in aanmerking dat de werkwijze en proceshouding van [verzoeker] ook door andere rechters is gesignaleerd. Dit heeft geleid tot afwijzing van de vordering en in sommige gevallen zelfs tot een veroordeling in de werkelijke proceskosten, zoals ook is vastgesteld in de onder 4.2. genoemde beslissing.
+
+4.11.
+
+Uit het vorenstaande kan niet anders worden geconcludeerd dan dat [verzoeker] met gebruikmaking van de mogelijkheden van de AVG welbewust een situatie heeft geconstrueerd die het hem mogelijk maakt van de betrokken bedrijven een schadevergoeding te verkrijgen. Er is dus sprake van een patroon. Daarbij kan de rechtbank zich ook in deze zaak niet aan de indruk onttrekken dat [verzoeker] misbruik maakt van de onbekendheid van deze bedrijven met de inhoud en de werking van de AVG en van de vrees van die bedrijven om tot hoge vergoedingen veroordeeld te worden.
+
+Conclusie
+
+4.12.
+
+Omdat [verzoeker] misbruik maakt van recht, zal de rechtbank [verzoeker] in zijn verzoek niet-ontvankelijk verklaren. Aan een inhoudelijke beoordeling van het verzoek wordt dan ook niet toegekomen.
+
+4.13.
+
+[verzoeker] zal als de in het ongelijk gestelde partij in de proceskosten van Scapino worden veroordeeld. De rechtbank begroot deze kosten als volgt:
+
+- salaris advocaat		€ 653,00 - nakosten			€ 189,00, te vermeerderen met eventuele betekeningskosten
+
+- totaal				€ 842,00
+
+5
+De beslissing
+
+De rechtbank
+
+5.1.
+
+verklaart [verzoeker] niet-ontvankelijk in zijn verzoeken;
+
+5.2.
+
+veroordeelt in de proceskosten van Scapino, te begroten op € 842,00, te betalen binnen veertien dagen na aanschrijving daartoe, te vermeerderen met de kosten van betekening als [verzoeker] niet tijdig aan de veroordelingen voldoet en de beschikking daarna wordt betekend.
+
+Deze beschikking is gegeven door mr. B. de Metz en in het openbaar uitgesproken op 21 juli 2026.
+
+ECLI:NL:RBNHO:2026:8285.
+
+De EDPB Guidelines zijn richtsnoeren die de European Data Protection Board (EDPB) heeft gepubliceerd en waarin verschillende onderwerpen uit de AVG worden verduidelijkt.
+
+Aantekening 190 van EDPB Guidelines.
+
+Vgl. Afdeling bestuursrechtspraak van de Raad van State 24 augustus 2022, ECLI:NL:RVS:2022:2403, r.o. 5.4.
+
+Rechtbank Amsterdam 2 mei 2024, ECLI:NL:RBAMS:2024:2774.
+
+R.o. 4.24.
+
+Rechtbank Amsterdam 2 mei 2024, ECLI:NL:RBAMS:2024:2774, rechtbank Rotterdam 21 november 2025, ECLI:NL:RBROT:2025:13631, rechtbank Noord-Holland 24 december 2025, ECLI:NL:RBNHO:2025:15801, rechtbank Noord-Holland 19 januari 2024, ECLI:NL:RBROT:2024:299, rechtbank Noord-Holland 16 juli 2025, ECLI:NL:RBNHO:2025:7793 en rechtbank Noord-Holland 17 juni 2026, ECLI:NL:RBNHO:2026:6889.
