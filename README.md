@@ -1,5 +1,7 @@
 # Dutch case law: the rechtbanken (district courts): noord holland
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Rechtbank Noord-Holland (with the former Rechtbanken Haarlem and Alkmaar), Netherlands, which global-law reads at `netherlands/rechtbanken-noord-holland/caselaw/`.
+
 Every decision of the rechtbanken (district courts): noord holland that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 39,194 decisions from 1997-04-04 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/rechtbanken-noord-holland/caselaw`.
